@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited by RMsoft -->
+<!-- IKK Race Calendar 2017 -->
+<!-- v2.0 -->
+<!-- + Add # to series to gray out -->
+<!-- + Remove # from country/result to enable link -->
+
+<race>
+    <series>NKH</series>
+    <circuit>1 Roosendaal</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=1982</country>
+    <race_date>04-03-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>De Stok 3, 4703 SZ Roosendaal</broadcast1_time_start>
+    <broadcast1_time_end>0165-570777</broadcast1_time_end>
+    <broadcast2_channel>http://www.kcr.nl</broadcast2_channel>
+    <broadcast2_time_start>Kart Centre Roosendaal</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>2 Middelburg</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=1985</country>
+    <race_date>25-03-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Arnesteinweg 19, 4338 PD Middelburg</broadcast1_time_start>
+    <broadcast1_time_end>0118-617475</broadcast1_time_end>
+    <broadcast2_channel>http://www.kartingzeeland.nl</broadcast2_channel>
+    <broadcast2_time_start>Indoor Karting Middelburg</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>3 Eindhoven</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=1990</country>
+    <race_date>15-04-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Vijfkamplaan 18, 5624 EB Eindhoven</broadcast1_time_start>
+    <broadcast1_time_end>040-2480445</broadcast1_time_end>
+    <broadcast2_channel>http://www.hezemans.nl</broadcast2_channel>
+    <broadcast2_time_start>Hezemans Indoor Karting</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>4 Genk</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=1998</country>
+    <race_date>20-05-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Damstraat 1, 3600 Genk</broadcast1_time_start>
+    <broadcast1_time_end>+32 89658182</broadcast1_time_end>
+    <broadcast2_channel>http://www.kartinggenk.be</broadcast2_channel>
+    <broadcast2_time_start>Karting Genk</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>5 Oldenzaal</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=2006</country>
+    <race_date>10-06-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Bornsedijk 86, 7576 PG Oldenzaal</broadcast1_time_start>
+    <broadcast1_time_end>0541-514241</broadcast1_time_end>
+    <broadcast2_channel>http://kartbaanoldenzaal.nl</broadcast2_channel>
+    <broadcast2_time_start>Kartbaan Oldenzaal</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>6 Oldenzaal</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=2011</country>
+    <race_date>08-07-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Bornsedijk 86, 7576 PG Oldenzaal</broadcast1_time_start>
+    <broadcast1_time_end>0541-514241</broadcast1_time_end>
+    <broadcast2_channel>http://kartbaanoldenzaal.nl</broadcast2_channel>
+    <broadcast2_time_start>Kartbaan Oldenzaal</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>7 Swalmen</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=2017</country>
+    <race_date>02-09-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Bosstraat 99, 6071 PX Swalmen</broadcast1_time_start>
+    <broadcast1_time_end>0475-507878</broadcast1_time_end>
+    <broadcast2_channel>http://www.euroindoorkarting.com</broadcast2_channel>
+    <broadcast2_time_start>Euro Indoorkarting Swalmen</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>8 Nijverdal</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=2026</country>
+    <race_date>30-09-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Energiestraat 6, 7442 DA Nijverdal</broadcast1_time_start>
+    <broadcast1_time_end>0548-621003</broadcast1_time_end>
+    <broadcast2_channel>http://www.kartplaza.nl</broadcast2_channel>
+    <broadcast2_time_start>Kartplaza Nijverdal</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>9 Nijmegen</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=2030</country>
+    <race_date>28-10-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Energieweg 102, 6541 CZ Nijmegen</broadcast1_time_start>
+    <broadcast1_time_end>024-3788544</broadcast1_time_end>
+    <broadcast2_channel>https://www.anackarting.nl</broadcast2_channel>
+    <broadcast2_time_start>ANAC Karting</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>10 Genk</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=2034</country>
+    <race_date>18-11-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Damstraat 1, 3600 Genk</broadcast1_time_start>
+    <broadcast1_time_end>+32 89658182</broadcast1_time_end>
+    <broadcast2_channel>http://www.kartinggenk.be</broadcast2_channel>
+    <broadcast2_time_start>Karting Genk</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
+
+<race>
+    <series>NKH</series>
+    <circuit>11 Middelburg</circuit>
+    <country>http://www.kartlife.nl/viewtopic.php?id=2047</country>
+    <race_date>09-12-2017</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>http://www.rmsoft.nu/android/Tijdschema_NKH_2017.jpg</broadcast1_channel>
+    <broadcast1_time_start>Arnesteinweg 19, 4338 PD Middelburg</broadcast1_time_start>
+    <broadcast1_time_end>0118-617475</broadcast1_time_end>
+    <broadcast2_channel>http://www.kartingzeeland.nl</broadcast2_channel>
+    <broadcast2_time_start>Indoor Karting Middelburg</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+<!-- /race -->
