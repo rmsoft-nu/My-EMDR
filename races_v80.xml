@@ -2852,7 +2852,7 @@
 <!-- /race -->
 <race>
     <series>$F1</series>
-    <circuit>* Please upgrade to v9.x for 2022 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
     <country>Australia</country>
     <race_date>****</race_date>
     <race_time>****</race_time>
@@ -2884,7 +2884,7 @@
 <!-- /race -->
 <race>
     <series>$DTM</series>
-    <circuit>* Please upgrade to v9.x for 2022 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
     <country>Germany</country>
     <race_date>****</race_date>
     <race_time>****</race_time>
@@ -2916,7 +2916,7 @@
 <!-- /race -->
 <race>
     <series>$WTCR</series>
-    <circuit>* Please upgrade to v9.x for 2022 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
     <country>Argentina</country>
     <race_date>****</race_date>
     <race_time>****</race_time>
@@ -2947,7 +2947,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race --><race>
     <series>$WEC</series>
-    <circuit>* Please upgrade to v9.x for 2022 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
     <country>United Kingdom</country>
     <race_date>****</race_date>
     <race_time>****</race_time>
@@ -2978,7 +2978,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race --><race>
     <series>$Formula E</series>
-    <circuit>* Please upgrade to v9.x for 2022 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
     <country>Chile</country>
     <race_date>****</race_date>
     <race_time>****</race_time>
