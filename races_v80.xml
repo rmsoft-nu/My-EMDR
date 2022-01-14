@@ -8,7 +8,7 @@
     <series>$Other eSports IndyCar</series>
     <circuit>Indianapolis</circuit>
     <country>USA</country>
-    <race_date>02-05-2021</race_date>
+    <race_date>02-05-2022</race_date>
     <race_time>20:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -25,7 +25,7 @@
     <series>$Other eSports WTCR</series>
     <circuit>Sepang</circuit>
     <country>Malaysia</country>
-    <race_date>18-05-2021</race_date>
+    <race_date>18-05-2022</race_date>
     <race_time>19:30</race_time>
     <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
     <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
@@ -42,7 +42,7 @@
     <series>$Other eSports DTM</series>
     <circuit>- TBD</circuit>
     <country>TBD</country>
-    <race_date>31-05-2021</race_date>
+    <race_date>31-05-2022</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
     <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
@@ -59,7 +59,7 @@
     <series>$Other eSports V8 Supercars</series>
     <circuit>Bathurst</circuit>
     <country>Australia</country>
-    <race_date>10-06-2021</race_date>
+    <race_date>10-06-2022</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
     <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
@@ -76,7 +76,7 @@
     <series>$Other eSports IMSA</series>
     <circuit>Watkins Glen</circuit>
     <country>USA</country>
-    <race_date>11-06-2021</race_date>
+    <race_date>11-06-2022</race_date>
     <race_time>23:55</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/channel/UCPEcqkRG-kf2Vk6Rn_2WZSQ</broadcast1_time_start>
@@ -93,7 +93,7 @@
     <series>$Other eSports</series>
     <circuit>Le Mans 24 hrs</circuit>
     <country>France</country>
-    <race_date>13-06-2021</race_date>
+    <race_date>13-06-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
     <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
@@ -110,7 +110,7 @@
     <series>$Other eSports F1</series>
     <circuit>Montreal</circuit>
     <country>Canada</country>
-    <race_date>14-06-2021</race_date>
+    <race_date>14-06-2022</race_date>
     <race_time>19:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -127,7 +127,7 @@
     <series>$Other eSports W Series</series>
     <circuit>Silverstone</circuit>
     <country>United Kingdom</country>
-    <race_date>13-08-2021</race_date>
+    <race_date>13-08-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/channel/UCJLYYJeMwhH_zgerqWXZSpw</broadcast1_time_start>
@@ -144,7 +144,7 @@
     <series>$Other eSports EuroNASCAR</series>
     <circuit>Zolder</circuit>
     <country>Belgium</country>
-    <race_date>14-07-2021</race_date>
+    <race_date>14-07-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
     <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
@@ -164,13 +164,13 @@
     <series>Other 24H Series</series>
     <circuit>Dubai 24 hrs</circuit>
     <country>United Arab Emirates</country>
-    <race_date>15-01-2021</race_date>
+    <race_date>15-01-2022</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (24H Series)</broadcast2_channel>
-    <broadcast2_time_start>https://www.24hseries.com/races/hankook-24h-dubai-2021</broadcast2_time_start>
+    <broadcast2_time_start>https://www.24hseries.com/races/hankook-24h-dubai-2022</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://livetiming.getraceresults.com/24hseries</broadcast3_time_start>
@@ -181,13 +181,13 @@
     <series>$Formula E</series>
     <circuit>Santiago</circuit>
     <country>Chile</country>
-    <race_date>16-01-2021</race_date>
+    <race_date>16-01-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (16-01-2021) 20:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (16-01-2022) 20:00</broadcast1_time_start>
     <broadcast1_time_end>21:00</broadcast1_time_end>
     <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (17-01-2021) 20:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (17-01-2022) 20:00</broadcast2_time_start>
     <broadcast2_time_end>21:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -198,7 +198,7 @@
     <series>Other IMSA</series>
     <circuit>Daytona 24 hrs</circuit>
     <country>USA</country>
-    <race_date>30-01-2021</race_date>
+    <race_date>30-01-2022</race_date>
     <race_time>19:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -217,7 +217,7 @@
     <series>$Other GT</series>
     <circuit>Bathurst 12 hrs</circuit>
     <country>Australia</country>
-    <race_date>01-02-2021</race_date>
+    <race_date>01-02-2022</race_date>
     <race_time>19:45</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>http://www.bathurst12hour.com.au/streams-tv/international-streaming</broadcast1_time_start>
@@ -234,7 +234,7 @@
     <series>$Other ALMS</series>
     <circuit>Sepang 4 hrs</circuit>
     <country>Malaysia</country>
-    <race_date>16-02-2021</race_date>
+    <race_date>16-02-2022</race_date>
     <race_time>09:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -251,7 +251,7 @@
     <series>$Other ALMS</series>
     <circuit>Buriram 4 hrs</circuit>
     <country>Thailand</country>
-    <race_date>23-02-2021</race_date>
+    <race_date>23-02-2022</race_date>
     <race_time>05:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -267,11 +267,11 @@
     <series>$WEC</series>
     <circuit>Austin 6 hrs</circuit>
     <country>USA</country>
-    <race_date>23-02-2021</race_date>
+    <race_date>23-02-2022</race_date>
     <race_time>19:00</race_time>
     <broadcast1_channel>Eurosport 2</broadcast1_channel>
-    <broadcast1_time_start>(23-02-2021) 18:50</broadcast1_time_start>
-    <broadcast1_time_end>(24-02-2021) 01:30</broadcast1_time_end>
+    <broadcast1_time_start>(23-02-2022) 18:50</broadcast1_time_start>
+    <broadcast1_time_end>(24-02-2022) 01:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -284,13 +284,13 @@
     <series>Formula E</series>
     <circuit>Riyadh</circuit>
     <country>Saudi Arabia</country>
-    <race_date>26-02-2021</race_date>
+    <race_date>26-02-2022</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (26-02-2021) 17:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (26-02-2022) 17:30</broadcast1_time_start>
     <broadcast1_time_end>19:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (27-02-2021) 17:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (27-02-2022) 17:30</broadcast2_time_start>
     <broadcast2_time_end>19:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -303,13 +303,13 @@
     <series>$Other V8 Supercars</series>
     <circuit>Adelaide 500</circuit>
     <country>Australia</country>
-    <race_date>03-03-2021</race_date>
+    <race_date>03-03-2022</race_date>
     <race_time>5:50</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (03-03-2021) 5:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (03-03-2022) 5:30</broadcast1_time_start>
     <broadcast1_time_end>8:00</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (04-03-2021) 5:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (04-03-2022) 5:30</broadcast2_time_start>
     <broadcast2_time_end>8:00</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>http://www.supercars.com/live-timing</broadcast3_time_start>
@@ -320,7 +320,7 @@
     <series>Other GT WC America</series>
     <circuit>Sonoma</circuit>
     <country>USA</country>
-    <race_date>06-03-2021</race_date>
+    <race_date>06-03-2022</race_date>
     <race_time>23:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -337,7 +337,7 @@
     <series>$Other 24H Series</series>
     <circuit>Silverstone 24 hrs</circuit>
     <country>United Kingdom</country>
-    <race_date>10-03-2021</race_date>
+    <race_date>10-03-2022</race_date>
     <race_time>11:30</race_time>
     <broadcast1_channel>#Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -354,7 +354,7 @@
     <series>$Other GT4 America</series>
     <circuit>St. Petersburg</circuit>
     <country>USA</country>
-    <race_date>14-03-2021</race_date>
+    <race_date>14-03-2022</race_date>
     <race_time>21:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -371,11 +371,11 @@
     <series>$WEC</series>
     <circuit>Sebring 1000 mi.</circuit>
     <country>USA</country>
-    <race_date>20-03-2021</race_date>
+    <race_date>20-03-2022</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(20-03-2021) 20:45</broadcast1_time_start>
-    <broadcast1_time_end>(21-03-2021) 05:30</broadcast1_time_end>
+    <broadcast1_time_start>(20-03-2022) 20:45</broadcast1_time_start>
+    <broadcast1_time_end>(21-03-2022) 05:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -388,7 +388,7 @@
     <series>$Formula E</series>
     <circuit>Sanya</circuit>
     <country>China</country>
-    <race_date>21-03-2021</race_date>
+    <race_date>21-03-2022</race_date>
     <race_time>08:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>07:45</broadcast1_time_start>
@@ -405,7 +405,7 @@
     <series>Other IMSA</series>
     <circuit>Sebring 12 hrs</circuit>
     <country>USA</country>
-    <race_date>20-03-2021</race_date>
+    <race_date>20-03-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -422,7 +422,7 @@
     <series>F1</series>
     <circuit>Sakhir</circuit>
     <country>Bahrain</country>
-    <race_date>28-03-2021</race_date>
+    <race_date>20-03-2022</race_date>
     <race_time>17:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -438,7 +438,7 @@
     <series>$Other V8 Supercars</series>
     <circuit>Tasmania</circuit>
     <country>Australia</country>
-    <race_date>29-03-2021</race_date>
+    <race_date>29-03-2022</race_date>
     <race_time>06:00</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
     <broadcast1_time_start>05:05</broadcast1_time_start>
@@ -457,7 +457,7 @@
     <series>Other eSports eX Prix</series>
     <circuit>Sebring</circuit>
     <country>USA</country>
-    <race_date>01-04-2021</race_date>
+    <race_date>01-04-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -474,7 +474,7 @@
     <series>$Other Super Formula</series>
     <circuit>Suzuka</circuit>
     <country>Japan</country>
-    <race_date>05-04-2021</race_date>
+    <race_date>05-04-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -490,7 +490,7 @@
     <series>$F1</series>
     <circuit>Hanoi</circuit>
     <country>Vietnam</country>
-    <race_date>05-04-2021</race_date>
+    <race_date>05-04-2022</race_date>
     <race_time>09:10</race_time>
     <broadcast1_channel>#RTL Television</broadcast1_channel>
     <broadcast1_time_start>07:00</broadcast1_time_start>
@@ -507,7 +507,7 @@
     <series>$Other GT WC Asia</series>
     <circuit>Sepang</circuit>
     <country>Malaysia</country>
-    <race_date>06-04-2021</race_date>
+    <race_date>06-04-2022</race_date>
     <race_time>10:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -523,13 +523,13 @@
     <series>$Other GT WC Europe</series>
     <circuit>Zolder</circuit>
     <country>Belgium</country>
-    <race_date>07-04-2021</race_date>
+    <race_date>07-04-2022</race_date>
     <race_time>15:25</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>#Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 (08-04-2021) 13:15</broadcast2_time_start>
+    <broadcast2_time_start>R2 (08-04-2022) 13:15</broadcast2_time_start>
     <broadcast2_time_end>14:45</broadcast2_time_end>
     <broadcast3_channel>#Internet</broadcast3_channel>
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
@@ -540,13 +540,13 @@
     <series>Formula E</series>
     <circuit>Rome</circuit>
     <country>Italy</country>
-    <race_date>10-04-2021</race_date>
+    <race_date>10-04-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (10-04-2021) 15:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (10-04-2022) 15:30</broadcast1_time_start>
     <broadcast1_time_end>17:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (11-04-2021) 12:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (11-04-2022) 12:30</broadcast2_time_start>
     <broadcast2_time_end>14:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -556,7 +556,7 @@
     <series>$F1</series>
     <circuit>Shanghai</circuit>
     <country>China</country>
-    <race_date>11-04-2021</race_date>
+    <race_date>11-04-2022</race_date>
     <race_time>08:10</race_time>
     <broadcast1_channel>#RTL Television</broadcast1_channel>
     <broadcast1_time_start>07:00</broadcast1_time_start>
@@ -573,7 +573,7 @@
     <series>$Other IMSA</series>
     <circuit>Long Beach</circuit>
     <country>USA</country>
-    <race_date>14-04-2021</race_date>
+    <race_date>14-04-2022</race_date>
     <race_time>01:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -589,7 +589,7 @@
     <series>$Other GT WC Europe</series>
     <circuit>Monza 3 hrs</circuit>
     <country>Italy</country>
-    <race_date>14-04-2021</race_date>
+    <race_date>14-04-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>15:00</broadcast1_time_start>
@@ -606,7 +606,7 @@
     <series>Other ELMS</series>
     <circuit>Barcelona 4 hrs</circuit>
     <country>Spain</country>
-    <race_date>18-04-2021</race_date>
+    <race_date>18-04-2022</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -622,7 +622,7 @@
     <series>F1</series>
     <circuit>Imola</circuit>
     <country>Italy</country>
-    <race_date>18-04-2021</race_date>
+    <race_date>18-04-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>RTL Television</broadcast1_channel>
     <broadcast1_time_start>13:30</broadcast1_time_start>
@@ -638,7 +638,7 @@
     <series>$Formula E</series>
     <circuit>Paris</circuit>
     <country>France</country>
-    <race_date>18-04-2021</race_date>
+    <race_date>18-04-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>16:00</broadcast1_time_start>
@@ -655,7 +655,7 @@
     <series>$Other British GT</series>
     <circuit>Oulton Park</circuit>
     <country>United Kingdom</country>
-    <race_date>22-04-2021</race_date>
+    <race_date>22-04-2022</race_date>
     <race_time>12:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -672,13 +672,13 @@
     <series>Formula E</series>
     <circuit>Valencia</circuit>
     <country>Spain</country>
-    <race_date>24-04-2021</race_date>
+    <race_date>24-04-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-04-2021) 14:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (24-04-2022) 14:30</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-04-2021) 13:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (25-04-2022) 13:30</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -688,7 +688,7 @@
     <series>Other Stock Car V8 Brasil</series>
     <circuit>Goiânia</circuit>
     <country>Brazil</country>
-    <race_date>25-04-2021</race_date>
+    <race_date>25-04-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -707,7 +707,7 @@
     <series>WEC</series>
     <circuit>Spa-Franc. 6 hrs</circuit>
     <country>Belgium</country>
-    <race_date>01-05-2021</race_date>
+    <race_date>01-05-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>13:15</broadcast1_time_start>
@@ -723,7 +723,7 @@
     <series>Other GT WC America</series>
     <circuit>Austin</circuit>
     <country>USA</country>
-    <race_date>01-05-2021</race_date>
+    <race_date>01-05-2022</race_date>
     <race_time>20:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -739,7 +739,7 @@
     <series>F1</series>
     <circuit>Portimão</circuit>
     <country>Portugal</country>
-    <race_date>02-05-2021</race_date>
+    <race_date>02-05-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -756,7 +756,7 @@
     <series>$Formula E</series>
     <circuit>Seoul</circuit>
     <country>South Korea</country>
-    <race_date>03-05-2021</race_date>
+    <race_date>03-05-2022</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>09:00</broadcast1_time_start>
@@ -772,7 +772,7 @@
     <series>$Other Super GT</series>
     <circuit>Fuji 500 km</circuit>
     <country>Japan</country>
-    <race_date>04-05-2021</race_date>
+    <race_date>04-05-2022</race_date>
     <race_time>07:20</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -788,7 +788,7 @@
     <series>$Other GT WC Europe</series>
     <circuit>Brands Hatch</circuit>
     <country>United Kingdom</country>
-    <race_date>05-05-2021</race_date>
+    <race_date>05-05-2022</race_date>
     <race_time>13:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -804,7 +804,7 @@
     <series>$Other V8 Supercars</series>
     <circuit>Perth</circuit>
     <country>Australia</country>
-    <race_date>06-05-2021</race_date>
+    <race_date>06-05-2022</race_date>
     <race_time>8:45</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -821,7 +821,7 @@
     <series>Formula E</series>
     <circuit>Monte Carlo</circuit>
     <country>Monaco</country>
-    <race_date>08-05-2021</race_date>
+    <race_date>08-05-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>15:30</broadcast1_time_start>
@@ -837,7 +837,7 @@
     <series>F1</series>
     <circuit>Barcelona</circuit>
     <country>Spain</country>
-    <race_date>09-05-2021</race_date>
+    <race_date>09-05-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>RTL Television</broadcast1_channel>
     <broadcast1_time_start>14:00</broadcast1_time_start>
@@ -854,7 +854,7 @@
     <series>$Other GT WC Asia</series>
     <circuit>Buriram</circuit>
     <country>Thailand</country>
-    <race_date>11-05-2021</race_date>
+    <race_date>11-05-2022</race_date>
     <race_time>10:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -871,7 +871,7 @@
     <series>Other ELMS</series>
     <circuit>Red Bull Ring 4 hrs</circuit>
     <country>Austria</country>
-    <race_date>16-05-2021</race_date>
+    <race_date>16-05-2022</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -887,7 +887,7 @@
     <series>Other IMSA</series>
     <circuit>Mid-Ohio</circuit>
     <country>USA</country>
-    <race_date>16-05-2021</race_date>
+    <race_date>16-05-2022</race_date>
     <race_time>19:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -904,7 +904,7 @@
     <series>$Other GT WC America</series>
     <circuit>Motorsport Park</circuit>
     <country>Canada</country>
-    <race_date>18-05-2021</race_date>
+    <race_date>18-05-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -920,7 +920,7 @@
     <series>$Other Super Formula</series>
     <circuit>Autopolis</circuit>
     <country>Japan</country>
-    <race_date>19-05-2021</race_date>
+    <race_date>19-05-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -936,7 +936,7 @@
     <series>$Other GT WC Europe</series>
     <circuit>Silverstone 3 hrs</circuit>
     <country>United Kingdom</country>
-    <race_date>20-05-2021</race_date>
+    <race_date>20-05-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -953,7 +953,7 @@
     <series>$Formula E</series>
     <circuit>Marrakech</circuit>
     <country>Morocco</country>
-    <race_date>22-05-2021</race_date>
+    <race_date>22-05-2022</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>14:45</broadcast1_time_start>
@@ -969,7 +969,7 @@
     <series>$WTCR</series>
     <circuit>Slovakiaring</circuit>
     <country>Slovakia</country>
-    <race_date>23-05-2021</race_date>
+    <race_date>23-05-2022</race_date>
     <race_time>09:15</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 09:00</broadcast1_time_start>
@@ -985,7 +985,7 @@
     <series>F1</series>
     <circuit>Monte Carlo</circuit>
     <country>Monaco</country>
-    <race_date>23-05-2021</race_date>
+    <race_date>23-05-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1001,7 +1001,7 @@
     <series>$Other Super GT</series>
     <circuit>Suzuka 300 km</circuit>
     <country>Japan</country>
-    <race_date>26-05-2021</race_date>
+    <race_date>26-05-2022</race_date>
     <race_time>07:20</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1018,7 +1018,7 @@
     <series>$Other IndyCar</series>
     <circuit>Indianapolis 500</circuit>
     <country>USA</country>
-    <race_date>28-05-2021</race_date>
+    <race_date>28-05-2022</race_date>
     <race_time>18:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1034,13 +1034,13 @@
     <series>$DTM</series>
     <circuit>Igora Drive</circuit>
     <country>Russia</country>
-    <race_date>29-05-2021</race_date>
+    <race_date>29-05-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (29-05-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (29-05-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (30-05-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (30-05-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1050,7 +1050,7 @@
     <series>Other GT WC Europe</series>
     <circuit>Paul Ricard 1000 km</circuit>
     <country>France</country>
-    <race_date>29-05-2021</race_date>
+    <race_date>29-05-2022</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1069,7 +1069,7 @@
     <series>$Formula E</series>
     <circuit>Jakarta</circuit>
     <country>Indonesia</country>
-    <race_date>06-06-2021</race_date>
+    <race_date>06-06-2022</race_date>
     <race_time>06:30</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>16:15</broadcast1_time_start>
@@ -1085,7 +1085,7 @@
     <series>$WTCR</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
-    <race_date>05-06-2021</race_date>
+    <race_date>05-06-2022</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 09:00</broadcast1_time_start>
@@ -1101,7 +1101,7 @@
     <series>Other 24 hrs</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
-    <race_date>05-06-2021</race_date>
+    <race_date>05-06-2022</race_date>
     <race_time>14:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1117,7 +1117,7 @@
     <series>Other GT WC America</series>
     <circuit>VIRginia Raceway</circuit>
     <country>USA</country>
-    <race_date>05-06-2021</race_date>
+    <race_date>05-06-2022</race_date>
     <race_time>19:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1133,7 +1133,7 @@
     <series>Other ELMS</series>
     <circuit>Le Castellet 4 hrs</circuit>
     <country>France</country>
-    <race_date>06-06-2021</race_date>
+    <race_date>06-06-2022</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1149,7 +1149,7 @@
     <series>F1</series>
     <circuit>Baku</circuit>
     <country>Azerbaijan</country>
-    <race_date>06-06-2021</race_date>
+    <race_date>06-06-2022</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1166,7 +1166,7 @@
     <series>Other IMSA</series>
     <circuit>Detroit</circuit>
     <country>USA</country>
-    <race_date>12-06-2021</race_date>
+    <race_date>12-06-2022</race_date>
     <race_time>23:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1182,7 +1182,7 @@
     <series>WEC</series>
     <circuit>Portimão 8 hrs</circuit>
     <country>Portugal</country>
-    <race_date>13-06-2021</race_date>
+    <race_date>13-06-2022</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:00</broadcast1_time_start>
@@ -1198,7 +1198,7 @@
     <series>$F1</series>
     <circuit>Montreal</circuit>
     <country>Canada</country>
-    <race_date>13-06-2021</race_date>
+    <race_date>13-06-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1215,7 +1215,7 @@
     <series>Other GT WC Europe</series>
     <circuit>Zandvoort</circuit>
     <country>Netherlands</country>
-    <race_date>19-06-2021</race_date>
+    <race_date>19-06-2022</race_date>
     <race_time>13:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1231,13 +1231,13 @@
     <series>DTM</series>
     <circuit>Monza</circuit>
     <country>Italy</country>
-    <race_date>19-06-2021</race_date>
+    <race_date>19-06-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (27-06-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (27-06-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (28-06-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (28-06-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1247,13 +1247,13 @@
     <series>Formula E</series>
     <circuit>Puebla</circuit>
     <country>Mexico</country>
-    <race_date>19-06-2021</race_date>
+    <race_date>19-06-2022</race_date>
     <race_time>22:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (19-06-2021) 22:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (19-06-2022) 22:30</broadcast1_time_start>
     <broadcast1_time_end>23:30</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (20-06-2021) 22:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (20-06-2022) 22:30</broadcast2_time_start>
     <broadcast2_time_end>23:30</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1263,7 +1263,7 @@
     <series>F1</series>
     <circuit>Paul Ricard</circuit>
     <country>France</country>
-    <race_date>20-06-2021</race_date>
+    <race_date>20-06-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1279,7 +1279,7 @@
     <series>$Other GT WC Asia</series>
     <circuit>Suzuka</circuit>
     <country>Japan</country>
-    <race_date>22-06-2021</race_date>
+    <race_date>22-06-2022</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1296,7 +1296,7 @@
     <series>WTCR</series>
     <circuit>Estoril</circuit>
     <country>Portugal</country>
-    <race_date>27-06-2021</race_date>
+    <race_date>27-06-2022</race_date>
     <race_time>13:15</race_time>
     <broadcast1_channel>Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>R1 13:00</broadcast1_time_start>
@@ -1312,7 +1312,7 @@
     <series>F1</series>
     <circuit>Red Bull Ring 1</circuit>
     <country>Austria</country>
-    <race_date>27-06-2021</race_date>
+    <race_date>27-06-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1329,7 +1329,7 @@
     <series>$Other Super GT</series>
     <circuit>Buriram 300 km</circuit>
     <country>Thailand</country>
-    <race_date>30-06-2021</race_date>
+    <race_date>30-06-2022</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1345,7 +1345,7 @@
     <series>Other IMSA</series>
     <circuit>Watkins Glen 6 hrs</circuit>
     <country>USA</country>
-    <race_date>27-06-2021</race_date>
+    <race_date>27-06-2022</race_date>
     <race_time>16:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1364,7 +1364,7 @@
     <series>Other IMSA</series>
     <circuit>Watkins Glen</circuit>
     <country>USA</country>
-    <race_date>03-07-2021</race_date>
+    <race_date>03-07-2022</race_date>
     <race_time>00:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1380,7 +1380,7 @@
     <series>Other EuroNASCAR</series>
     <circuit>Brands Hatch</circuit>
     <country>United Kingdom</country>
-    <race_date>03-07-2021</race_date>
+    <race_date>03-07-2022</race_date>
     <race_time>14:05</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -1396,7 +1396,7 @@
     <series>Other GT WC Europe</series>
     <circuit>Imola</circuit>
     <country>Italy</country>
-    <race_date>03-07-2021</race_date>
+    <race_date>03-07-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1412,7 +1412,7 @@
     <series>F1</series>
     <circuit>Red Bull Ring 2</circuit>
     <country>Austria</country>
-    <race_date>04-07-2021</race_date>
+    <race_date>04-07-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1429,13 +1429,13 @@
     <series>$Other V8 Supercars</series>
     <circuit>Townsville</circuit>
     <country>Australia</country>
-    <race_date>07-07-2021</race_date>
+    <race_date>07-07-2022</race_date>
     <race_time>08:05</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (07-07-2021) 07:50</broadcast1_time_start>
+    <broadcast1_time_start>R1 (07-07-2022) 07:50</broadcast1_time_start>
     <broadcast1_time_end>09:45</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (08-07-2021) 07:50</broadcast2_time_start>
+    <broadcast2_time_start>R2 (08-07-2022) 07:50</broadcast2_time_start>
     <broadcast2_time_end>10:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1446,13 +1446,13 @@
     <series>Formula E</series>
     <circuit>New York</circuit>
     <country>USA</country>
-    <race_date>10-07-2021</race_date>
+    <race_date>10-07-2022</race_date>
     <race_time>22:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (10-07-2021) 21:55</broadcast1_time_start>
+    <broadcast1_time_start>R1 (10-07-2022) 21:55</broadcast1_time_start>
     <broadcast1_time_end>23:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (11-07-2021) 18:55</broadcast2_time_start>
+    <broadcast2_time_start>R2 (11-07-2022) 18:55</broadcast2_time_start>
     <broadcast2_time_end>20:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1462,7 +1462,7 @@
     <series>Other ELMS</series>
     <circuit>Monza 4 hrs</circuit>
     <country>Italy</country>
-    <race_date>11-07-2021</race_date>
+    <race_date>11-07-2022</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1478,7 +1478,7 @@
     <series>WTCR</series>
     <circuit>Aragón</circuit>
     <country>Spain</country>
-    <race_date>11-07-2021</race_date>
+    <race_date>11-07-2022</race_date>
     <race_time>11:15</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 11:00</broadcast1_time_start>
@@ -1495,7 +1495,7 @@
     <series>$Other EuroNASCAR</series>
     <circuit>Venray</circuit>
     <country>Netherlands</country>
-    <race_date>11-07-2021</race_date>
+    <race_date>11-07-2022</race_date>
     <race_time>15:30</race_time>
     <broadcast1_channel>#Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -1512,7 +1512,7 @@
     <series>$Other Super Formula</series>
     <circuit>Fuji</circuit>
     <country>Japan</country>
-    <race_date>14-07-2021</race_date>
+    <race_date>14-07-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1529,7 +1529,7 @@
     <series>Other IMSA</series>
     <circuit>Lime Rock Park</circuit>
     <country>USA</country>
-    <race_date>17-07-2021</race_date>
+    <race_date>17-07-2022</race_date>
     <race_time>22:05</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1545,7 +1545,7 @@
     <series>$Other 24H Series</series>
     <circuit>Portimão 24 hrs</circuit>
     <country>Portugal</country>
-    <race_date>17-07-2021</race_date>
+    <race_date>17-07-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -1561,7 +1561,7 @@
     <series>WEC</series>
     <circuit>Monza 6 hrs</circuit>
     <country>Italy</country>
-    <race_date>18-07-2021</race_date>
+    <race_date>18-07-2022</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>11:45</broadcast1_time_start>
@@ -1577,7 +1577,7 @@
     <series>F1</series>
     <circuit>Silverstone</circuit>
     <country>United Kingdom</country>
-    <race_date>18-07-2021</race_date>
+    <race_date>18-07-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1594,13 +1594,13 @@
     <series>DTM</series>
     <circuit>Lausitzring</circuit>
     <country>Germany</country>
-    <race_date>24-07-2021</race_date>
+    <race_date>24-07-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-07-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (24-07-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-07-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (25-07-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1610,13 +1610,13 @@
     <series>Formula E</series>
     <circuit>London</circuit>
     <country>United Kingdom</country>
-    <race_date>24-07-2021</race_date>
+    <race_date>24-07-2022</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-07-2021) 15:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (24-07-2022) 15:30</broadcast1_time_start>
     <broadcast1_time_end>17:30</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-07-2021) 14:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (25-07-2022) 14:30</broadcast2_time_start>
     <broadcast2_time_end>16:30</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1627,7 +1627,7 @@
     <series>Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
     <country>Belgium</country>
-    <race_date>31-07-2021</race_date>
+    <race_date>31-07-2022</race_date>
     <race_time>16:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1646,7 +1646,7 @@
     <series>F1</series>
     <circuit>Hungaroring</circuit>
     <country>Hungary</country>
-    <race_date>01-08-2021</race_date>
+    <race_date>01-08-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1662,7 +1662,7 @@
     <series>Other Stock Car V8 Brasil</series>
     <circuit>Curitiba</circuit>
     <country>Brazil</country>
-    <race_date>01-08-2021</race_date>
+    <race_date>01-08-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1678,7 +1678,7 @@
     <series>$Other GT WC Asia</series>
     <circuit>Yeongam</circuit>
     <country>South Korea</country>
-    <race_date>03-08-2021</race_date>
+    <race_date>03-08-2022</race_date>
     <race_time>08:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1694,7 +1694,7 @@
     <series>$WTCR</series>
     <circuit>Termas de Río Hondo</circuit>
     <country>Argentina</country>
-    <race_date>05-08-2021</race_date>
+    <race_date>05-08-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>20:00</broadcast1_time_start>
@@ -1711,13 +1711,13 @@
     <series>DTM</series>
     <circuit>Zolder</circuit>
     <country>Belgium</country>
-    <race_date>07-08-2021</race_date>
+    <race_date>07-08-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (07-08-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (07-08-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (08-08-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (08-08-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1727,7 +1727,7 @@
     <series>Other IMSA</series>
     <circuit>Road America</circuit>
     <country>USA</country>
-    <race_date>08-08-2021</race_date>
+    <race_date>08-08-2022</race_date>
     <race_time>21:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1744,13 +1744,13 @@
     <series>Formula E</series>
     <circuit>Berlin</circuit>
     <country>Germany</country>
-    <race_date>14-08-2021</race_date>
+    <race_date>14-08-2022</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (14-08-2021) 13:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (14-08-2022) 13:30</broadcast1_time_start>
     <broadcast1_time_end>15:30</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (15-08-2021) 15:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (15-08-2022) 15:00</broadcast2_time_start>
     <broadcast2_time_end>17:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1761,7 +1761,7 @@
     <series>$Other ADAC GT</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
-    <race_date>17-08-2021</race_date>
+    <race_date>17-08-2022</race_date>
     <race_time>14:45</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1777,7 +1777,7 @@
     <series>$Other Super Formula</series>
     <circuit>Twin Ring Motegi</circuit>
     <country>Japan</country>
-    <race_date>18-08-2021</race_date>
+    <race_date>18-08-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1794,13 +1794,13 @@
     <series>DTM</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
-    <race_date>21-08-2021</race_date>
+    <race_date>21-08-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (21-08-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (21-08-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (22-08-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (22-08-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1810,14 +1810,14 @@
     <series>WEC</series>
     <circuit>Le Mans 24 hrs</circuit>
     <country>France</country>
-    <race_date>21-08-2021</race_date>
+    <race_date>21-08-2022</race_date>
     <race_time>14:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(21-08-2021) 14:00</broadcast1_time_start>
-    <broadcast1_time_end>(22-08-2021) 15:00</broadcast1_time_end>
+    <broadcast1_time_start>(21-08-2022) 14:00</broadcast1_time_start>
+    <broadcast1_time_end>(22-08-2022) 15:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>(21-08-2021) 14:00</broadcast2_time_start>
-    <broadcast2_time_end>(22-08-2021) 15:00</broadcast2_time_end>
+    <broadcast2_time_start>(21-08-2022) 14:00</broadcast2_time_start>
+    <broadcast2_time_end>(22-08-2022) 15:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
@@ -1826,7 +1826,7 @@
     <series>WTCR</series>
     <circuit>Hungaroring</circuit>
     <country>Hungary</country>
-    <race_date>22-08-2021</race_date>
+    <race_date>22-08-2022</race_date>
     <race_time>12:15</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 12:15</broadcast1_time_start>
@@ -1842,13 +1842,13 @@
     <series>$DTM</series>
     <circuit>Brands Hatch</circuit>
     <country>United Kingdom</country>
-    <race_date>22-08-2021</race_date>
+    <race_date>22-08-2022</race_date>
     <race_time>14:30</race_time>
     <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (22-08-2021) 14:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (22-08-2022) 14:00</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
     <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (23-08-2021) 14:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (23-08-2022) 14:00</broadcast2_time_start>
     <broadcast2_time_end>16:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1859,13 +1859,13 @@
     <series>$Other V8 Supercars</series>
     <circuit>Tailem Bend</circuit>
     <country>Australia</country>
-    <race_date>25-08-2021</race_date>
+    <race_date>25-08-2022</race_date>
     <race_time>08:30</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-08-2021) 08:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (25-08-2022) 08:30</broadcast1_time_start>
     <broadcast1_time_end>10:00</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-08-2021) 05:45</broadcast2_time_start>
+    <broadcast2_time_start>R2 (26-08-2022) 05:45</broadcast2_time_start>
     <broadcast2_time_end>07:35</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1876,7 +1876,7 @@
     <series>F1</series>
     <circuit>Spa-Francorchamps</circuit>
     <country>Belgium</country>
-    <race_date>29-08-2021</race_date>
+    <race_date>29-08-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1892,7 +1892,7 @@
     <series>$Other GT WC America</series>
     <circuit>Watkins Glen</circuit>
     <country>USA</country>
-    <race_date>31-08-2021</race_date>
+    <race_date>31-08-2022</race_date>
     <race_time>21:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1911,7 +1911,7 @@
     <series>Other 24H Series</series>
     <circuit>Barcelona</circuit>
     <country>Spain</country>
-    <race_date>04-09-2021</race_date>
+    <race_date>04-09-2022</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -1927,7 +1927,7 @@
     <series>$WEC</series>
     <circuit>Silverstone 4 hrs</circuit>
     <country>United Kingdom</country>
-    <race_date>05-09-2021</race_date>
+    <race_date>05-09-2022</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>13:00</broadcast1_time_start>
@@ -1943,13 +1943,13 @@
     <series>DTM</series>
     <circuit>Red Bull Ring</circuit>
     <country>Austria</country>
-    <race_date>04-09-2021</race_date>
+    <race_date>04-09-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (04-09-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (04-09-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (05-09-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (05-09-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1959,7 +1959,7 @@
     <series>F1</series>
     <circuit>Zandvoort</circuit>
     <country>Netherlands</country>
-    <race_date>05-09-2021</race_date>
+    <race_date>05-09-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1975,7 +1975,7 @@
     <series>$Other GT WC Europe</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
-    <race_date>06-09-2021</race_date>
+    <race_date>06-09-2022</race_date>
     <race_time>18:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1991,7 +1991,7 @@
     <series>$Other GT WC Europe</series>
     <circuit>Hungaroring</circuit>
     <country>Hungary</country>
-    <race_date>07-09-2021</race_date>
+    <race_date>07-09-2022</race_date>
     <race_time>15:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2008,13 +2008,13 @@
     <series>$WTCR</series>
     <circuit>Zolder</circuit>
     <country>Belgium</country>
-    <race_date>13-09-2021</race_date>
+    <race_date>13-09-2022</race_date>
     <race_time>10:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (13-09-2021) 10:15</broadcast1_time_start>
+    <broadcast1_time_start>R1 (13-09-2022) 10:15</broadcast1_time_start>
     <broadcast1_time_end>11:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 (13-09-2021) 14:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (13-09-2022) 14:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2024,7 +2024,7 @@
     <series>F1</series>
     <circuit>Monza</circuit>
     <country>Italy</country>
-    <race_date>12-09-2021</race_date>
+    <race_date>12-09-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2040,7 +2040,7 @@
     <series>$F1</series>
     <circuit>Mugello</circuit>
     <country>Italy</country>
-    <race_date>13-09-2021</race_date>
+    <race_date>13-09-2022</race_date>
     <race_time>15:10</race_time>
     <broadcast1_channel>RTL Television</broadcast1_channel>
     <broadcast1_time_start>14:00</broadcast1_time_start>
@@ -2057,7 +2057,7 @@
     <series>$Other V8 Supercars</series>
     <circuit>Sandown 500</circuit>
     <country>Australia</country>
-    <race_date>16-09-2021</race_date>
+    <race_date>16-09-2022</race_date>
     <race_time>05:20</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
     <broadcast1_time_start>04:55</broadcast1_time_start>
@@ -2074,13 +2074,13 @@
     <series>DTM</series>
     <circuit>Assen</circuit>
     <country>Netherlands</country>
-    <race_date>18-09-2021</race_date>
+    <race_date>18-09-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (18-09-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (18-09-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (19-09-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (19-09-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2090,7 +2090,7 @@
     <series>Other ELMS</series>
     <circuit>Spa-Franc. 4 hrs</circuit>
     <country>Belgium</country>
-    <race_date>19-09-2021</race_date>
+    <race_date>19-09-2022</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -2107,7 +2107,7 @@
     <series>$WEC</series>
     <circuit>Fuji 6 hrs</circuit>
     <country>Japan</country>
-    <race_date>25-09-2021</race_date>
+    <race_date>25-09-2022</race_date>
     <race_time>04:00</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>08:30</broadcast1_time_start>
@@ -2124,7 +2124,7 @@
     <series>$Other GT WC Asia</series>
     <circuit>Shanghai</circuit>
     <country>China</country>
-    <race_date>27-09-2021</race_date>
+    <race_date>27-09-2022</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2140,7 +2140,7 @@
     <series>$Other Super Formula</series>
     <circuit>Okayama</circuit>
     <country>Japan</country>
-    <race_date>27-09-2021</race_date>
+    <race_date>27-09-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2156,7 +2156,7 @@
     <series>Other GT WC Europe</series>
     <circuit>Valencia</circuit>
     <country>Spain</country>
-    <race_date>26-09-2021</race_date>
+    <race_date>26-09-2022</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2172,7 +2172,7 @@
     <series>F1</series>
     <circuit>Sochi</circuit>
     <country>Russia</country>
-    <race_date>26-09-2021</race_date>
+    <race_date>26-09-2022</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2191,7 +2191,7 @@
     <series>$Other EuroNASCAR</series>
     <circuit>Zolder</circuit>
     <country>Belgium</country>
-    <race_date>03-10-2021</race_date>
+    <race_date>03-10-2022</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -2207,13 +2207,13 @@
     <series>DTM</series>
     <circuit>Hockenheimring</circuit>
     <country>Germany</country>
-    <race_date>02-10-2021</race_date>
+    <race_date>02-10-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (02-10-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (02-10-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (03-10-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (03-10-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2224,7 +2224,7 @@
     <series>$WTCR</series>
     <circuit>Wuhan</circuit>
     <country>China</country>
-    <race_date>07-10-2021</race_date>
+    <race_date>07-10-2022</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>10:00</broadcast1_time_start>
@@ -2240,7 +2240,7 @@
     <series>$Other V8 Supercars</series>
     <circuit>Bathurst 1000 km</circuit>
     <country>Australia</country>
-    <race_date>07-10-2021</race_date>
+    <race_date>07-10-2022</race_date>
     <race_time>02:00</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
     <broadcast1_time_start>01:55</broadcast1_time_start>
@@ -2257,13 +2257,13 @@
     <series>DTM</series>
     <circuit>Norisring</circuit>
     <country>Germany</country>
-    <race_date>09-10-2021</race_date>
+    <race_date>09-10-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (09-10-2021) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (09-10-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (10-10-2021) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (10-10-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2273,7 +2273,7 @@
     <series>WTCR</series>
     <circuit>Most</circuit>
     <country>Czech Republic</country>
-    <race_date>10-10-2021</race_date>
+    <race_date>10-10-2022</race_date>
     <race_time>14:15</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>14:15</broadcast1_time_start>
@@ -2289,7 +2289,7 @@
     <series>F1</series>
     <circuit>Istanbul</circuit>
     <country>Turkey</country>
-    <race_date>10-10-2021</race_date>
+    <race_date>10-10-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2305,7 +2305,7 @@
     <series>$F1</series>
     <circuit>Suzuka</circuit>
     <country>Japan</country>
-    <race_date>10-10-2021</race_date>
+    <race_date>10-10-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2321,7 +2321,7 @@
     <series>$F1</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
-    <race_date>11-10-2021</race_date>
+    <race_date>11-10-2022</race_date>
     <race_time>14:10</race_time>
     <broadcast1_channel>RTL Television</broadcast1_channel>
     <broadcast1_time_start>12:30</broadcast1_time_start>
@@ -2338,7 +2338,7 @@
     <series>WTCR</series>
     <circuit>Pau</circuit>
     <country>France</country>
-    <race_date>17-10-2021</race_date>
+    <race_date>17-10-2022</race_date>
     <race_time>10:15</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>10:00</broadcast1_time_start>
@@ -2354,23 +2354,23 @@
     <series>$WTCR</series>
     <circuit>Inje</circuit>
     <country>South Korea</country>
-    <race_date>16-10-2021</race_date>
+    <race_date>16-10-2022</race_date>
     <race_time>09:15</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
-    <broadcast1_time_start>R1 (18-05-2021) 14:15</broadcast1_time_start>
+    <broadcast1_time_start>R1 (18-05-2022) 14:15</broadcast1_time_start>
     <broadcast1_time_end>15:30</broadcast1_time_end>
     <broadcast2_channel>#Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 (19-05-2021) 12:55</broadcast2_time_start>
+    <broadcast2_time_start>R2 (19-05-2022) 12:55</broadcast2_time_start>
     <broadcast2_time_end>14:00</broadcast2_time_end>
     <broadcast3_channel>#Eurosport 2</broadcast3_channel>
-    <broadcast3_time_start>R3 (19-05-2021) 16:30</broadcast3_time_start>
+    <broadcast3_time_start>R3 (19-05-2022) 16:30</broadcast3_time_start>
     <broadcast3_time_end>17:30</broadcast3_time_end>
 <!-- /race -->
 <race>
     <series>$Other NASCAR Euro Series</series>
     <circuit>Hockenheimring</circuit>
     <country>Germany</country>
-    <race_date>17-10-2021</race_date>
+    <race_date>17-10-2022</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>#Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -2386,7 +2386,7 @@
     <series>$Other GT WC America</series>
     <circuit>Las Vegas</circuit>
     <country>USA</country>
-    <race_date>19-10-2021</race_date>
+    <race_date>19-10-2022</race_date>
     <race_time>19:50</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2402,13 +2402,13 @@
     <series>$Other V8 Supercars</series>
     <circuit>Gold Coast</circuit>
     <country>Australia</country>
-    <race_date>21-10-2021</race_date>
+    <race_date>21-10-2022</race_date>
     <race_time>06:15</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (21-10-2021) 06:10</broadcast1_time_start>
+    <broadcast1_time_start>R1 (21-10-2022) 06:10</broadcast1_time_start>
     <broadcast1_time_end>08:50</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (22-10-2021) 06:10</broadcast2_time_start>
+    <broadcast2_time_start>R2 (22-10-2022) 06:10</broadcast2_time_start>
     <broadcast2_time_end>08:55</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2419,7 +2419,7 @@
     <series>Other ELMS</series>
     <circuit>Portimão 4 hrs</circuit>
     <country>Portugal</country>
-    <race_date>24-10-2021</race_date>
+    <race_date>24-10-2022</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -2435,7 +2435,7 @@
     <series>F1</series>
     <circuit>Austin</circuit>
     <country>USA</country>
-    <race_date>24-10-2021</race_date>
+    <race_date>24-10-2022</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2451,7 +2451,7 @@
     <series>$Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
     <country>Belgium</country>
-    <race_date>24-10-2021</race_date>
+    <race_date>24-10-2022</race_date>
     <race_time>15:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2467,7 +2467,7 @@
     <series>$WTCR</series>
     <circuit>Suzuka</circuit>
     <country>Japan</country>
-    <race_date>26-10-2021</race_date>
+    <race_date>26-10-2022</race_date>
     <race_time>08:05</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 07:50</broadcast1_time_start>
@@ -2484,7 +2484,7 @@
     <series>WEC</series>
     <circuit>Sakhir 6 hrs (1)</circuit>
     <country>Bahrain</country>
-    <race_date>30-10-2021</race_date>
+    <race_date>30-10-2022</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>09:45</broadcast1_time_start>
@@ -2503,7 +2503,7 @@
     <series>$Other Super GT</series>
     <circuit>Motegi 250 km</circuit>
     <country>Japan</country>
-    <race_date>03-11-2021</race_date>
+    <race_date>03-11-2022</race_date>
     <race_time>05:20</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2520,7 +2520,7 @@
     <series>$WTCR</series>
     <circuit>Ningbo</circuit>
     <country>China</country>
-    <race_date>06-11-2021</race_date>
+    <race_date>06-11-2022</race_date>
     <race_time>08:15</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>08:15</broadcast1_time_start>
@@ -2536,7 +2536,7 @@
     <series>WEC</series>
     <circuit>Sakhir 8 hrs</circuit>
     <country>Bahrain</country>
-    <race_date>06-11-2021</race_date>
+    <race_date>06-11-2022</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>11:30</broadcast1_time_start>
@@ -2552,7 +2552,7 @@
     <series>WTCR</series>
     <circuit>Adria</circuit>
     <country>Italy</country>
-    <race_date>07-11-2021</race_date>
+    <race_date>07-11-2022</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 10:00</broadcast1_time_start>
@@ -2568,7 +2568,7 @@
     <series>F1</series>
     <circuit>Mexico City</circuit>
     <country>Mexico</country>
-    <race_date>07-11-2021</race_date>
+    <race_date>07-11-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2585,7 +2585,7 @@
     <series>Other IMSA</series>
     <circuit>Road Atlanta 10 hrs</circuit>
     <country>USA</country>
-    <race_date>13-11-2021</race_date>
+    <race_date>13-11-2022</race_date>
     <race_time>17:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2601,7 +2601,7 @@
     <series>F1</series>
     <circuit>Interlagos</circuit>
     <country>Brazil</country>
-    <race_date>14-11-2021</race_date>
+    <race_date>14-11-2022</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2618,7 +2618,7 @@
     <series>$Other FIA F3 World Cup</series>
     <circuit>Macau</circuit>
     <country>Macau</country>
-    <race_date>18-11-2021</race_date>
+    <race_date>18-11-2022</race_date>
     <race_time>08:30</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>08:30</broadcast1_time_start>
@@ -2634,7 +2634,7 @@
     <series>Other 24H Series</series>
     <circuit>Sebring</circuit>
     <country>USA</country>
-    <race_date>19-11-2021</race_date>
+    <race_date>19-11-2022</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -2651,7 +2651,7 @@
     <series>F1</series>
     <circuit>Losail</circuit>
     <country>Qatar</country>
-    <race_date>21-11-2021</race_date>
+    <race_date>21-11-2022</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2667,7 +2667,7 @@
     <series>$F1</series>
     <circuit>Melbourne</circuit>
     <country>Australia</country>
-    <race_date>21-11-2021</race_date>
+    <race_date>21-11-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2683,29 +2683,29 @@
     <series>$WTCR</series>
     <circuit>Macau</circuit>
     <country>Macau</country>
-    <race_date>21-11-2021</race_date>
+    <race_date>21-11-2022</race_date>
     <race_time>07:55</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (16-11-2021) 07:50</broadcast1_time_start>
+    <broadcast1_time_start>R1 (16-11-2022) 07:50</broadcast1_time_start>
     <broadcast1_time_end>08:35</broadcast1_time_end>
     <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (17-11-2021) 01:40</broadcast2_time_start>
+    <broadcast2_time_start>R2 (17-11-2022) 01:40</broadcast2_time_start>
     <broadcast2_time_end>02:25</broadcast2_time_end>
     <broadcast3_channel>#Eurosport</broadcast3_channel>
-    <broadcast3_time_start>R3 (17-11-2021) 04:10</broadcast3_time_start>
+    <broadcast3_time_start>R3 (17-11-2022) 04:10</broadcast3_time_start>
     <broadcast3_time_end>05:10</broadcast3_time_end>
 <!-- /race -->
 <race>
     <series>$Other Super GT x DTM</series>
     <circuit>Fuji</circuit>
     <country>Japan</country>
-    <race_date>23-11-2021</race_date>
+    <race_date>23-11-2022</race_date>
     <race_time>06:30</race_time>
     <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (23-11-2021) 06:25</broadcast1_time_start>
+    <broadcast1_time_start>R1 (23-11-2022) 06:25</broadcast1_time_start>
     <broadcast1_time_end>07:45</broadcast1_time_end>
     <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (24-11-2021) 06:25</broadcast2_time_start>
+    <broadcast2_time_start>R2 (24-11-2022) 06:25</broadcast2_time_start>
     <broadcast2_time_end>07:45</broadcast2_time_end>
     <broadcast3_channel>#Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
@@ -2716,13 +2716,13 @@
     <series>$Other V8 Supercars</series>
     <circuit>Newcastle</circuit>
     <country>Australia</country>
-    <race_date>25-11-2021</race_date>
+    <race_date>25-11-2022</race_date>
     <race_time>05:45</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-11-2021) 05:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (25-11-2022) 05:30</broadcast1_time_start>
     <broadcast1_time_end>07:50</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-11-2021) 05:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (26-11-2022) 05:30</broadcast2_time_start>
     <broadcast2_time_end>07:50</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2732,7 +2732,7 @@
     <series>WTCR</series>
     <circuit>Sochi</circuit>
     <country>Russia</country>
-    <race_date>27-11-2021</race_date>
+    <race_date>27-11-2022</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>11:00</broadcast1_time_start>
@@ -2751,7 +2751,7 @@
     <series>$Other GT Nations Cup</series>
     <circuit>Sakhir</circuit>
     <country>Bahrain</country>
-    <race_date>01-12-2021</race_date>
+    <race_date>01-12-2022</race_date>
     <race_time>17:30</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>17:30</broadcast1_time_start>
@@ -2768,7 +2768,7 @@
     <series>F1</series>
     <circuit>Jeddah</circuit>
     <country>Saudi Arabia</country>
-    <race_date>05-12-2021</race_date>
+    <race_date>05-12-2022</race_date>
     <race_time>17:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2785,7 +2785,7 @@
     <series>$WTCR</series>
     <circuit>Sepang</circuit>
     <country>Malaysia</country>
-    <race_date>12-12-2021</race_date>
+    <race_date>12-12-2022</race_date>
     <race_time>08:15</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>19:05</broadcast1_time_start>
@@ -2801,7 +2801,7 @@
     <series>F1</series>
     <circuit>Abu Dhabi</circuit>
     <country>United Arab Emirates</country>
-    <race_date>12-12-2021</race_date>
+    <race_date>12-12-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2819,7 +2819,7 @@
     <series>$WEC</series>
     <circuit>Kyalami 6 hrs</circuit>
     <country>South Africa</country>
-    <race_date>06-02-2021</race_date>
+    <race_date>06-02-2022</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>13:00</broadcast1_time_start>
