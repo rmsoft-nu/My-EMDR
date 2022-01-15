@@ -731,6 +731,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>DTM</series>
+    <circuit>Portimão</circuit>
+    <country>Portugal</country>
+    <race_date>30-04-2022</race_date>
+    <race_time>16:00</race_time>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (24-07-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (25-07-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 
 <!-- May -->
 <race>
@@ -763,22 +780,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>$F1</series>
-    <circuit>Portimão</circuit>
-    <country>Portugal</country>
-    <race_date>02-05-2022</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1011,6 +1012,23 @@
     <broadcast3_time_start>R3 14:30</broadcast3_time_start>
     <broadcast3_time_end>15:35</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>DTM</series>
+    <circuit>Lausitzring</circuit>
+    <country>Germany</country>
+    <race_date>21-05-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (24-07-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (25-07-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Barcelona</circuit>
@@ -1061,22 +1079,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$DTM</series>
-    <circuit>Igora Drive</circuit>
-    <country>Russia</country>
-    <race_date>29-05-2022</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (29-05-2022) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (30-05-2022) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>Other GT WC Europe</series>
     <circuit>Paul Ricard 1000 km</circuit>
     <country>France</country>
@@ -1111,6 +1113,22 @@
 
 
 <!-- June -->
+<race>
+    <series>DTM</series>
+    <circuit>TBA</circuit>
+    <country>TBA</country>
+    <race_date>04-06-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (29-05-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (30-05-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>$Formula E</series>
     <circuit>Jakarta</circuit>
@@ -1242,6 +1260,22 @@
 <!-- /race -->
 
 <race>
+    <series>DTM</series>
+    <circuit>Imola</circuit>
+    <country>Italy</country>
+    <race_date>18-06-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (27-06-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (28-06-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>F1</series>
     <circuit>Montreal</circuit>
     <country>Canada</country>
@@ -1271,22 +1305,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>DTM</series>
-    <circuit>Monza</circuit>
-    <country>Italy</country>
-    <race_date>19-06-2022</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (27-06-2022) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (28-06-2022) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1374,6 +1392,22 @@
 
 
 <!-- July -->
+<race>
+    <series>DTM</series>
+    <circuit>Norisring</circuit>
+    <country>Germany</country>
+    <race_date>02-07-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (09-10-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (10-10-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>Other IMSA</series>
     <circuit>Watkins Glen</circuit>
@@ -1605,22 +1639,6 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
-    <circuit>Lausitzring</circuit>
-    <country>Germany</country>
-    <race_date>24-07-2022</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-07-2022) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-07-2022) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>Formula E</series>
     <circuit>London</circuit>
     <country>United Kingdom</country>
@@ -1738,22 +1756,6 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
-    <circuit>Zolder</circuit>
-    <country>Belgium</country>
-    <race_date>07-08-2022</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (07-08-2022) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (08-08-2022) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>Other IMSA</series>
     <circuit>Road America</circuit>
     <country>USA</country>
@@ -1821,22 +1823,6 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
-    <circuit>Nürburgring</circuit>
-    <country>Germany</country>
-    <race_date>21-08-2022</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (21-08-2022) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (22-08-2022) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>WEC</series>
     <circuit>Le Mans 24 hrs</circuit>
     <country>France</country>
@@ -1903,6 +1889,22 @@
 <!-- /race -->
 
 <race>
+    <series>DTM</series>
+    <circuit>Nürburgring</circuit>
+    <country>Germany</country>
+    <race_date>27-08-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (21-08-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (22-08-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>F1</series>
     <circuit>Spa-Francorchamps</circuit>
     <country>Belgium</country>
@@ -1918,6 +1920,7 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>$Other GT WC America</series>
     <circuit>Watkins Glen</circuit>
@@ -1967,22 +1970,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>DTM</series>
-    <circuit>Red Bull Ring</circuit>
-    <country>Austria</country>
-    <race_date>04-09-2022</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (04-09-2022) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (05-09-2022) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -2050,6 +2037,23 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>DTM</series>
+    <circuit>Spa-Francorchamps</circuit>
+    <country>Belgium</country>
+    <race_date>10-09-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (07-08-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (08-08-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Monza</circuit>
@@ -2101,7 +2105,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Assen</circuit>
     <country>Netherlands</country>
     <race_date>18-09-2022</race_date>
@@ -2133,6 +2137,22 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>DTM</series>
+    <circuit>Red Bull Ring</circuit>
+    <country>Austria</country>
+    <race_date>24-09-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (04-09-2022) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (05-09-2022) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>$WEC</series>
     <circuit>Fuji 6 hrs</circuit>
@@ -2249,22 +2269,6 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>DTM</series>
-    <circuit>Hockenheimring</circuit>
-    <country>Germany</country>
-    <race_date>02-10-2022</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (02-10-2022) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (03-10-2022) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>$WTCR</series>
@@ -2298,23 +2302,23 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>DTM</series>
-    <circuit>Norisring</circuit>
+    <circuit>Hockenheimring</circuit>
     <country>Germany</country>
-    <race_date>09-10-2022</race_date>
+    <race_date>08-10-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (09-10-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
+    <broadcast1_time_start>R1 (02-10-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (10-10-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
+    <broadcast2_time_start>R2 (03-10-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>WTCR</series>
     <circuit>Most</circuit>
