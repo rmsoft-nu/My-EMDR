@@ -383,7 +383,6 @@
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>$Formula E</series>
     <circuit>Sanya</circuit>
@@ -400,7 +399,6 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>Other IMSA</series>
     <circuit>Sebring 12 hrs</circuit>
@@ -417,7 +415,6 @@
     <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>F1</series>
     <circuit>Sakhir</circuit>
@@ -434,6 +431,24 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Jeddah</circuit>
+    <country>Saudi Arabia</country>
+    <race_date>27-03-2022</race_date>
+    <race_time>17:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 <race>
     <series>$Other V8 Supercars</series>
     <circuit>Tasmania</circuit>
@@ -502,7 +517,6 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>$Other GT WC Asia</series>
     <circuit>Sepang</circuit>
@@ -536,6 +550,22 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>F1</series>
+    <circuit>Melbourne</circuit>
+    <country>Australia</country>
+    <race_date>10-04-2022</race_date>
+    <race_time>07:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>Formula E</series>
     <circuit>Rome</circuit>
@@ -619,22 +649,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
-    <circuit>Imola</circuit>
-    <country>Italy</country>
-    <race_date>18-04-2022</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>RTL Television</broadcast1_channel>
-    <broadcast1_time_start>13:30</broadcast1_time_start>
-    <broadcast1_time_end>17:15</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Formula E</series>
     <circuit>Paris</circuit>
     <country>France</country>
@@ -668,6 +682,22 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>F1</series>
+    <circuit>Imola</circuit>
+    <country>Italy</country>
+    <race_date>24-04-2022</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>RTL Television</broadcast1_channel>
+    <broadcast1_time_start>13:30</broadcast1_time_start>
+    <broadcast1_time_end>17:15</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>Formula E</series>
     <circuit>Valencia</circuit>
@@ -736,7 +766,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Portimão</circuit>
     <country>Portugal</country>
     <race_date>02-05-2022</race_date>
@@ -835,13 +865,13 @@
 <!-- /race -->
 <race>
     <series>F1</series>
-    <circuit>Barcelona</circuit>
-    <country>Spain</country>
-    <race_date>09-05-2022</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>RTL Television</broadcast1_channel>
-    <broadcast1_time_start>14:00</broadcast1_time_start>
-    <broadcast1_time_end>17:15</broadcast1_time_end>
+    <circuit>Miami</circuit>
+    <country>USA</country>
+    <race_date>08-05-2022</race_date>
+    <race_time>21:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
     <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -983,13 +1013,13 @@
 <!-- /race -->
 <race>
     <series>F1</series>
-    <circuit>Monte Carlo</circuit>
-    <country>Monaco</country>
-    <race_date>23-05-2022</race_date>
+    <circuit>Barcelona</circuit>
+    <country>Spain</country>
+    <race_date>22-05-2022</race_date>
     <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast1_channel>RTL Television</broadcast1_channel>
+    <broadcast1_time_start>14:00</broadcast1_time_start>
+    <broadcast1_time_end>17:15</broadcast1_time_end>
     <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
     <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -997,6 +1027,7 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>$Other Super GT</series>
     <circuit>Suzuka 300 km</circuit>
@@ -1013,7 +1044,6 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>$Other IndyCar</series>
     <circuit>Indianapolis 500</circuit>
@@ -1060,6 +1090,22 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Monte Carlo</circuit>
+    <country>Monaco</country>
+    <race_date>29-05-2022</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1145,11 +1191,12 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>F1</series>
     <circuit>Baku</circuit>
     <country>Azerbaijan</country>
-    <race_date>06-06-2022</race_date>
+    <race_date>12-06-2022</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1161,7 +1208,6 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>Other IMSA</series>
     <circuit>Detroit</circuit>
@@ -1194,11 +1240,12 @@
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
-    <series>$F1</series>
+    <series>F1</series>
     <circuit>Montreal</circuit>
     <country>Canada</country>
-    <race_date>13-06-2022</race_date>
+    <race_date>19-06-2022</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1210,7 +1257,6 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>Other GT WC Europe</series>
     <circuit>Zandvoort</circuit>
@@ -1260,22 +1306,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
-    <circuit>Paul Ricard</circuit>
-    <country>France</country>
-    <race_date>20-06-2022</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Other GT WC Asia</series>
     <circuit>Suzuka</circuit>
     <country>Japan</country>
@@ -1306,22 +1336,6 @@
     <broadcast2_time_end>17:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Red Bull Ring 1</circuit>
-    <country>Austria</country>
-    <race_date>27-06-2022</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1410,10 +1424,10 @@
 <!-- /race -->
 <race>
     <series>F1</series>
-    <circuit>Red Bull Ring 2</circuit>
-    <country>Austria</country>
-    <race_date>04-07-2022</race_date>
-    <race_time>15:00</race_time>
+    <circuit>Silverstone</circuit>
+    <country>United Kingdom</country>
+    <race_date>03-07-2022</race_date>
+    <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -1456,6 +1470,22 @@
     <broadcast2_time_end>20:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Red Bull Ring</circuit>
+    <country>Austria</country>
+    <race_date>10-07-2022</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1573,22 +1603,6 @@
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Silverstone</circuit>
-    <country>United Kingdom</country>
-    <race_date>18-07-2022</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>DTM</series>
@@ -1622,6 +1636,22 @@
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Paul Ricard</circuit>
+    <country>France</country>
+    <race_date>24-07-2022</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 <race>
     <series>Other GT WC Europe</series>
@@ -1639,14 +1669,11 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
-
-<!-- August -->
 <race>
     <series>F1</series>
     <circuit>Hungaroring</circuit>
     <country>Hungary</country>
-    <race_date>01-08-2022</race_date>
+    <race_date>31-07-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1658,6 +1685,9 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+
+<!-- August -->
 <race>
     <series>Other Stock Car V8 Brasil</series>
     <circuit>Curitiba</circuit>
@@ -1876,7 +1906,7 @@
     <series>F1</series>
     <circuit>Spa-Francorchamps</circuit>
     <country>Belgium</country>
-    <race_date>29-08-2022</race_date>
+    <race_date>28-08-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1959,7 +1989,7 @@
     <series>F1</series>
     <circuit>Zandvoort</circuit>
     <country>Netherlands</country>
-    <race_date>05-09-2022</race_date>
+    <race_date>04-09-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2024,7 +2054,7 @@
     <series>F1</series>
     <circuit>Monza</circuit>
     <country>Italy</country>
-    <race_date>12-09-2022</race_date>
+    <race_date>11-09-2022</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2172,7 +2202,7 @@
     <series>F1</series>
     <circuit>Sochi</circuit>
     <country>Russia</country>
-    <race_date>26-09-2022</race_date>
+    <race_date>25-09-2022</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2187,6 +2217,22 @@
 
 
 <!-- October -->
+<race>
+    <series>F1</series>
+    <circuit>Singapore</circuit>
+    <country>Singapore</country>
+    <race_date>02-10-2020</race_date>
+    <race_time>14:10</race_time>
+    <broadcast1_channel>#RTL Television</broadcast1_channel>
+    <broadcast1_time_start>13:15</broadcast1_time_start>
+    <broadcast1_time_end>16:45</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>#Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>$Other EuroNASCAR</series>
     <circuit>Zolder</circuit>
@@ -2286,7 +2332,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Istanbul</circuit>
     <country>Turkey</country>
     <race_date>10-10-2022</race_date>
@@ -2302,10 +2348,10 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$F1</series>
+    <series>F1</series>
     <circuit>Suzuka</circuit>
     <country>Japan</country>
-    <race_date>10-10-2022</race_date>
+    <race_date>09-10-2022</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2435,7 +2481,7 @@
     <series>F1</series>
     <circuit>Austin</circuit>
     <country>USA</country>
-    <race_date>24-10-2022</race_date>
+    <race_date>23-10-2022</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2494,6 +2540,22 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Mexico City</circuit>
+    <country>Mexico</country>
+    <race_date>30-10-2022</race_date>
+    <race_time>20:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2564,22 +2626,6 @@
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Mexico City</circuit>
-    <country>Mexico</country>
-    <race_date>07-11-2022</race_date>
-    <race_time>20:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>Other IMSA</series>
@@ -2601,7 +2647,7 @@
     <series>F1</series>
     <circuit>Interlagos</circuit>
     <country>Brazil</country>
-    <race_date>14-11-2022</race_date>
+    <race_date>13-11-2022</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2649,10 +2695,10 @@
 
 <race>
     <series>F1</series>
-    <circuit>Losail</circuit>
-    <country>Qatar</country>
-    <race_date>21-11-2022</race_date>
-    <race_time>14:00</race_time>
+    <circuit>Abu Dhabi</circuit>
+    <country>United Arab Emirates</country>
+    <race_date>20-11-2022</race_date>
+    <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2665,10 +2711,10 @@
 <!-- /race -->
 <race>
     <series>$F1</series>
-    <circuit>Melbourne</circuit>
-    <country>Australia</country>
+    <circuit>Losail</circuit>
+    <country>Qatar</country>
     <race_date>21-11-2022</race_date>
-    <race_time>07:00</race_time>
+    <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2765,23 +2811,6 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
-    <circuit>Jeddah</circuit>
-    <country>Saudi Arabia</country>
-    <race_date>05-12-2022</race_date>
-    <race_time>17:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$WTCR</series>
     <circuit>Sepang</circuit>
     <country>Malaysia</country>
@@ -2795,40 +2824,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Abu Dhabi</circuit>
-    <country>United Arab Emirates</country>
-    <race_date>12-12-2022</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-
-<race>
-    <series>$WEC</series>
-    <circuit>Kyalami 6 hrs</circuit>
-    <country>South Africa</country>
-    <race_date>06-02-2022</race_date>
-    <race_time>13:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>13:00</broadcast1_time_start>
-    <broadcast1_time_end>19:15</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2976,7 +2971,8 @@
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race --><race>
+<!-- /race -->
+<race>
     <series>$Formula E</series>
     <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
     <country>Chile</country>
