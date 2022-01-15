@@ -551,6 +551,22 @@
 <!-- /race -->
 
 <race>
+    <series>WTCR</series>
+    <circuit>Most</circuit>
+    <country>Czech Republic</country>
+    <race_date>09-04-2022</race_date>
+    <race_time>14:15</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>14:15</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>17:10</broadcast2_time_start>
+    <broadcast2_time_end>18:00</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>F1</series>
     <circuit>Melbourne</circuit>
     <country>Australia</country>
@@ -743,7 +759,7 @@
     <broadcast2_channel>#SAT.1</broadcast2_channel>
     <broadcast2_time_start>R2 (25-07-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_channel>#Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
@@ -848,6 +864,22 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>WTCR</series>
+    <circuit>Pau</circuit>
+    <country>France</country>
+    <race_date>07-05-2022</race_date>
+    <race_time>10:15</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>10:00</broadcast1_time_start>
+    <broadcast1_time_end>11:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>12:00</broadcast2_time_start>
+    <broadcast2_time_end>13:00</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>Formula E</series>
     <circuit>Monte Carlo</circuit>
@@ -1094,6 +1126,23 @@
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>WTCR</series>
+    <circuit>Nürburgring</circuit>
+    <country>Germany</country>
+    <race_date>28-05-2022</race_date>
+    <race_time>09:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 09:00</broadcast1_time_start>
+    <broadcast1_time_end>10:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 10:15</broadcast2_time_start>
+    <broadcast2_time_end>11:15</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Monte Carlo</circuit>
@@ -1141,22 +1190,6 @@
     <broadcast2_channel>#Timing</broadcast2_channel>
     <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>$WTCR</series>
-    <circuit>Nürburgring</circuit>
-    <country>Germany</country>
-    <race_date>05-06-2022</race_date>
-    <race_time>09:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 09:00</broadcast1_time_start>
-    <broadcast1_time_end>10:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 10:15</broadcast2_time_start>
-    <broadcast2_time_end>11:15</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
@@ -1210,6 +1243,22 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>WTCR</series>
+    <circuit>Hungaroring</circuit>
+    <country>Hungary</country>
+    <race_date>11-06-2022</race_date>
+    <race_time>12:15</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 12:15</broadcast1_time_start>
+    <broadcast1_time_end>13:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 15:15</broadcast2_time_start>
+    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Baku</circuit>
@@ -1265,10 +1314,10 @@
     <country>Italy</country>
     <race_date>18-06-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
     <broadcast1_time_start>R1 (27-06-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
     <broadcast2_time_start>R2 (28-06-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
@@ -1342,17 +1391,17 @@
 
 <race>
     <series>WTCR</series>
-    <circuit>Estoril</circuit>
-    <country>Portugal</country>
-    <race_date>27-06-2022</race_date>
+    <circuit>Aragón</circuit>
+    <country>Spain</country>
+    <race_date>25-06-2022</race_date>
     <race_time>13:15</race_time>
-    <broadcast1_channel>Eurosport 2</broadcast1_channel>
+    <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>R1 13:00</broadcast1_time_start>
     <broadcast1_time_end>14:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport 2</broadcast2_channel>
+    <broadcast2_channel>#Eurosport 2</broadcast2_channel>
     <broadcast2_time_start>R2 16:00</broadcast2_time_start>
     <broadcast2_time_end>17:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
@@ -1398,10 +1447,10 @@
     <country>Germany</country>
     <race_date>02-07-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1</broadcast1_channel>
+    <broadcast1_channel>#SAT.1</broadcast1_channel>
     <broadcast1_time_start>R1 (09-10-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1</broadcast2_channel>
+    <broadcast2_channel>#SAT.1</broadcast2_channel>
     <broadcast2_time_start>R2 (10-10-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
@@ -1456,6 +1505,23 @@
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>WTCR</series>
+    <circuit>Vila Real</circuit>
+    <country>Portugal</country>
+    <race_date>02-07-2022</race_date>
+    <race_time>11:15</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 11:00</broadcast1_time_start>
+    <broadcast1_time_end>12:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 13:00</broadcast2_time_start>
+    <broadcast2_time_end>14:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Silverstone</circuit>
@@ -1506,6 +1572,7 @@
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>F1</series>
     <circuit>Red Bull Ring</circuit>
@@ -1522,6 +1589,7 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>Other ELMS</series>
     <circuit>Monza 4 hrs</circuit>
@@ -1536,22 +1604,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>WTCR</series>
-    <circuit>Aragón</circuit>
-    <country>Spain</country>
-    <race_date>11-07-2022</race_date>
-    <race_time>11:15</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 11:00</broadcast1_time_start>
-    <broadcast1_time_end>12:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 13:00</broadcast2_time_start>
-    <broadcast2_time_end>14:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1756,6 +1808,23 @@
 <!-- /race -->
 
 <race>
+    <series>WTCR</series>
+    <circuit>Sochi</circuit>
+    <country>Russia</country>
+    <race_date>06-08-2022</race_date>
+    <race_time>11:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>11:00</broadcast1_time_start>
+    <broadcast1_time_end>13:00</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>Other IMSA</series>
     <circuit>Road America</circuit>
     <country>USA</country>
@@ -1836,22 +1905,6 @@
     <broadcast2_time_end>(22-08-2022) 15:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>WTCR</series>
-    <circuit>Hungaroring</circuit>
-    <country>Hungary</country>
-    <race_date>22-08-2022</race_date>
-    <race_time>12:15</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 12:15</broadcast1_time_start>
-    <broadcast1_time_end>13:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 15:15</broadcast2_time_start>
-    <broadcast2_time_end>16:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -2321,20 +2374,21 @@
 
 <race>
     <series>WTCR</series>
-    <circuit>Most</circuit>
-    <country>Czech Republic</country>
-    <race_date>10-10-2022</race_date>
-    <race_time>14:15</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>14:15</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>17:10</broadcast2_time_start>
-    <broadcast2_time_end>18:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
+    <circuit>Inje</circuit>
+    <country>South Korea</country>
+    <race_date>08-10-2022</race_date>
+    <race_time>09:15</race_time>
+    <broadcast1_channel>#Eurosport 2</broadcast1_channel>
+    <broadcast1_time_start>R1 (18-05-2022) 14:15</broadcast1_time_start>
+    <broadcast1_time_end>15:30</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport 2</broadcast2_channel>
+    <broadcast2_time_start>R2 (19-05-2022) 12:55</broadcast2_time_start>
+    <broadcast2_time_end>14:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>$F1</series>
     <circuit>Istanbul</circuit>
@@ -2384,38 +2438,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>WTCR</series>
-    <circuit>Pau</circuit>
-    <country>France</country>
-    <race_date>17-10-2022</race_date>
-    <race_time>10:15</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>10:00</broadcast1_time_start>
-    <broadcast1_time_end>11:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>12:00</broadcast2_time_start>
-    <broadcast2_time_end>13:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>$WTCR</series>
-    <circuit>Inje</circuit>
-    <country>South Korea</country>
-    <race_date>16-10-2022</race_date>
-    <race_time>09:15</race_time>
-    <broadcast1_channel>#Eurosport 2</broadcast1_channel>
-    <broadcast1_time_start>R1 (18-05-2022) 14:15</broadcast1_time_start>
-    <broadcast1_time_end>15:30</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 (19-05-2022) 12:55</broadcast2_time_start>
-    <broadcast2_time_end>14:00</broadcast2_time_end>
-    <broadcast3_channel>#Eurosport 2</broadcast3_channel>
-    <broadcast3_time_start>R3 (19-05-2022) 16:30</broadcast3_time_start>
-    <broadcast3_time_end>17:30</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$Other NASCAR Euro Series</series>
     <circuit>Hockenheimring</circuit>
@@ -2583,10 +2605,10 @@
 <!-- /race -->
 
 <race>
-    <series>$WTCR</series>
+    <series>WTCR</series>
     <circuit>Ningbo</circuit>
     <country>China</country>
-    <race_date>06-11-2022</race_date>
+    <race_date>05-11-2022</race_date>
     <race_time>08:15</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>08:15</broadcast1_time_start>
@@ -2615,7 +2637,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Adria</circuit>
     <country>Italy</country>
     <race_date>07-11-2022</race_date>
@@ -2730,10 +2752,10 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$WTCR</series>
+    <series>WTCR</series>
     <circuit>Macau</circuit>
     <country>Macau</country>
-    <race_date>21-11-2022</race_date>
+    <race_date>19-11-2022</race_date>
     <race_time>07:55</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (16-11-2022) 07:50</broadcast1_time_start>
@@ -2741,9 +2763,9 @@
     <broadcast2_channel>#Eurosport</broadcast2_channel>
     <broadcast2_time_start>R2 (17-11-2022) 01:40</broadcast2_time_start>
     <broadcast2_time_end>02:25</broadcast2_time_end>
-    <broadcast3_channel>#Eurosport</broadcast3_channel>
-    <broadcast3_time_start>R3 (17-11-2022) 04:10</broadcast3_time_start>
-    <broadcast3_time_end>05:10</broadcast3_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
     <series>$Other Super GT x DTM</series>
@@ -2776,22 +2798,6 @@
     <broadcast2_time_end>07:50</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>WTCR</series>
-    <circuit>Sochi</circuit>
-    <country>Russia</country>
-    <race_date>27-11-2022</race_date>
-    <race_time>11:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>11:00</broadcast1_time_start>
-    <broadcast1_time_end>13:00</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
