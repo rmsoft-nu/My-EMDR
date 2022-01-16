@@ -1167,7 +1167,7 @@
 
 <!-- June -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>TBA</circuit>
     <country>TBA</country>
     <race_date>04-06-2022</race_date>
