@@ -59,7 +59,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other eSports V8 Supercars</series>
+    <series>$Other eSports V8 Supercars</series>
     <circuit>Bathurst</circuit>
     <circuit_info>Mountain Straight, Mount Panorama NSW 2795, Australië</circuit_info>
     <country>Australia</country>
@@ -244,7 +244,7 @@
 
 <!-- February -->
 <race>
-    <series>Other GT</series>
+    <series>$Other GT</series>
     <circuit>Bathurst 12 hrs</circuit>
     <circuit_info>Mountain Straight, Mount Panorama NSW 2795, Australië</circuit_info>
     <country>Australia</country>
