@@ -59,9 +59,9 @@
 <!-- /race -->
 
 <race>
-    <series>$Other eSports V8 Supercars</series>
+    <series>Other eSports V8 Supercars</series>
     <circuit>Bathurst</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Mountain Straight, Mount Panorama NSW 2795, Australië</circuit_info>
     <country>Australia</country>
     <race_date>10-06-2022</race_date>
     <race_time>11:00</race_time>
@@ -246,7 +246,7 @@
 <race>
     <series>Other GT</series>
     <circuit>Bathurst 12 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Mountain Straight, Mount Panorama NSW 2795, Australië</circuit_info>
     <country>Australia</country>
     <race_date>01-02-2022</race_date>
     <race_time>19:45</race_time>
@@ -409,7 +409,7 @@
 <race>
     <series>WEC</series>
     <circuit>Sebring 1000 mi.</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>113 Midway Dr, Sebring, FL 33870, Verenigde Staten</circuit_info>
     <country>USA</country>
     <race_date>19-03-2022</race_date>
     <race_time>21:00</race_time>
@@ -587,7 +587,7 @@
 <race>
     <series>WTCR</series>
     <circuit>Most</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Tvrzova 5, Souš, 435 02 Most, Tsjechië</circuit_info>
     <country>Czech Republic</country>
     <race_date>09-04-2022</race_date>
     <race_time>14:15</race_time>
@@ -796,7 +796,7 @@
 <race>
     <series>DTM</series>
     <circuit>Portimão</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão, Portugal</circuit_info>
     <country>Portugal</country>
     <race_date>30-04-2022</race_date>
     <race_time>16:00</race_time>
