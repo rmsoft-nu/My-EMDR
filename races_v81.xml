@@ -444,7 +444,7 @@
 <race>
     <series>F1</series>
     <circuit>Sakhir</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Gate 255, Gulf of Bahrain Avenue Umm Jidar, Sakhir، 1062, Bahrein</circuit_info>
     <country>Bahrain</country>
     <race_date>20-03-2022</race_date>
     <race_time>17:00</race_time>
@@ -462,7 +462,7 @@
 <race>
     <series>F1</series>
     <circuit>Jeddah</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Jeddah 23512, Saoedi-Arabië</circuit_info>
     <country>Saudi Arabia</country>
     <race_date>27-03-2022</race_date>
     <race_time>17:00</race_time>
