@@ -195,7 +195,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Diriyah</circuit>
     <country>Saudi Arabia</country>
     <race_date>29-01-2022</race_date>
@@ -248,7 +248,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Mexico City</circuit>
     <country>Mexico</country>
     <race_date>12-02-2022</race_date>
@@ -385,7 +385,7 @@
 <!-- /race -->
 
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>Sebring 1000 mi.</circuit>
     <country>USA</country>
     <race_date>19-03-2022</race_date>
@@ -418,7 +418,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Sakhir</circuit>
     <country>Bahrain</country>
     <race_date>20-03-2022</race_date>
@@ -435,7 +435,7 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Jeddah</circuit>
     <country>Saudi Arabia</country>
     <race_date>27-03-2022</race_date>
@@ -553,7 +553,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Most</circuit>
     <country>Czech Republic</country>
     <race_date>09-04-2022</race_date>
@@ -569,7 +569,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Rome</circuit>
     <country>Italy</country>
     <race_date>09-04-2022</race_date>
@@ -585,7 +585,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Melbourne</circuit>
     <country>Australia</country>
     <race_date>10-04-2022</race_date>
@@ -701,7 +701,7 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Imola</circuit>
     <country>Italy</country>
     <race_date>24-04-2022</race_date>
@@ -750,7 +750,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Portimão</circuit>
     <country>Portugal</country>
     <race_date>30-04-2022</race_date>
@@ -766,7 +766,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Monte Carlo</circuit>
     <country>Monaco</country>
     <race_date>30-04-2022</race_date>
@@ -851,7 +851,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Pau</circuit>
     <country>France</country>
     <race_date>07-05-2022</race_date>
@@ -867,7 +867,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>Spa-Franc. 6 hrs</circuit>
     <country>Belgium</country>
     <race_date>07-05-2022</race_date>
@@ -884,7 +884,7 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Miami</circuit>
     <country>USA</country>
     <race_date>08-05-2022</race_date>
@@ -918,7 +918,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Berlin</circuit>
     <country>Germany</country>
     <race_date>15-05-2022</race_date>
@@ -1050,7 +1050,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Lausitzring</circuit>
     <country>Germany</country>
     <race_date>21-05-2022</race_date>
@@ -1066,7 +1066,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Barcelona</circuit>
     <country>Spain</country>
     <race_date>22-05-2022</race_date>
@@ -1132,7 +1132,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
     <race_date>28-05-2022</race_date>
@@ -1148,7 +1148,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Monte Carlo</circuit>
     <country>Monaco</country>
     <race_date>29-05-2022</race_date>
@@ -1183,7 +1183,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Jakarta</circuit>
     <country>Indonesia</country>
     <race_date>05-06-2022</race_date>
@@ -1249,7 +1249,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Hungaroring</circuit>
     <country>Hungary</country>
     <race_date>11-06-2022</race_date>
@@ -1265,7 +1265,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>Le Mans 24 hrs</circuit>
     <country>France</country>
     <race_date>11-06-2022</race_date>
@@ -1281,7 +1281,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Baku</circuit>
     <country>Azerbaijan</country>
     <race_date>12-06-2022</race_date>
@@ -1331,7 +1331,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Imola</circuit>
     <country>Italy</country>
     <race_date>18-06-2022</race_date>
@@ -1347,7 +1347,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Montreal</circuit>
     <country>Canada</country>
     <race_date>19-06-2022</race_date>
@@ -1396,7 +1396,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Aragón</circuit>
     <country>Spain</country>
     <race_date>25-06-2022</race_date>
@@ -1448,7 +1448,7 @@
 
 <!-- July -->
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Vila Real</circuit>
     <country>Portugal</country>
     <race_date>02-07-2022</race_date>
@@ -1464,7 +1464,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Norisring</circuit>
     <country>Germany</country>
     <race_date>02-07-2022</race_date>
@@ -1480,7 +1480,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Vancouver</circuit>
     <country>Canada</country>
     <race_date>03-07-2022</race_date>
@@ -1546,7 +1546,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Silverstone</circuit>
     <country>United Kingdom</country>
     <race_date>03-07-2022</race_date>
@@ -1580,7 +1580,7 @@
 <!-- /race -->
 
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>Monza 6 hrs</circuit>
     <country>Italy</country>
     <race_date>10-07-2022</race_date>
@@ -1596,7 +1596,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Red Bull Ring</circuit>
     <country>Austria</country>
     <race_date>10-07-2022</race_date>
@@ -1664,7 +1664,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>New York</circuit>
     <country>USA</country>
     <race_date>17-07-2022</race_date>
@@ -1714,7 +1714,7 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Paul Ricard</circuit>
     <country>France</country>
     <race_date>24-07-2022</race_date>
@@ -1748,7 +1748,7 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Hungaroring</circuit>
     <country>Hungary</country>
     <race_date>31-07-2022</race_date>
@@ -1764,7 +1764,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>London</circuit>
     <country>United Kingdom</country>
     <race_date>31-07-2022</race_date>
@@ -1832,7 +1832,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Sochi</circuit>
     <country>Russia</country>
     <race_date>06-08-2022</race_date>
@@ -1866,7 +1866,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Seoul</circuit>
     <country>South Korea</country>
     <race_date>14-08-2022</race_date>
@@ -1950,7 +1950,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Nürburgring</circuit>
     <country>Germany</country>
     <race_date>27-08-2022</race_date>
@@ -1966,7 +1966,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Spa-Francorchamps</circuit>
     <country>Belgium</country>
     <race_date>28-08-2022</race_date>
@@ -2034,7 +2034,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Zandvoort</circuit>
     <country>Netherlands</country>
     <race_date>04-09-2022</race_date>
@@ -2100,7 +2100,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Spa-Francorchamps</circuit>
     <country>Belgium</country>
     <race_date>10-09-2022</race_date>
@@ -2116,7 +2116,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>Fuji 6 hrs</circuit>
     <country>Japan</country>
     <race_date>11-09-2022</race_date>
@@ -2132,7 +2132,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Monza</circuit>
     <country>Italy</country>
     <race_date>11-09-2022</race_date>
@@ -2216,7 +2216,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Red Bull Ring</circuit>
     <country>Austria</country>
     <race_date>24-09-2022</race_date>
@@ -2281,7 +2281,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Sochi</circuit>
     <country>Russia</country>
     <race_date>25-09-2022</race_date>
@@ -2300,7 +2300,7 @@
 
 <!-- October -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Singapore</circuit>
     <country>Singapore</country>
     <race_date>02-10-2020</race_date>
@@ -2366,7 +2366,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Inje</circuit>
     <country>South Korea</country>
     <race_date>08-10-2022</race_date>
@@ -2382,7 +2382,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Hockenheimring</circuit>
     <country>Germany</country>
     <race_date>08-10-2022</race_date>
@@ -2416,7 +2416,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Suzuka</circuit>
     <country>Japan</country>
     <race_date>09-10-2022</race_date>
@@ -2514,7 +2514,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Austin</circuit>
     <country>USA</country>
     <race_date>23-10-2022</race_date>
@@ -2563,7 +2563,7 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Mexico City</circuit>
     <country>Mexico</country>
     <race_date>30-10-2022</race_date>
@@ -2599,7 +2599,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Ningbo</circuit>
     <country>China</country>
     <race_date>05-11-2022</race_date>
@@ -2649,7 +2649,7 @@
 <!-- /race -->
 
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>Sakhir 8 hrs</circuit>
     <country>Bahrain</country>
     <race_date>12-11-2022</race_date>
@@ -2665,7 +2665,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Interlagos</circuit>
     <country>Brazil</country>
     <race_date>13-11-2022</race_date>
@@ -2715,7 +2715,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Macau</circuit>
     <country>Macau</country>
     <race_date>19-11-2022</race_date>
@@ -2731,7 +2731,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Abu Dhabi</circuit>
     <country>United Arab Emirates</country>
     <race_date>20-11-2022</race_date>
@@ -2851,7 +2851,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$F1</series>
+    <series>F1</series>
     <circuit>* Please upgrade to v8.1 for the latest app version *</circuit>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -2883,7 +2883,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$DTM</series>
+    <series>DTM</series>
     <circuit>* Please upgrade to v8.1 for the latest app version *</circuit>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -2915,7 +2915,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$WTCR</series>
+    <series>WTCR</series>
     <circuit>* Please upgrade to v8.1 for the latest app version *</circuit>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -2946,7 +2946,7 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race --><race>
-    <series>$WEC</series>
+    <series>WEC</series>
     <circuit>* Please upgrade to v8.1 for the latest app version *</circuit>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -2978,7 +2978,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Formula E</series>
+    <series>Formula E</series>
     <circuit>* Please upgrade to v8.1 for the latest app version *</circuit>
     <country>Chile</country>
     <race_date>****</race_date>
