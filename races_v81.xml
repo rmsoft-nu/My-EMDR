@@ -208,15 +208,15 @@
 <race>
     <series>Formula E</series>
     <circuit>Diriyah</circuit>
-    <circuit_info>Ad Diriyah 13711, Saoedi-Arabië</circuit_info>
+    <circuit_info>Formula E, Ad Diriyah 13721, Saoedi-Arabië</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>29-01-2022</race_date>
+    <race_date>28-01-2022</race_date>
     <race_time>18:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (26-02-2022) 17:30</broadcast1_time_start>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (28-01-2022) 17:45</broadcast1_time_start>
     <broadcast1_time_end>19:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (27-02-2022) 17:30</broadcast2_time_start>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (29-01-2022) 17:45</broadcast2_time_start>
     <broadcast2_time_end>19:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
