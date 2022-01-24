@@ -224,11 +224,11 @@
 <!-- /race -->
 
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Daytona 24 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Daytona International Speedway, 1801 W International Speedway Blvd, Daytona Beach, FL 32114, Verenigde Staten</circuit_info>
     <country>USA</country>
-    <race_date>30-01-2022</race_date>
+    <race_date>29-01-2022</race_date>
     <race_time>19:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
