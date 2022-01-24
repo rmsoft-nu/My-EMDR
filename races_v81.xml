@@ -4,168 +4,6 @@
 <!-- v8.1: Added circuit_info -->
 
 <!-- *** eSports *** -->
-<race>
-    <series>$Other eSports IndyCar</series>
-    <circuit>Indianapolis</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>02-05-2022</race_date>
-    <race_time>20:30</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
-    <broadcast2_time_start>https://www.youtube.com/channel/UCy1F61QvUUQXAXi2Voa_fUw</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (IndyCar)</broadcast3_channel>
-    <broadcast3_time_start>https://www.indycar.com/2020/indycar-challenge</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports WTCR</series>
-    <circuit>Sepang</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Malaysia</country>
-    <race_date>18-05-2022</race_date>
-    <race_time>19:30</race_time>
-    <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
-    <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
-    <broadcast2_time_start>https://www.youtube.com/channel/UC_hyZEj1aRrbDkbWnKWekZA</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Facebook)</broadcast3_channel>
-    <broadcast3_time_start>https://www.facebook.com/WorldTouringCarCup</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports DTM</series>
-    <circuit>- TBD</circuit>
-    <circuit_info>-</circuit_info>
-    <country>TBD</country>
-    <race_date>31-05-2022</race_date>
-    <race_time>14:00</race_time>
-    <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
-    <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports V8 Supercars</series>
-    <circuit>Bathurst</circuit>
-    <circuit_info>Mountain Straight, Mount Panorama NSW 2795, Australië</circuit_info>
-    <country>Australia</country>
-    <race_date>10-06-2022</race_date>
-    <race_time>11:00</race_time>
-    <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
-    <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Twitch)</broadcast3_channel>
-    <broadcast3_time_start>https://www.twitch.tv/supercarschampionship</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports IMSA</series>
-    <circuit>Watkins Glen</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>11-06-2022</race_date>
-    <race_time>23:55</race_time>
-    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/channel/UCPEcqkRG-kf2Vk6Rn_2WZSQ</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Facebook)</broadcast2_channel>
-    <broadcast2_time_start>https://www.facebook.com/iracing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Twitch)</broadcast3_channel>
-    <broadcast3_time_start>https://www.twitch.tv/iRacing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports</series>
-    <circuit>Le Mans 24 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>France</country>
-    <race_date>13-06-2022</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
-    <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports F1</series>
-    <circuit>Montreal</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Canada</country>
-    <race_date>14-06-2022</race_date>
-    <race_time>19:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
-    <broadcast2_time_start>https://www.youtube.com/channel/UCB_qr75-ydFVKSF9Dmo6izg</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Facebook)</broadcast3_channel>
-    <broadcast3_time_start>https://www.facebook.com/Formula1</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports W Series</series>
-    <circuit>Silverstone</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Kingdom</country>
-    <race_date>13-08-2022</race_date>
-    <race_time>20:00</race_time>
-    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/channel/UCJLYYJeMwhH_zgerqWXZSpw</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Facebook)</broadcast2_channel>
-    <broadcast2_time_start>https://www.facebook.com/wseriesracing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other eSports EuroNASCAR</series>
-    <circuit>Zolder</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Belgium</country>
-    <race_date>14-07-2022</race_date>
-    <race_time>20:00</race_time>
-    <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
-    <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
-    <broadcast2_time_start>https://www.youtube.com/channel/UCBC6q0W_XvlektRSbjJ4mgg</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<!-- *** eSports *** -->
 
 
 <!-- January -->
@@ -208,7 +46,7 @@
 <race>
     <series>Formula E</series>
     <circuit>Diriyah</circuit>
-    <circuit_info>QG7P+26J Formula E, Ad Diriyah 13721, Saoedi-Arabië</circuit_info>
+    <circuit_info>QG7P+26J Formula E, Ad Diriyah 13721</circuit_info>
     <country>Saudi Arabia</country>
     <race_date>28-01-2022</race_date>
     <race_time>18:00</race_time>
@@ -222,11 +60,10 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>Other IMSA</series>
     <circuit>Daytona 24 hrs</circuit>
-    <circuit_info>Daytona International Speedway, 1801 W International Speedway Blvd, Daytona Beach, FL 32114, Verenigde Staten</circuit_info>
+    <circuit_info>Daytona International Speedway, 1801 W International Speedway Blvd, Daytona Beach, FL 32114</circuit_info>
     <country>USA</country>
     <race_date>29-01-2022</race_date>
     <race_time>19:30</race_time>
@@ -246,7 +83,7 @@
 <race>
     <series>$Other GT</series>
     <circuit>Bathurst 12 hrs</circuit>
-    <circuit_info>Mountain Straight, Mount Panorama NSW 2795, Australië</circuit_info>
+    <circuit_info>Mountain Straight, Mount Panorama NSW 2795</circuit_info>
     <country>Australia</country>
     <race_date>01-02-2022</race_date>
     <race_time>19:45</race_time>
@@ -409,7 +246,7 @@
 <race>
     <series>WEC</series>
     <circuit>Sebring 1000 mi.</circuit>
-    <circuit_info>113 Midway Dr, Sebring, FL 33870, Verenigde Staten</circuit_info>
+    <circuit_info>113 Midway Dr, Sebring, FL 33870</circuit_info>
     <country>USA</country>
     <race_date>19-03-2022</race_date>
     <race_time>21:00</race_time>
@@ -444,7 +281,7 @@
 <race>
     <series>F1</series>
     <circuit>Sakhir</circuit>
-    <circuit_info>Gate 255, Gulf of Bahrain Avenue Umm Jidar, Sakhir، 1062, Bahrein</circuit_info>
+    <circuit_info>Gate 255, Gulf of Bahrain Avenue Umm Jidar, Sakhir، 1062</circuit_info>
     <country>Bahrain</country>
     <race_date>20-03-2022</race_date>
     <race_time>17:00</race_time>
@@ -462,7 +299,7 @@
 <race>
     <series>F1</series>
     <circuit>Jeddah</circuit>
-    <circuit_info>Jeddah 23512, Saoedi-Arabië</circuit_info>
+    <circuit_info>Jeddah 23512</circuit_info>
     <country>Saudi Arabia</country>
     <race_date>27-03-2022</race_date>
     <race_time>17:00</race_time>
@@ -587,7 +424,7 @@
 <race>
     <series>WTCR</series>
     <circuit>Most</circuit>
-    <circuit_info>Tvrzova 5, Souš, 435 02 Most, Tsjechië</circuit_info>
+    <circuit_info>Tvrzova 5, Souš, 435 02 Most</circuit_info>
     <country>Czech Republic</country>
     <race_date>09-04-2022</race_date>
     <race_time>14:15</race_time>
@@ -796,7 +633,7 @@
 <race>
     <series>DTM</series>
     <circuit>Portimão</circuit>
-    <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão, Portugal</circuit_info>
+    <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão</circuit_info>
     <country>Portugal</country>
     <race_date>30-04-2022</race_date>
     <race_time>16:00</race_time>
