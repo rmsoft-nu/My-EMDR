@@ -99,6 +99,24 @@
 <!-- /race -->
 
 <race>
+    <series>Other GT Challenge</series>
+    <circuit>Kyalami 9 hrs</circuit>
+    <circuit_info>Kyalami Grand Prix Circuit</circuit_info>
+    <country>South Africa</country>
+    <race_date>05-02-2022</race_date>
+    <race_time>12:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Motorsport.tv - Free Account)</broadcast2_channel>
+    <broadcast2_time_start>https://eu.motorsport.tv/livestream</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.intercontinentalgtchallenge.com/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>Formula E</series>
     <circuit>Mexico City</circuit>
     <circuit_info>Autódromo Hermanos Rodríguez, Mexico City</circuit_info>
