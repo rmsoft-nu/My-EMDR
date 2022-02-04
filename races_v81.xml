@@ -117,12 +117,29 @@
 <!-- /race -->
 
 <race>
+    <series>Other ALMS</series>
+    <circuit>Dubai 4 hrs</circuit>
+    <circuit_info>Dubai Autodrome</circuit_info>
+    <country>United Arab Emirates</country>
+    <race_date>12-02-2022</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>Formula E</series>
     <circuit>Mexico City</circuit>
     <circuit_info>Autódromo Hermanos Rodríguez, Mexico City</circuit_info>
     <country>Mexico</country>
     <race_date>12-02-2022</race_date>
-    <race_time>08:00</race_time>
+    <race_time>22:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>07:45</broadcast1_time_start>
     <broadcast1_time_end>9:15</broadcast1_time_end>
@@ -135,12 +152,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other ALMS</series>
-    <circuit>Sepang 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Malaysia</country>
-    <race_date>16-02-2022</race_date>
-    <race_time>09:30</race_time>
+    <series>Other ALMS</series>
+    <circuit>Abu Dhabi 4 hrs</circuit>
+    <circuit_info>Yas Marina Circuit F1 Track</circuit_info>
+    <country>United Arab Emirates</country>
+    <race_date>19-02-2022</race_date>
+    <race_time>11:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -152,23 +169,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>$Other ALMS</series>
-    <circuit>Buriram 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Thailand</country>
-    <race_date>23-02-2022</race_date>
-    <race_time>05:15</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$WEC</series>
     <circuit>Austin 6 hrs</circuit>
@@ -299,7 +299,7 @@
 <race>
     <series>F1</series>
     <circuit>Sakhir</circuit>
-    <circuit_info>Gate 255, Gulf of Bahrain Avenue Umm Jidar, Sakhir، 1062</circuit_info>
+    <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
     <race_date>20-03-2022</race_date>
     <race_time>17:00</race_time>
@@ -2664,7 +2664,7 @@
 <race>
     <series>WEC</series>
     <circuit>Sakhir 8 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
     <race_date>12-11-2022</race_date>
     <race_time>10:00</race_time>
