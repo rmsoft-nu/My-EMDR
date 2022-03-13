@@ -1796,7 +1796,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Sochi</circuit>
     <circuit_info>-</circuit_info>
     <country>Russia</country>
