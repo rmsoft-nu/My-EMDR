@@ -266,26 +266,26 @@
     <circuit>Sebring 1000 mi.</circuit>
     <circuit_info>113 Midway Dr, Sebring, FL 33870</circuit_info>
     <country>USA</country>
-    <race_date>19-03-2022</race_date>
-    <race_time>21:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(20-03-2022) 20:45</broadcast1_time_start>
-    <broadcast1_time_end>(21-03-2022) 05:30</broadcast1_time_end>
+    <race_date>18-03-2022</race_date>
+    <race_time>17:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>(18-03-2022) 16:00</broadcast1_time_start>
+    <broadcast1_time_end>(19-03-2022) 01:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Sebring 12 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>20-03-2022</race_date>
-    <race_time>16:00</race_time>
+    <race_date>19-03-2022</race_date>
+    <race_time>15:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -302,7 +302,7 @@
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
     <race_date>20-03-2022</race_date>
-    <race_time>17:00</race_time>
+    <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -320,7 +320,7 @@
     <circuit_info>Jeddah 23512</circuit_info>
     <country>Saudi Arabia</country>
     <race_date>27-03-2022</race_date>
-    <race_time>17:00</race_time>
+    <race_time>19:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -796,7 +796,7 @@
     <circuit_info>-</circuit_info>
     <country>USA</country>
     <race_date>08-05-2022</race_date>
-    <race_time>21:00</race_time>
+    <race_time>21:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -1217,7 +1217,7 @@
     <circuit_info>-</circuit_info>
     <country>Azerbaijan</country>
     <race_date>12-06-2022</race_date>
-    <race_time>14:00</race_time>
+    <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2272,7 +2272,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Sochi</circuit>
     <circuit_info>-</circuit_info>
     <country>Russia</country>
@@ -2297,7 +2297,7 @@
     <circuit_info>-</circuit_info>
     <country>Singapore</country>
     <race_date>02-10-2020</race_date>
-    <race_time>14:10</race_time>
+    <race_time>14:00</race_time>
     <broadcast1_channel>#RTL Television</broadcast1_channel>
     <broadcast1_time_start>13:15</broadcast1_time_start>
     <broadcast1_time_end>16:45</broadcast1_time_end>
@@ -2576,7 +2576,7 @@
     <circuit_info>-</circuit_info>
     <country>Mexico</country>
     <race_date>30-10-2022</race_date>
-    <race_time>20:00</race_time>
+    <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2684,7 +2684,7 @@
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
     <race_date>13-11-2022</race_date>
-    <race_time>18:00</race_time>
+    <race_time>19:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2754,7 +2754,7 @@
     <circuit_info>-</circuit_info>
     <country>United Arab Emirates</country>
     <race_date>20-11-2022</race_date>
-    <race_time>15:00</race_time>
+    <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
