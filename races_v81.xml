@@ -208,24 +208,6 @@
 <!-- /race -->
 
 <race>
-    <series>$Other GT WC America</series>
-    <circuit>Sonoma</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>06-03-2022</race_date>
-    <race_time>23:15</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$Other 24H Series</series>
     <circuit>Silverstone 24 hrs</circuit>
     <circuit_info>-</circuit_info>
@@ -543,6 +525,40 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>Other GT WC America</series>
+    <circuit>Sonoma</circuit>
+    <circuit_info>-</circuit_info>
+    <country>USA</country>
+    <race_date>16-04-2022</race_date>
+    <race_time>23:15</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>Other ELMS</series>
+    <circuit>Le Castellet 4 hrs</circuit>
+    <circuit_info>-</circuit_info>
+    <country>France</country>
+    <race_date>17-04-2022</race_date>
+    <race_time>11:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (ELMS)</broadcast2_channel>
+    <broadcast2_time_start>https://live.europeanlemansseries.com/en</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>$Other ELMS</series>
     <circuit>Barcelona 4 hrs</circuit>
@@ -1154,23 +1170,6 @@
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>$Other ELMS</series>
-    <circuit>Le Castellet 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>France</country>
-    <race_date>06-06-2022</race_date>
-    <race_time>11:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (ELMS)</broadcast2_channel>
-    <broadcast2_time_start>https://live.europeanlemansseries.com/en</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
