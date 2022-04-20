@@ -615,7 +615,7 @@
 <race>
     <series>F1</series>
     <circuit>Imola</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
     <race_date>24-04-2022</race_date>
     <race_time>15:00</race_time>
@@ -1072,7 +1072,7 @@
 <race>
     <series>WTCR</series>
     <circuit>Nürburgring</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
     <country>Germany</country>
     <race_date>28-05-2022</race_date>
     <race_time>09:00</race_time>
@@ -1547,7 +1547,7 @@
 <race>
     <series>F1</series>
     <circuit>Red Bull Ring</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
     <country>Austria</country>
     <race_date>10-07-2022</race_date>
     <race_time>15:00</race_time>
@@ -1939,7 +1939,7 @@
 <race>
     <series>F1</series>
     <circuit>Spa-Francorchamps</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>28-08-2022</race_date>
     <race_time>15:00</race_time>
