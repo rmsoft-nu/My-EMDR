@@ -989,14 +989,14 @@
     <country>Germany</country>
     <race_date>21-05-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-07-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (21-05-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-07-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (22-05-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1270,14 +1270,14 @@
     <country>Italy</country>
     <race_date>18-06-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (27-06-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (18-06-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (28-06-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (16-09-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1411,14 +1411,14 @@
     <country>Germany</country>
     <race_date>02-07-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (09-10-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (02-07-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (10-10-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (03-07-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1926,14 +1926,14 @@
     <country>Germany</country>
     <race_date>27-08-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (21-08-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (27-08-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (22-08-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (28-08-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -2085,14 +2085,14 @@
     <country>Belgium</country>
     <race_date>10-09-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (07-08-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (10-09-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (08-08-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (11-09-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -2208,14 +2208,14 @@
     <country>Austria</country>
     <race_date>24-09-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (04-09-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (24-09-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (05-09-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (25-09-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2384,14 +2384,14 @@
     <country>Germany</country>
     <race_date>08-10-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (02-10-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (08-10-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (03-10-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (09-10-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
