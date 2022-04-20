@@ -619,9 +619,9 @@
     <country>Italy</country>
     <race_date>24-04-2022</race_date>
     <race_time>15:00</race_time>
-    <broadcast1_channel>RTL Television</broadcast1_channel>
-    <broadcast1_time_start>13:30</broadcast1_time_start>
-    <broadcast1_time_end>17:15</broadcast1_time_end>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
     <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -1006,9 +1006,9 @@
     <country>Spain</country>
     <race_date>22-05-2022</race_date>
     <race_time>15:00</race_time>
-    <broadcast1_channel>RTL Television</broadcast1_channel>
-    <broadcast1_time_start>14:00</broadcast1_time_start>
-    <broadcast1_time_end>17:15</broadcast1_time_end>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
     <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -2297,13 +2297,13 @@
     <country>Singapore</country>
     <race_date>02-10-2020</race_date>
     <race_time>14:00</race_time>
-    <broadcast1_channel>#RTL Television</broadcast1_channel>
-    <broadcast1_time_start>13:15</broadcast1_time_start>
-    <broadcast1_time_end>16:45</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing (Free Account)</broadcast3_channel>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
