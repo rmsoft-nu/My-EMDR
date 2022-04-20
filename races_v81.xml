@@ -671,14 +671,14 @@
     <country>Portugal</country>
     <race_date>30-04-2022</race_date>
     <race_time>16:00</race_time>
-    <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-07-2022) 13:00</broadcast1_time_start>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (30-04-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-07-2022) 13:00</broadcast2_time_start>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (01-05-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
