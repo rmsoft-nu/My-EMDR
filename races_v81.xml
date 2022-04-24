@@ -665,6 +665,23 @@
 <!-- /race -->
 
 <race>
+    <series>Formula E</series>
+    <circuit>Monte Carlo</circuit>
+    <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
+    <country>Monaco</country>
+    <race_date>30-04-2022</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>14:30</broadcast1_time_start>
+    <broadcast1_time_end>16:00</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>DTM</series>
     <circuit>Portimão</circuit>
     <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão</circuit_info>
@@ -682,20 +699,20 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
-    <circuit>Monte Carlo</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Monaco</country>
-    <race_date>30-04-2022</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>15:30</broadcast1_time_start>
-    <broadcast1_time_end>17:30</broadcast1_time_end>
-    <broadcast2_channel>#Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <series>Other IMSA</series>
+    <circuit>Laguna Seca</circuit>
+    <circuit_info>Laguna Seca, Monterey Salinas Highway, Salinas, Californië</circuit_info>
+    <country>USA</country>
+    <race_date>01-05-2022</race_date>
+    <race_time>22:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1089,7 +1106,7 @@
 <race>
     <series>F1</series>
     <circuit>Monte Carlo</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
     <race_date>29-05-2022</race_date>
     <race_time>15:00</race_time>
