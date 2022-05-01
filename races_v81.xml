@@ -791,7 +791,7 @@
 <race>
     <series>WEC</series>
     <circuit>Spa-Franc. 6 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>07-05-2022</race_date>
     <race_time>13:00</race_time>
@@ -808,7 +808,7 @@
 <race>
     <series>WTCR</series>
     <circuit>Pau</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Circuit de Pau-Ville</circuit_info>
     <country>France</country>
     <race_date>08-05-2022</race_date>
     <race_time>13:10</race_time>
@@ -825,7 +825,7 @@
 <race>
     <series>F1</series>
     <circuit>Miami</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Miami Grand Prix</circuit_info>
     <country>USA</country>
     <race_date>08-05-2022</race_date>
     <race_time>21:30</race_time>
@@ -878,7 +878,7 @@
 <race>
     <series>Other GT WC Europe</series>
     <circuit>Magny-Cours</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Circuit Magny-Cours, Magny-Cours</circuit_info>
     <country>France</country>
     <race_date>15-05-2022</race_date>
     <race_time>14:00</race_time>
@@ -1706,7 +1706,7 @@
 <race>
     <series>$Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>31-07-2022</race_date>
     <race_time>16:30</race_time>
@@ -2202,7 +2202,7 @@
 <race>
     <series>$Other ELMS</series>
     <circuit>Spa-Franc. 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>19-09-2022</race_date>
     <race_time>11:00</race_time>
@@ -2553,7 +2553,7 @@
 <race>
     <series>$Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>24-10-2022</race_date>
     <race_time>15:30</race_time>
