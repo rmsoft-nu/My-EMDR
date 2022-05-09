@@ -861,7 +861,7 @@
 <race>
     <series>Formula E</series>
     <circuit>Berlin</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
     <country>Germany</country>
     <race_date>14-05-2022</race_date>
     <race_time>15:00</race_time>
@@ -895,7 +895,7 @@
 <race>
     <series>Other ELMS</series>
     <circuit>Imola 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
     <race_date>15-05-2022</race_date>
     <race_time>11:30</race_time>
@@ -929,7 +929,7 @@
 <race>
     <series>Other IMSA</series>
     <circuit>Mid-Ohio</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>7721 Steam Corners Rd, Lexington, OH 44904, Verenigde Staten</circuit_info>
     <country>USA</country>
     <race_date>16-05-2022</race_date>
     <race_time>20:00</race_time>
@@ -1509,7 +1509,7 @@
 <race>
     <series>$Other GT WC Europe</series>
     <circuit>Imola</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
     <race_date>03-07-2022</race_date>
     <race_time>15:00</race_time>
