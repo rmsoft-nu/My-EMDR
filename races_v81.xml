@@ -864,14 +864,14 @@
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>15-05-2022</race_date>
-    <race_time>14:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (14-08-2022) 13:30</broadcast1_time_start>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (15-05-2022) 13:30</broadcast1_time_start>
     <broadcast1_time_end>15:30</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (15-08-2022) 15:00</broadcast2_time_start>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (16-05-2022) 15:00</broadcast2_time_start>
     <broadcast2_time_end>17:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
@@ -911,12 +911,29 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Other IMSA</series>
+    <series>Other ELMS</series>
+    <circuit>Imola 4 hrs</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Italy</country>
+    <race_date>15-05-2022</race_date>
+    <race_time>11:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (ELMS)</broadcast2_channel>
+    <broadcast2_time_start>https://live.europeanlemansseries.com/en</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>Other IMSA</series>
     <circuit>Mid-Ohio</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
     <race_date>16-05-2022</race_date>
-    <race_time>19:30</race_time>
+    <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -1022,13 +1039,13 @@
     <country>Germany</country>
     <race_date>21-05-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (21-05-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
     <broadcast2_time_start>R2 (22-05-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
@@ -1086,7 +1103,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Nürburgring</circuit>
     <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
     <country>Germany</country>
