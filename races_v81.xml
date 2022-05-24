@@ -1158,7 +1158,7 @@
 <race>
     <series>Formula E</series>
     <circuit>Jakarta</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Jakarta International ePrix Circuit</circuit_info>
     <country>Indonesia</country>
     <race_date>04-06-2022</race_date>
     <race_time>10:00</race_time>
@@ -1175,7 +1175,7 @@
 <race>
     <series>Other IMSA</series>
     <circuit>Detroit</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Belle Isle Park</circuit_info>
     <country>USA</country>
     <race_date>04-06-2022</race_date>
     <race_time>21:10</race_time>
