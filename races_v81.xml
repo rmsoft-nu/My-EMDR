@@ -1163,13 +1163,30 @@
     <race_date>04-06-2022</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
-    <broadcast1_time_start>16:15</broadcast1_time_start>
-    <broadcast1_time_end>17:45</broadcast1_time_end>
-    <broadcast2_channel>#Timing</broadcast2_channel>
+    <broadcast1_time_start>09:30</broadcast1_time_start>
+    <broadcast1_time_end>11:30</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
     <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>Other GT WC Europe</series>
+    <circuit>Paul Ricard 1000 km</circuit>
+    <circuit_info>Circuit Paul Ricard</circuit_info>
+    <country>France</country>
+    <race_date>04-06-2022</race_date>
+    <race_time>17:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Motorsport.tv - Free Account)</broadcast2_channel>
+    <broadcast2_time_start>https://eu.motorsport.tv/livestream</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
+    <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
