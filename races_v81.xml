@@ -1243,43 +1243,43 @@
 <!-- /race -->
 
 <race>
+    <series>WEC</series>
+    <circuit>Le Mans 24 hrs</circuit>
+    <circuit_info>Circuit de la Sarthe</circuit_info>
+    <country>France</country>
+    <race_date>11-06-2022</race_date>
+    <race_time>16:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>(11-06-2022) 15:45</broadcast1_time_start>
+    <broadcast1_time_end>(12-06-2022) 16:15</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>WTCR</series>
     <circuit>Hungaroring</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
-    <race_date>11-06-2022</race_date>
-    <race_time>12:15</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 12:15</broadcast1_time_start>
-    <broadcast1_time_end>13:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 15:15</broadcast2_time_start>
-    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <race_date>12-06-2022</race_date>
+    <race_time>11:15</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 11:00</broadcast1_time_start>
+    <broadcast1_time_end>12:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 16:30</broadcast2_time_start>
+    <broadcast2_time_end>17:30</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
-    <circuit>Le Mans 24 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>France</country>
-    <race_date>11-06-2022</race_date>
-    <race_time>14:30</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(11-06-2022) 14:00</broadcast1_time_start>
-    <broadcast1_time_end>(12-06-2022) 15:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>(11-06-2022) 14:00</broadcast2_time_start>
-    <broadcast2_time_end>(12-06-2022) 15:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>F1</series>
     <circuit>Baku</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Baku City Circuit</circuit_info>
     <country>Azerbaijan</country>
     <race_date>12-06-2022</race_date>
     <race_time>13:00</race_time>
@@ -1319,13 +1319,13 @@
     <country>Italy</country>
     <race_date>18-06-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (18-06-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
     <broadcast2_time_start>R2 (16-09-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
