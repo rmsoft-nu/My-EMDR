@@ -1330,9 +1330,26 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
+    <series>Other GT WC Europe</series>
+    <circuit>Zandvoort</circuit>
+    <circuit_info>Circuit Zandvoort</circuit_info>
+    <country>Netherlands</country>
+    <race_date>19-06-2022</race_date>
+    <race_time>14:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Motorsport.tv - Free Account)</broadcast2_channel>
+    <broadcast2_time_start>https://eu.motorsport.tv/livestream</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
+    <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>F1</series>
     <circuit>Montreal</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Circuit Gilles Villeneuve</circuit_info>
     <country>Canada</country>
     <race_date>19-06-2022</race_date>
     <race_time>20:00</race_time>
@@ -1346,23 +1363,7 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>$Other GT WC Europe</series>
-    <circuit>Zandvoort</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Netherlands</country>
-    <race_date>19-06-2022</race_date>
-    <race_time>13:15</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Motorsport.tv - Free Account)</broadcast2_channel>
-    <broadcast2_time_start>https://eu.motorsport.tv/livestream</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
-    <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
+
 <race>
     <series>$Other GT WC Asia</series>
     <circuit>Suzuka</circuit>
