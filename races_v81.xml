@@ -1385,18 +1385,35 @@
 <race>
     <series>WTCR</series>
     <circuit>Aragón</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Motorland Aragón</circuit_info>
     <country>Spain</country>
-    <race_date>25-06-2022</race_date>
-    <race_time>13:15</race_time>
-    <broadcast1_channel>#Eurosport 2</broadcast1_channel>
-    <broadcast1_time_start>R1 13:00</broadcast1_time_start>
-    <broadcast1_time_end>14:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 16:00</broadcast2_time_start>
-    <broadcast2_time_end>17:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <race_date>26-06-2022</race_date>
+    <race_time>11:15</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 11:00</broadcast1_time_start>
+    <broadcast1_time_end>12:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 15:00</broadcast2_time_start>
+    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>Other IMSA</series>
+    <circuit>Watkins Glen 6 hrs</circuit>
+    <circuit_info>Watkins Glen International</circuit_info>
+    <country>USA</country>
+    <race_date>26-06-2022</race_date>
+    <race_time>16:40</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1417,43 +1434,9 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>$Other IMSA</series>
-    <circuit>Watkins Glen 6 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>27-06-2022</race_date>
-    <race_time>16:40</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 
 <!-- July -->
-<race>
-    <series>WTCR</series>
-    <circuit>Vila Real</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Portugal</country>
-    <race_date>02-07-2022</race_date>
-    <race_time>11:15</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 11:00</broadcast1_time_start>
-    <broadcast1_time_end>12:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 13:00</broadcast2_time_start>
-    <broadcast2_time_end>14:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>DTM</series>
     <circuit>Norisring</circuit>
@@ -1461,14 +1444,31 @@
     <country>Germany</country>
     <race_date>02-07-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (02-07-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
     <broadcast2_time_start>R2 (03-07-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>WTCR</series>
+    <circuit>Vila Real</circuit>
+    <circuit_info>Circuito Internacional de Vila Real</circuit_info>
+    <country>Portugal</country>
+    <race_date>03-07-2022</race_date>
+    <race_time>13:10</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 13:00</broadcast1_time_start>
+    <broadcast1_time_end>14:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 17:00</broadcast2_time_start>
+    <broadcast2_time_end>18:00</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1490,23 +1490,6 @@
 <!-- /race -->
 
 
-<race>
-    <series>$Other IMSA</series>
-    <circuit>Watkins Glen</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>03-07-2022</race_date>
-    <race_time>00:10</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$Other EuroNASCAR</series>
     <circuit>Brands Hatch</circuit>
@@ -1613,12 +1596,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other ELMS</series>
+    <series>Other ELMS</series>
     <circuit>Monza 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
     <race_date>11-07-2022</race_date>
-    <race_time>11:00</race_time>
+    <race_time>11:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2007,7 +1990,7 @@
 <race>
     <series>$Other GT WC America</series>
     <circuit>Watkins Glen</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
     <race_date>31-08-2022</race_date>
     <race_time>21:10</race_time>
