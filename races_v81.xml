@@ -1455,6 +1455,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
+    <series>Formula E</series>
+    <circuit>Marrakech</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Morocco</country>
+    <race_date>02-07-2022</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>17:30</broadcast1_time_start>
+    <broadcast1_time_end>19:30</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>WTCR</series>
     <circuit>Vila Real</circuit>
     <circuit_info>Circuito Internacional de Vila Real</circuit_info>
@@ -1469,23 +1486,6 @@
     <broadcast2_time_end>18:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Formula E</series>
-    <circuit>Vancouver</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Canada</country>
-    <race_date>03-07-2022</race_date>
-    <race_time>22:30</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (19-06-2022) 22:30</broadcast1_time_start>
-    <broadcast1_time_end>23:30</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (20-06-2022) 22:30</broadcast2_time_start>
-    <broadcast2_time_end>23:30</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
