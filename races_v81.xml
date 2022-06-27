@@ -1472,6 +1472,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
+    <series>Other ELMS</series>
+    <circuit>Monza 4 hrs</circuit>
+    <circuit_info>Autodromo Nazionale Monza</circuit_info>
+    <country>Italy</country>
+    <race_date>03-07-2022</race_date>
+    <race_time>11:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (ELMS)</broadcast2_channel>
+    <broadcast2_time_start>https://live.europeanlemansseries.com/en</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>WTCR</series>
     <circuit>Vila Real</circuit>
     <circuit_info>Circuito Internacional de Vila Real</circuit_info>
@@ -1561,19 +1578,36 @@
 <!-- /race -->
 
 <race>
+    <series>Other 24H Series</series>
+    <circuit>Portimão 24 hrs</circuit>
+    <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão</circuit_info>
+    <country>Portugal</country>
+    <race_date>09-07-2022</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>Internet</broadcast1_channel>
+    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>WEC</series>
     <circuit>Monza 6 hrs</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Autodromo Nazionale Monza</circuit_info>
     <country>Italy</country>
     <race_date>10-07-2022</race_date>
     <race_time>12:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>11:45</broadcast1_time_start>
     <broadcast1_time_end>18:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
@@ -1592,24 +1626,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>Other ELMS</series>
-    <circuit>Monza 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>11-07-2022</race_date>
-    <race_time>11:30</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (ELMS)</broadcast2_channel>
-    <broadcast2_time_start>https://live.europeanlemansseries.com/en</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1682,23 +1698,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>$Other 24H Series</series>
-    <circuit>Portimão 24 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Portugal</country>
-    <race_date>17-07-2022</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>Internet</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
