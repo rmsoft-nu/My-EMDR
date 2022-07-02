@@ -1670,8 +1670,8 @@
     <circuit>New York</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>17-07-2022</race_date>
-    <race_time>22:00</race_time>
+    <race_date>16-07-2022</race_date>
+    <race_time>20:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (10-07-2022) 21:55</broadcast1_time_start>
     <broadcast1_time_end>23:00</broadcast1_time_end>
@@ -1684,12 +1684,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Lime Rock Park</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Lime Rock Park</circuit_info>
     <country>USA</country>
-    <race_date>17-07-2022</race_date>
-    <race_time>22:05</race_time>
+    <race_date>16-07-2022</race_date>
+    <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
