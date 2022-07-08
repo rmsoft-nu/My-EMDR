@@ -1595,7 +1595,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>Monza 6 hrs</circuit>
     <circuit_info>Autodromo Nazionale Monza</circuit_info>
     <country>Italy</country>
@@ -1671,12 +1671,12 @@
     <circuit_info>-</circuit_info>
     <country>USA</country>
     <race_date>16-07-2022</race_date>
-    <race_time>20:00</race_time>
+    <race_time>19:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (10-07-2022) 21:55</broadcast1_time_start>
-    <broadcast1_time_end>23:00</broadcast1_time_end>
+    <broadcast1_time_start>R1 (16-07-2022) 18:55</broadcast1_time_start>
+    <broadcast1_time_end>20:00</broadcast1_time_end>
     <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (11-07-2022) 18:55</broadcast2_time_start>
+    <broadcast2_time_start>R2 (17-07-2022) 18:55</broadcast2_time_start>
     <broadcast2_time_end>20:00</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1701,6 +1701,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>Other GT WC America</series>
+    <circuit>Watkins Glen</circuit>
+    <circuit_info>Watkins Glen International</circuit_info>
+    <country>USA</country>
+    <race_date>23-07-2022</race_date>
+    <race_time>20:15</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Paul Ricard</circuit>
@@ -1983,24 +2000,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other GT WC America</series>
-    <circuit>Watkins Glen</circuit>
-    <circuit_info>Watkins Glen International</circuit_info>
-    <country>USA</country>
-    <race_date>31-08-2022</race_date>
-    <race_time>21:10</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
