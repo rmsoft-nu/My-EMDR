@@ -1753,11 +1753,10 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>F1</series>
     <circuit>Hungaroring</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
     <race_date>31-07-2022</race_date>
     <race_time>15:00</race_time>
@@ -1776,15 +1775,15 @@
     <circuit>London</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>31-07-2022</race_date>
+    <race_date>30-07-2022</race_date>
     <race_time>16:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-07-2022) 15:30</broadcast1_time_start>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (30-07-2022) 15:30</broadcast1_time_start>
     <broadcast1_time_end>17:30</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-07-2022) 14:30</broadcast2_time_start>
-    <broadcast2_time_end>16:30</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (31-07-2022) 15:30</broadcast2_time_start>
+    <broadcast2_time_end>17:30</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
@@ -1844,30 +1843,29 @@
 <!-- /race -->
 
 <race>
-    <series>$WTCR</series>
-    <circuit>Sochi</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Russia</country>
-    <race_date>06-08-2022</race_date>
-    <race_time>11:00</race_time>
+    <series>WTCR</series>
+    <circuit>Mulhouse</circuit>
+    <circuit_info>Anneau du Rhin</circuit_info>
+    <country>France</country>
+    <race_date>07-08-2022</race_date>
+    <race_time>12:15</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>11:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 12:00</broadcast1_time_start>
     <broadcast1_time_end>13:00</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R1 16:00</broadcast2_time_start>
+    <broadcast2_time_end>17:00</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Road America</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Road America</circuit_info>
     <country>USA</country>
-    <race_date>08-08-2022</race_date>
-    <race_time>21:40</race_time>
+    <race_date>07-08-2022</race_date>
+    <race_time>18:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2076,7 +2074,7 @@
 <race>
     <series>$Other GT WC Europe</series>
     <circuit>Hungaroring</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
     <race_date>07-09-2022</race_date>
     <race_time>15:10</race_time>
