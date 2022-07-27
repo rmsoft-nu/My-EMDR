@@ -1737,6 +1737,23 @@
 <!-- /race -->
 
 <race>
+    <series>Formula E</series>
+    <circuit>London</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Kingdom</country>
+    <race_date>30-07-2022</race_date>
+    <race_time>16:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (30-07-2022) 15:30</broadcast1_time_start>
+    <broadcast1_time_end>17:30</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (31-07-2022) 15:30</broadcast2_time_start>
+    <broadcast2_time_end>17:30</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
@@ -1768,23 +1785,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Formula E</series>
-    <circuit>London</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Kingdom</country>
-    <race_date>30-07-2022</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (30-07-2022) 15:30</broadcast1_time_start>
-    <broadcast1_time_end>17:30</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (31-07-2022) 15:30</broadcast2_time_start>
-    <broadcast2_time_end>17:30</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
