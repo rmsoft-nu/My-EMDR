@@ -1848,14 +1848,14 @@
     <circuit_info>Anneau du Rhin</circuit_info>
     <country>France</country>
     <race_date>07-08-2022</race_date>
-    <race_time>12:15</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 12:00</broadcast1_time_start>
-    <broadcast1_time_end>13:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <race_time>11:15</race_time>
+    <broadcast1_channel>urosport</broadcast1_channel>
+    <broadcast1_time_start>R1 11:00</broadcast1_time_start>
+    <broadcast1_time_end>12:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
     <broadcast2_time_start>R1 16:00</broadcast2_time_start>
     <broadcast2_time_end>17:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
