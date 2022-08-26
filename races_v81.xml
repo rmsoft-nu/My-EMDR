@@ -543,23 +543,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Other ELMS</series>
-    <circuit>Barcelona 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Spain</country>
-    <race_date>18-04-2022</race_date>
-    <race_time>11:00</race_time>
-    <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
-    <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
-    <broadcast2_time_start>https://www.youtube.com/channel/UCU8C8RqGhqH4nhk4mlN1Vwg</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Formula E</series>
     <circuit>Paris</circuit>
     <circuit_info>-</circuit_info>
@@ -1991,14 +1974,31 @@
     <country>Germany</country>
     <race_date>27-08-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (27-08-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
     <broadcast2_time_start>R2 (28-08-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>Other ELMS</series>
+    <circuit>Barcelona 4 hrs</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Spain</country>
+    <race_date>28-08-2022</race_date>
+    <race_time>11:00</race_time>
+    <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
+    <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
+    <broadcast2_time_start>https://www.youtube.com/channel/UCU8C8RqGhqH4nhk4mlN1Vwg</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
