@@ -2022,23 +2022,6 @@
 
 <!-- September -->
 <race>
-    <series>$Other 24H Series</series>
-    <circuit>Barcelona</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Spain</country>
-    <race_date>04-09-2022</race_date>
-    <race_time>12:00</race_time>
-    <broadcast1_channel>Internet</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>http://www.24hseries.com/live</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$WEC</series>
     <circuit>Silverstone 4 hrs</circuit>
     <circuit_info>-</circuit_info>
@@ -2126,19 +2109,36 @@
 <!-- /race -->
 
 <race>
+    <series>Other 24H Series</series>
+    <circuit>Barcelona</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Spain</country>
+    <race_date>10-09-2022</race_date>
+    <race_time>13:00</race_time>
+    <broadcast1_channel>Internet</broadcast1_channel>
+    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>http://www.24hseries.com/live</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>DTM</series>
     <circuit>Spa-Francorchamps</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>10-09-2022</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (10-09-2022) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
     <broadcast2_time_start>R2 (11-09-2022) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
