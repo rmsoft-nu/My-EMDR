@@ -2143,7 +2143,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
+    <series>#WEC</series>
     <circuit>Fuji 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
