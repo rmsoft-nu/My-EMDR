@@ -2496,6 +2496,24 @@
 <!-- /race -->
 
 <race>
+    <series>Other ELMS</series>
+    <circuit>Portimão 4 hrs</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Portugal</country>
+    <race_date>16-10-2022</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
+    <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
+    <broadcast2_time_start>https://www.youtube.com/watch?v=EXx56RYzbPU</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$Other NASCAR Euro Series</series>
     <circuit>Hockenheimring</circuit>
     <circuit_info>-</circuit_info>
@@ -2547,23 +2565,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>$Other ELMS</series>
-    <circuit>Portimão 4 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Portugal</country>
-    <race_date>24-10-2022</race_date>
-    <race_time>13:00</race_time>
-    <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
-    <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
-    <broadcast2_time_start>https://www.youtube.com/watch?v=EXx56RYzbPU</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Austin</circuit>
