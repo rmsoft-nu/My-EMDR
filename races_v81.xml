@@ -2581,23 +2581,6 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>$WTCR</series>
-    <circuit>Suzuka</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Japan</country>
-    <race_date>26-10-2022</race_date>
-    <race_time>08:05</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 07:50</broadcast1_time_start>
-    <broadcast1_time_end>08:50</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>F1</series>
@@ -2638,7 +2621,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Ningbo</circuit>
     <circuit_info>-</circuit_info>
     <country>China</country>
@@ -2654,20 +2637,21 @@
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
-    <series>$WTCR</series>
-    <circuit>Adria</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>07-11-2022</race_date>
-    <race_time>10:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 10:00</broadcast1_time_start>
-    <broadcast1_time_end>11:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 12:00</broadcast2_time_start>
-    <broadcast2_time_end>13:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
+    <series>WTCR</series>
+    <circuit>Sakhir</circuit>
+    <circuit_info>Bahrain International Circuit</circuit_info>
+    <country>Bahrain</country>
+    <race_date>12-11-2022</race_date>
+    <race_time>08:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 07:50</broadcast1_time_start>
+    <broadcast1_time_end>08:50</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
@@ -2761,7 +2745,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Macau</circuit>
     <circuit_info>-</circuit_info>
     <country>Macau</country>
@@ -2847,12 +2831,30 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>WTCR</series>
+    <circuit>Jeddah</circuit>
+    <circuit_info>Jeddah 23512</circuit_info>
+    <country>Saudi Arabia</country>
+    <race_date>26-11-2022</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 10:00</broadcast1_time_start>
+    <broadcast1_time_end>11:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 12:00</broadcast2_time_start>
+    <broadcast2_time_end>13:00</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 
 <!-- December -->
 <race>
     <series>$Other GT Nations Cup</series>
     <circuit>Sakhir</circuit>
-    <circuit_info>-</circuit_info>
+    <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
     <race_date>01-12-2022</race_date>
     <race_time>17:30</race_time>
