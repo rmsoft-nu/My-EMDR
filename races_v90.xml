@@ -8,7 +8,7 @@
 
 <!-- January -->
 <race>
-    <series>$Other 24H Series</series>
+    <series>Other 24H Series</series>
     <circuit>Dubai 24 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>United Arab Emirates</country>
@@ -61,7 +61,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Daytona 24 hrs</circuit>
     <circuit_info>Daytona International Speedway, 1801 W International Speedway Blvd, Daytona Beach, FL 32114</circuit_info>
     <country>USA</country>
@@ -99,7 +99,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT Challenge</series>
+    <series>$Other GT Challenge</series>
     <circuit>Kyalami 9 hrs</circuit>
     <circuit_info>Kyalami Grand Prix Circuit</circuit_info>
     <country>South Africa</country>
@@ -117,7 +117,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other ALMS</series>
+    <series>$Other ALMS</series>
     <circuit>Dubai 4 hrs</circuit>
     <circuit_info>Dubai Autodrome</circuit_info>
     <country>United Arab Emirates</country>
@@ -152,7 +152,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other ALMS</series>
+    <series>$Other ALMS</series>
     <circuit>Abu Dhabi 4 hrs</circuit>
     <circuit_info>Yas Marina Circuit F1 Track</circuit_info>
     <country>United Arab Emirates</country>
@@ -262,7 +262,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Sebring 12 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -439,7 +439,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Long Beach</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -509,7 +509,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Sonoma</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -526,7 +526,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Le Castellet 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>France</country>
@@ -579,7 +579,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other Super Formula</series>
+    <series>$Other Super Formula</series>
     <circuit>Suzuka</circuit>
     <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
     <country>Japan</country>
@@ -665,7 +665,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Portimão</circuit>
     <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão</circuit_info>
     <country>Portugal</country>
@@ -682,7 +682,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Laguna Seca</circuit>
     <circuit_info>Laguna Seca, Monterey Salinas Highway, Salinas, Californië</circuit_info>
     <country>USA</country>
@@ -789,7 +789,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Pau</circuit>
     <circuit_info>Circuit de Pau-Ville</circuit_info>
     <country>France</country>
@@ -876,7 +876,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Imola 4 hrs</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
@@ -893,7 +893,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Magny-Cours</circuit>
     <circuit_info>Circuit Magny-Cours, Magny-Cours</circuit_info>
     <country>France</country>
@@ -910,7 +910,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Mid-Ohio</circuit>
     <circuit_info>7721 Steam Corners Rd, Lexington, OH 44904, Verenigde Staten</circuit_info>
     <country>USA</country>
@@ -1015,7 +1015,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Lausitzring</circuit>
     <circuit_info>Lausitzallee 1, 01998 Schipkau, Duitsland</circuit_info>
     <country>Germany</country>
@@ -1085,7 +1085,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Nürburgring</circuit>
     <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
     <country>Germany</country>
@@ -1156,7 +1156,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Paul Ricard 1000 km</circuit>
     <circuit_info>Circuit Paul Ricard</circuit_info>
     <country>France</country>
@@ -1173,7 +1173,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Detroit</circuit>
     <circuit_info>Belle Isle Park</circuit_info>
     <country>USA</country>
@@ -1243,7 +1243,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Hungaroring</circuit>
     <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
@@ -1296,7 +1296,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Imola</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
@@ -1313,7 +1313,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Zandvoort</circuit>
     <circuit_info>Circuit Zandvoort</circuit_info>
     <country>Netherlands</country>
@@ -1366,7 +1366,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Aragón</circuit>
     <circuit_info>Motorland Aragón</circuit_info>
     <country>Spain</country>
@@ -1383,7 +1383,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Watkins Glen 6 hrs</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
@@ -1421,7 +1421,7 @@
 
 <!-- July -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Norisring</circuit>
     <circuit_info>Norisring, Zeppelinstraße, Neurenberg, Duitsland</circuit_info>
     <country>Germany</country>
@@ -1455,7 +1455,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Monza 4 hrs</circuit>
     <circuit_info>Autodromo Nazionale Monza</circuit_info>
     <country>Italy</country>
@@ -1472,7 +1472,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Vila Real</circuit>
     <circuit_info>Circuito Internacional de Vila Real</circuit_info>
     <country>Portugal</country>
@@ -1561,7 +1561,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other 24H Series</series>
+    <series>$Other 24H Series</series>
     <circuit>Portimão 24 hrs</circuit>
     <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão</circuit_info>
     <country>Portugal</country>
@@ -1667,7 +1667,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Lime Rock Park</circuit>
     <circuit_info>Lime Rock Park</circuit_info>
     <country>USA</country>
@@ -1685,7 +1685,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Watkins Glen</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
@@ -1737,7 +1737,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
@@ -1826,7 +1826,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Mulhouse</circuit>
     <circuit_info>Anneau du Rhin</circuit_info>
     <country>France</country>
@@ -1843,7 +1843,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Road America</circuit>
     <circuit_info>Road America</circuit_info>
     <country>USA</country>
@@ -1914,7 +1914,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Road America</circuit>
     <circuit_info>Road America</circuit_info>
     <country>USA</country>
@@ -1968,7 +1968,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Nürburgring</circuit>
     <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
     <country>Germany</country>
@@ -1985,7 +1985,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Barcelona 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
@@ -2109,7 +2109,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other 24H Series</series>
+    <series>$Other 24H Series</series>
     <circuit>Barcelona</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
@@ -2126,7 +2126,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Spa-Francorchamps</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
@@ -2249,7 +2249,7 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Red Bull Ring</circuit>
     <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
     <country>Austria</country>
@@ -2408,7 +2408,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Inje</circuit>
     <circuit_info>-</circuit_info>
     <country>South Korea</country>
@@ -2425,7 +2425,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>Hockenheimring</circuit>
     <circuit_info>Hockenheimring Baden-Württemberg</circuit_info>
     <country>Germany</country>
@@ -2496,7 +2496,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Portimão 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Portugal</country>
@@ -2640,7 +2640,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Sakhir</circuit>
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
@@ -2833,7 +2833,7 @@
 <!-- /race -->
 
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>Jeddah</circuit>
     <circuit_info>Jeddah 23512</circuit_info>
     <country>Saudi Arabia</country>
@@ -2925,7 +2925,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
@@ -2959,7 +2959,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
