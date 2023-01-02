@@ -2891,25 +2891,8 @@
 
 <!-- **** **** -->
 <race>
-    <series>F1</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Australia</country>
-    <race_date>****</race_date>
-    <race_time>****</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$F1</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -2925,10 +2908,10 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
+    <series>F1</series>
+    <circuit>* Please upgrade to v9.0 for 2023 calendar *</circuit>
     <circuit_info>-</circuit_info>
-    <country>Germany</country>
+    <country>Australia</country>
     <race_date>****</race_date>
     <race_time>****</race_time>
     <broadcast1_channel>-</broadcast1_channel>
@@ -2943,7 +2926,7 @@
 <!-- /race -->
 <race>
     <series>$DTM</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -2959,7 +2942,24 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WTCR</series>
+    <series>DTM</series>
+    <circuit>* Please upgrade to v9.0 for 2023 calendar *</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Germany</country>
+    <race_date>****</race_date>
+    <race_time>****</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>$WTCR</series>
     <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
@@ -2976,8 +2976,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$WTCR</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <series>WTCR</series>
+    <circuit>* Please upgrade to v9.0 for 2023 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -2993,7 +2993,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -3009,8 +3009,8 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race --><race>
-    <series>$WEC</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <series>WEC</series>
+    <circuit>* Please upgrade to v9.0 for 2023 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -3026,7 +3026,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
@@ -3043,8 +3043,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Formula E</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <series>Formula E</series>
+    <circuit>* Please upgrade to v9.0 for 2023 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
