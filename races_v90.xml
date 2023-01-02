@@ -24,20 +24,19 @@
     <broadcast3_time_start>https://livetiming.getraceresults.com/24hseries</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
-    <series>$Formula E</series>
-    <circuit>Santiago</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Chile</country>
-    <race_date>16-01-2023</race_date>
-    <race_time>20:00</race_time>
+    <series>Formula E</series>
+    <circuit>Mexico City</circuit>
+    <circuit_info>Autódromo Hermanos Rodríguez, Mexico City</circuit_info>
+    <country>Mexico</country>
+    <race_date>14-01-2023</race_date>
+    <race_time>23:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (16-01-2023) 20:00</broadcast1_time_start>
-    <broadcast1_time_end>21:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (17-01-2023) 20:00</broadcast2_time_start>
-    <broadcast2_time_end>21:00</broadcast2_time_end>
+    <broadcast1_time_start>22:50</broadcast1_time_start>
+    <broadcast1_time_end>0:00</broadcast1_time_end>
+    <broadcast2_channel>#Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
@@ -45,15 +44,15 @@
 
 <race>
     <series>Formula E</series>
-    <circuit>Diriyah</circuit>
+    <circuit>Diriyah 2x</circuit>
     <circuit_info>QG7P+26J Formula E, Ad Diriyah 13721</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>28-01-2023</race_date>
+    <race_date>27-01-2023</race_date>
     <race_time>18:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (28-01-2023) 17:45</broadcast1_time_start>
     <broadcast1_time_end>19:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
     <broadcast2_time_start>R2 (29-01-2023) 17:45</broadcast2_time_start>
     <broadcast2_time_end>19:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
@@ -117,6 +116,24 @@
 <!-- /race -->
 
 <race>
+    <series>Formula E</series>
+    <circuit>Hyderabad</circuit>
+    <circuit_info>-</circuit_info>
+    <country>India</country>
+    <race_date>11-02-2023</race_date>
+    <race_time>20:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (16-01-2023) 20:00</broadcast1_time_start>
+    <broadcast1_time_end>21:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (17-01-2023) 20:00</broadcast2_time_start>
+    <broadcast2_time_end>21:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$Other ALMS</series>
     <circuit>Dubai 4 hrs</circuit>
     <circuit_info>Dubai Autodrome</circuit_info>
@@ -131,23 +148,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Formula E</series>
-    <circuit>Mexico City</circuit>
-    <circuit_info>Autódromo Hermanos Rodríguez, Mexico City</circuit_info>
-    <country>Mexico</country>
-    <race_date>12-02-2023</race_date>
-    <race_time>23:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>22:50</broadcast1_time_start>
-    <broadcast1_time_end>0:00</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -184,6 +184,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>Kaapstad</circuit>
+    <circuit_info>-</circuit_info>
+    <country>South Africa</country>
+    <race_date>25-02-2023</race_date>
+    <race_time>16:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>16:00</broadcast1_time_start>
+    <broadcast1_time_end>17:15</broadcast1_time_end>
+    <broadcast2_channel>#Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -293,6 +311,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>Sau Paulo</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Brasil</country>
+    <race_date>25-03-2023</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>14:45</broadcast1_time_start>
+    <broadcast1_time_end>16:00</broadcast1_time_end>
+    <broadcast2_channel>#Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -422,23 +458,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
-    <circuit>Rome</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>09-04-2023</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (09-04-2023) 14:30</broadcast1_time_start>
-    <broadcast1_time_end>17:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (10-04-2023) 14:30</broadcast2_time_start>
-    <broadcast2_time_end>17:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Other IMSA</series>
     <circuit>Long Beach</circuit>
     <circuit_info>-</circuit_info>
@@ -542,23 +561,6 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>$Formula E</series>
-    <circuit>Paris</circuit>
-    <circuit_info>-</circuit_info>
-    <country>France</country>
-    <race_date>18-04-2023</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>16:00</broadcast1_time_start>
-    <broadcast1_time_end>17:15</broadcast1_time_end>
-    <broadcast2_channel>#Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>$Other British GT</series>
@@ -575,6 +577,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>#Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>Berlin 2x</circuit>
+    <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
+    <country>Germany</country>
+    <race_date>22-04-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (14-05-2023) 14:30</broadcast1_time_start>
+    <broadcast1_time_end>16:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (15-05-2023) 14:30</broadcast2_time_start>
+    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -647,23 +667,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>Formula E</series>
-    <circuit>Monte Carlo</circuit>
-    <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
-    <country>Monaco</country>
-    <race_date>30-04-2023</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>14:30</broadcast1_time_start>
-    <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$DTM</series>
     <circuit>Portimão</circuit>
@@ -770,6 +773,23 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>Formula E</series>
+    <circuit>Monte Carlo</circuit>
+    <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
+    <country>Monaco</country>
+    <race_date>06-05-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>14:30</broadcast1_time_start>
+    <broadcast1_time_end>16:00</broadcast1_time_end>
+    <broadcast2_channel>#Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 <race>
     <series>WEC</series>
@@ -841,23 +861,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>Formula E</series>
-    <circuit>Berlin</circuit>
-    <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
-    <country>Germany</country>
-    <race_date>14-05-2023</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (14-05-2023) 14:30</broadcast1_time_start>
-    <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (15-05-2023) 14:30</broadcast2_time_start>
-    <broadcast2_time_end>16:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$Other ELMS</series>
     <circuit>Red Bull Ring 4 hrs</circuit>
@@ -979,23 +982,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>$Formula E</series>
-    <circuit>Marrakech</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Morocco</country>
-    <race_date>22-05-2023</race_date>
-    <race_time>18:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>14:45</broadcast1_time_start>
-    <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>#Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$WTCR</series>
     <circuit>Slovakiaring</circuit>
@@ -1140,10 +1126,10 @@
 <!-- /race -->
 <race>
     <series>Formula E</series>
-    <circuit>Jakarta</circuit>
+    <circuit>Jakarta 2x</circuit>
     <circuit_info>Jakarta International ePrix Circuit</circuit_info>
     <country>Indonesia</country>
-    <race_date>04-06-2023</race_date>
+    <race_date>03-06-2023</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>09:30</broadcast1_time_start>
@@ -1366,6 +1352,24 @@
 <!-- /race -->
 
 <race>
+    <series>Formula E</series>
+    <circuit>Portland </circuit>
+    <circuit_info>-</circuit_info>
+    <country>USA</country>
+    <race_date>24-06-2023</race_date>
+    <race_time>19:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (16-07-2023) 18:55</broadcast1_time_start>
+    <broadcast1_time_end>20:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (17-07-2023) 18:55</broadcast2_time_start>
+    <broadcast2_time_end>20:00</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$WTCR</series>
     <circuit>Aragón</circuit>
     <circuit_info>Motorland Aragón</circuit_info>
@@ -1438,7 +1442,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Marrakech</circuit>
     <circuit_info>-</circuit_info>
     <country>Morocco</country>
@@ -1647,22 +1651,21 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>Formula E</series>
-    <circuit>New York</circuit>
+    <circuit>Rome 2x</circuit>
     <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>16-07-2023</race_date>
-    <race_time>19:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (16-07-2023) 18:55</broadcast1_time_start>
-    <broadcast1_time_end>20:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (17-07-2023) 18:55</broadcast2_time_start>
-    <broadcast2_time_end>20:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <country>Italy</country>
+    <race_date>15-07-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (09-04-2023) 14:30</broadcast1_time_start>
+    <broadcast1_time_end>17:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (10-04-2023) 14:30</broadcast2_time_start>
+    <broadcast2_time_end>17:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1721,10 +1724,10 @@
 
 <race>
     <series>Formula E</series>
-    <circuit>London</circuit>
+    <circuit>London 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>30-07-2023</race_date>
+    <race_date>29-07-2023</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (30-07-2023) 15:30</broadcast1_time_start>
@@ -1861,7 +1864,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Seoul</circuit>
     <circuit_info>-</circuit_info>
     <country>South Korea</country>
@@ -2891,8 +2894,8 @@
 
 <!-- **** **** -->
 <race>
-    <series>F1</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
+    <series>$F1</series>
+    <circuit>* Provisional 2024 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -2909,7 +2912,7 @@
 <!-- /race -->
 <race>
     <series>$F1</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -2926,7 +2929,7 @@
 <!-- /race -->
 <race>
     <series>$DTM</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
+    <circuit>* Provisional 2024 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -2943,7 +2946,7 @@
 <!-- /race -->
 <race>
     <series>$DTM</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -2960,7 +2963,7 @@
 <!-- /race -->
 <race>
     <series>$WTCR</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
+    <circuit>* Provisional 2024 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -2977,7 +2980,7 @@
 <!-- /race -->
 <race>
     <series>$WTCR</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -2993,8 +2996,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
+    <series>$WEC</series>
+    <circuit>* Provisional 2024 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -3010,7 +3013,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race --><race>
     <series>$WEC</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -3026,8 +3029,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
+    <series>$Formula E</series>
+    <circuit>* Provisional 2024 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
@@ -3044,7 +3047,7 @@
 <!-- /race -->
 <race>
     <series>$Formula E</series>
-    <circuit>* Please upgrade to v9.x for 2023 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
