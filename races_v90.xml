@@ -226,6 +226,24 @@
 <!-- /race -->
 
 <race>
+    <series>F1</series>
+    <circuit>Sakhir</circuit>
+    <circuit_info>Bahrain International Circuit</circuit_info>
+    <country>Bahrain</country>
+    <race_date>05-03-2023</race_date>
+    <race_time>16:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$Other 24H Series</series>
     <circuit>Silverstone 24 hrs</circuit>
     <circuit_info>-</circuit_info>
@@ -280,6 +298,25 @@
 <!-- /race -->
 
 <race>
+    <series>F1</series>
+    <circuit>Jeddah</circuit>
+    <circuit_info>Jeddah 23512</circuit_info>
+    <country>Saudi Arabia</country>
+    <race_date>19-03-2023</race_date>
+    <race_time>19:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+
+<race>
     <series>$Other IMSA</series>
     <circuit>Sebring 12 hrs</circuit>
     <circuit_info>-</circuit_info>
@@ -294,23 +331,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Sakhir</circuit>
-    <circuit_info>Bahrain International Circuit</circuit_info>
-    <country>Bahrain</country>
-    <race_date>20-03-2023</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -329,24 +349,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>F1</series>
-    <circuit>Jeddah</circuit>
-    <circuit_info>Jeddah 23512</circuit_info>
-    <country>Saudi Arabia</country>
-    <race_date>27-03-2023</race_date>
-    <race_time>19:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -385,6 +387,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Melbourne</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Australia</country>
+    <race_date>02-04-2023</race_date>
+    <race_time>07:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -472,23 +492,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Melbourne</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Australia</country>
-    <race_date>10-04-2023</race_date>
-    <race_time>07:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -634,23 +637,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
-    <circuit>Imola</circuit>
-    <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
-    <country>Italy</country>
-    <race_date>24-04-2023</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Formula E</series>
     <circuit>Valencia</circuit>
     <circuit_info>-</circuit_info>
@@ -702,6 +688,24 @@
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Baku</circuit>
+    <circuit_info>Baku City Circuit</circuit_info>
+    <country>Azerbaijan</country>
+    <race_date>30-04-2023</race_date>
+    <race_time>13:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 <race>
     <series>$DTM</series>
     <circuit>Portimão</circuit>
@@ -848,7 +852,7 @@
     <circuit>Miami</circuit>
     <circuit_info>Miami Grand Prix, 347 Don Shula Dr, Miami Gardens</circuit_info>
     <country>USA</country>
-    <race_date>08-05-2023</race_date>
+    <race_date>07-05-2023</race_date>
     <race_time>21:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1019,6 +1023,23 @@
 <!-- /race -->
 
 <race>
+    <series>F1</series>
+    <circuit>Imola</circuit>
+    <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
+    <country>Italy</country>
+    <race_date>21-05-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>$DTM</series>
     <circuit>Lausitzring</circuit>
     <circuit_info>Lausitzallee 1, 01998 Schipkau, Duitsland</circuit_info>
@@ -1033,23 +1054,6 @@
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Barcelona</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Spain</country>
-    <race_date>22-05-2023</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1110,7 +1114,7 @@
     <circuit>Monte Carlo</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
-    <race_date>29-05-2023</race_date>
+    <race_date>28-05-2023</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1157,6 +1161,23 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Barcelona</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Spain</country>
+    <race_date>04-06-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1264,23 +1285,6 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Baku</circuit>
-    <circuit_info>Baku City Circuit</circuit_info>
-    <country>Azerbaijan</country>
-    <race_date>12-06-2023</race_date>
-    <race_time>13:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>$DTM</series>
@@ -1321,7 +1325,7 @@
     <circuit>Montreal</circuit>
     <circuit_info>Circuit Gilles Villeneuve</circuit_info>
     <country>Canada</country>
-    <race_date>19-06-2023</race_date>
+    <race_date>18-06-2023</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1494,6 +1498,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>F1</series>
+    <circuit>Red Bull Ring</circuit>
+    <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
+    <country>Austria</country>
+    <race_date>02-07-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 <race>
     <series>$Other EuroNASCAR</series>
@@ -1527,23 +1548,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Silverstone</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Kingdom</country>
-    <race_date>03-07-2023</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1601,11 +1605,11 @@
 <!-- /race -->
 <race>
     <series>F1</series>
-    <circuit>Red Bull Ring</circuit>
-    <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
-    <country>Austria</country>
-    <race_date>10-07-2023</race_date>
-    <race_time>15:00</race_time>
+    <circuit>Silverstone</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Kingdom</country>
+    <race_date>09-07-2023</race_date>
+    <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -1705,8 +1709,27 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>F1</series>
+    <circuit>Hungaroring</circuit>
+    <circuit_info>Hungaroring</circuit_info>
+    <country>Hungary</country>
+    <race_date>23-07-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>$F1</series>
     <circuit>Paul Ricard</circuit>
     <circuit_info>-</circuit_info>
     <country>France</country>
@@ -1759,10 +1782,10 @@
 <!-- /race -->
 <race>
     <series>F1</series>
-    <circuit>Hungaroring</circuit>
-    <circuit_info>Hungaroring</circuit_info>
-    <country>Hungary</country>
-    <race_date>31-07-2023</race_date>
+    <circuit>Spa-Francorchamps</circuit>
+    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
+    <country>Belgium</country>
+    <race_date>30-07-2023</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1954,6 +1977,24 @@
 <!-- /race -->
 
 <race>
+    <series>F1</series>
+    <circuit>Zandvoort</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Netherlands</country>
+    <race_date>25-08-2023</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$Other V8 Supercars</series>
     <circuit>Tailem Bend</circuit>
     <circuit_info>-</circuit_info>
@@ -2005,12 +2046,15 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+
+<!-- September -->
 <race>
     <series>F1</series>
-    <circuit>Spa-Francorchamps</circuit>
-    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
-    <country>Belgium</country>
-    <race_date>28-08-2023</race_date>
+    <circuit>Monza</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Italy</country>
+    <race_date>03-09-2023</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2023,8 +2067,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-
-<!-- September -->
 <race>
     <series>$WEC</series>
     <circuit>Silverstone 4 hrs</circuit>
@@ -2040,23 +2082,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Zandvoort</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Netherlands</country>
-    <race_date>04-09-2023</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -2163,23 +2188,6 @@
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Monza</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>11-09-2023</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>$F1</series>
@@ -2218,6 +2226,24 @@
 <!-- /race -->
 
 <race>
+    <series>F1</series>
+    <circuit>Singapore</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Singapore</country>
+    <race_date>17-09-2023</race_date>
+    <race_time>14:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$DTM</series>
     <circuit>Assen</circuit>
     <circuit_info>-</circuit_info>
@@ -2249,6 +2275,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Suzuka</circuit>
+    <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
+    <country>Japan</country>
+    <race_date>24-09-2023</race_date>
+    <race_time>07:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2342,23 +2386,6 @@
 
 <!-- October -->
 <race>
-    <series>F1</series>
-    <circuit>Singapore</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Singapore</country>
-    <race_date>02-10-2023</race_date>
-    <race_time>14:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Other EuroNASCAR</series>
     <circuit>Zolder</circuit>
     <circuit_info>-</circuit_info>
@@ -2446,14 +2473,13 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-
 <race>
-    <series>$F1</series>
-    <circuit>Istanbul</circuit>
+    <series>F1</series>
+    <circuit>Losail</circuit>
     <circuit_info>-</circuit_info>
-    <country>Turkey</country>
-    <race_date>10-10-2023</race_date>
-    <race_time>15:00</race_time>
+    <country>Qatar</country>
+    <race_date>08-10-2023</race_date>
+    <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2464,13 +2490,14 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
-    <series>F1</series>
-    <circuit>Suzuka</circuit>
-    <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
-    <country>Japan</country>
-    <race_date>09-10-2023</race_date>
-    <race_time>07:00</race_time>
+    <series>$F1</series>
+    <circuit>Istanbul</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Turkey</country>
+    <race_date>10-10-2023</race_date>
+    <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2574,7 +2601,7 @@
     <circuit>Austin</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>23-10-2023</race_date>
+    <race_date>22-10-2023</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2592,7 +2619,7 @@
     <circuit>Mexico City</circuit>
     <circuit_info>-</circuit_info>
     <country>Mexico</country>
-    <race_date>30-10-2023</race_date>
+    <race_date>29-10-2023</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2640,6 +2667,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Interlagos</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Brazil</country>
+    <race_date>05-11-2023</race_date>
+    <race_time>19:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2698,24 +2743,6 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
-    <circuit>Interlagos</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Brazil</country>
-    <race_date>13-11-2023</race_date>
-    <race_time>19:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$Other FIA F3 World Cup</series>
     <circuit>Macau</circuit>
     <circuit_info>-</circuit_info>
@@ -2749,6 +2776,23 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Las Vegas</circuit>
+    <circuit_info>Caesars Palace Grand Prix Circuit</circuit_info>
+    <country>USA</country>
+    <race_date>19-11-2023</race_date>
+    <race_time>21:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 <race>
     <series>$WTCR</series>
@@ -2765,40 +2809,6 @@
     <broadcast2_time_end>02:25</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Abu Dhabi</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Arab Emirates</country>
-    <race_date>20-11-2023</race_date>
-    <race_time>14:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>$F1</series>
-    <circuit>Losail</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Qatar</country>
-    <race_date>21-11-2023</race_date>
-    <race_time>14:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -2834,6 +2844,24 @@
     <broadcast2_time_end>07:50</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Abu Dhabi</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Arab Emirates</country>
+    <race_date>26-11-2023</race_date>
+    <race_time>14:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2930,8 +2958,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$DTM</series>
-    <circuit>* Provisional 2024 calendar available soon *</circuit>
+    <series>DTM</series>
+    <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -2964,8 +2992,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$WTCR</series>
-    <circuit>* Provisional 2024 calendar available soon *</circuit>
+    <series>WTCR</series>
+    <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
