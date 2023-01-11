@@ -27,6 +27,7 @@
 <race>
     <series>Other eSports</series>
     <circuit>Le Mans 24 hrs</circuit>
+    <circuit_info>-</circuit_info>
     <country>France</country>
     <race_date>14-01-2023</race_date>
     <race_time>14:00</race_time>
