@@ -28,13 +28,13 @@
     <series>Other eSports</series>
     <circuit>Le Mans 24 hrs</circuit>
     <country>France</country>
-    <race_date>11-1-2022</race_date>
+    <race_date>11-1-2023</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
     <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (YouTube)</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_start>https://m.youtube.com/watch?v=IJgY698nD4k</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
