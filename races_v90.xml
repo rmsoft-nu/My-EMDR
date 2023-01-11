@@ -30,11 +30,11 @@
     <circuit_info>Autódromo Hermanos Rodríguez, Mexico City</circuit_info>
     <country>Mexico</country>
     <race_date>14-01-2023</race_date>
-    <race_time>23:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>22:50</broadcast1_time_start>
-    <broadcast1_time_end>0:00</broadcast1_time_end>
-    <broadcast2_channel>#Timing</broadcast2_channel>
+    <race_time>20:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>19:50</broadcast1_time_start>
+    <broadcast1_time_end>22:00</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
     <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
