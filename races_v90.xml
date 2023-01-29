@@ -94,11 +94,11 @@
 
 <!-- February -->
 <race>
-    <series>$Other GT</series>
+    <series>Other GT</series>
     <circuit>Bathurst 12 hrs</circuit>
     <circuit_info>Mountain Straight, Mount Panorama NSW 2795</circuit_info>
     <country>Australia</country>
-    <race_date>01-02-2023</race_date>
+    <race_date>04-02-2023</race_date>
     <race_time>19:45</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>http://www.bathurst12hour.com.au/streams-tv/international-streaming</broadcast1_time_start>
