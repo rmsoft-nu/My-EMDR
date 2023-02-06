@@ -135,7 +135,7 @@
     <circuit_info>-</circuit_info>
     <country>India</country>
     <race_date>11-02-2023</race_date>
-    <race_time>10:00</race_time>
+    <race_time>10:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>10:00</broadcast1_time_start>
     <broadcast1_time_end>12:00</broadcast1_time_end>
@@ -148,17 +148,17 @@
 <!-- /race -->
 
 <race>
-    <series>$Other ALMS</series>
+    <series>Other ALMS</series>
     <circuit>Dubai 4 hrs</circuit>
     <circuit_info>Dubai Autodrome</circuit_info>
     <country>United Arab Emirates</country>
-    <race_date>12-02-2023</race_date>
-    <race_time>13:30</race_time>
+    <race_date>11-02-2023</race_date>
+    <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_channel>Internet (ALMS)</broadcast2_channel>
+    <broadcast2_time_start>https://live.asianlemansseries.com</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
