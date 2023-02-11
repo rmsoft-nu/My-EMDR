@@ -166,17 +166,17 @@
 <!-- /race -->
 
 <race>
-    <series>$Other ALMS</series>
+    <series>Other ALMS</series>
     <circuit>Abu Dhabi 4 hrs</circuit>
     <circuit_info>Yas Marina Circuit F1 Track</circuit_info>
     <country>United Arab Emirates</country>
-    <race_date>19-02-2023</race_date>
-    <race_time>11:30</race_time>
+    <race_date>18-02-2023</race_date>
+    <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_channel>Internet (ALMS)</broadcast2_channel>
+    <broadcast2_time_start>https://live.asianlemansseries.com</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
