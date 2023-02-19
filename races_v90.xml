@@ -276,12 +276,12 @@
 <!-- /race -->
 
 <race>
-    <series>GT WC America</series>
+    <series>GT America</series>
     <circuit>St. Petersburg</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
     <race_date>04-03-2023</race_date>
-    <race_time>19:00</race_time>
+    <race_time>18:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
