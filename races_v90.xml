@@ -207,10 +207,10 @@
     <circuit_info>-</circuit_info>
     <country>South Africa</country>
     <race_date>25-02-2023</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>16:00</broadcast1_time_start>
-    <broadcast1_time_end>17:15</broadcast1_time_end>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>14:30</broadcast1_time_start>
+    <broadcast1_time_end>16:30</broadcast1_time_end>
     <broadcast2_channel>#Timing</broadcast2_channel>
     <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
