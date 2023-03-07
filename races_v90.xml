@@ -276,24 +276,6 @@
 <!-- /race -->
 
 <race>
-    <series>Other 24H Series</series>
-    <circuit>Mugello 12 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>25-03-2023</race_date>
-    <race_time>11:15</race_time>
-    <broadcast1_channel>Internet</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>http://www.24hseries.com/live</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>WEC</series>
     <circuit>Sebring 1000 mi.</circuit>
     <circuit_info>113 Midway Dr, Sebring, FL 33870</circuit_info>
@@ -345,6 +327,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Other 24H Series</series>
+    <circuit>Mugello 12 hrs</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Italy</country>
+    <race_date>25-03-2023</race_date>
+    <race_time>11:15</race_time>
+    <broadcast1_channel>Internet</broadcast1_channel>
+    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>http://www.24hseries.com/live</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
