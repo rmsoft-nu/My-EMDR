@@ -562,12 +562,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other GT WC America</series>
+    <series>Other GT WC America</series>
     <circuit>Sonoma</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>16-04-2023</race_date>
-    <race_time>23:15</race_time>
+    <race_date>01-04-2023</race_date>
+    <race_time>23:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
