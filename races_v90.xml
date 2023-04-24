@@ -689,10 +689,10 @@
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>29-04-2023</race_date>
-    <race_time>13:00</race_time>
+    <race_time>12:45</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>12:30</broadcast1_time_start>
-    <broadcast1_time_end>19:30</broadcast1_time_end>
+    <broadcast1_time_start>12:15</broadcast1_time_start>
+    <broadcast1_time_end>19:15</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
