@@ -1033,7 +1033,6 @@
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>$WTCR</series>
     <circuit>Slovakiaring</circuit>
@@ -1051,7 +1050,23 @@
     <broadcast3_time_start>R3 14:30</broadcast3_time_start>
     <broadcast3_time_end>15:35</broadcast3_time_end>
 <!-- /race -->
-
+<race>
+    <series>Other 24 hrs</series>
+    <circuit>Nürburgring</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Germany</country>
+    <race_date>20-05-2023</race_date>
+    <race_time>15:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Imola</circuit>
