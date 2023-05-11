@@ -2984,8 +2984,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
-    <circuit>* Provisional 2023 calendar available soon *</circuit>
+    <series>$DTM</series>
+    <circuit>* Provisional 2024 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
