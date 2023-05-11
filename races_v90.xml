@@ -736,12 +736,12 @@
 <!-- /race -->
 
 <race>
-    <series>$DTM</series>
-    <circuit>Portimão</circuit>
-    <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão</circuit_info>
-    <country>Portugal</country>
-    <race_date>30-04-2023</race_date>
-    <race_time>16:00</race_time>
+    <series>DTM</series>
+    <circuit>Oschersleben</circuit>
+    <circuit_info></circuit_info>
+    <country>Germany</country>
+    <race_date>27-05-2023</race_date>
+    <race_time>13:00</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (30-04-2023) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
