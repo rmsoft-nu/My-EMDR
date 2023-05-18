@@ -1050,7 +1050,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>F1</series>
+    <series>$F1</series>
     <circuit>Imola</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
