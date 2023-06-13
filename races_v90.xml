@@ -1330,23 +1330,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
-    <circuit>Zandvoort</circuit>
-    <circuit_info>Circuitpark Zandvoort</circuit_info>
-    <country>Netherlands</country>
-    <race_date>24-06-2023</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-06-2023) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-06-2023) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
-    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Other GT WC Europe</series>
     <circuit>Zandvoort</circuit>
     <circuit_info>Circuit Zandvoort</circuit_info>
@@ -1398,7 +1381,23 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
+<race>
+    <series>DTM</series>
+    <circuit>Zandvoort</circuit>
+    <circuit_info>Circuitpark Zandvoort</circuit_info>
+    <country>Netherlands</country>
+    <race_date>24-06-2023</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (24-06-2023) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (25-06-2023) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>Formula E</series>
     <circuit>Portland </circuit>
