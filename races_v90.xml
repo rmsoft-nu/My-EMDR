@@ -1313,6 +1313,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
+    <series>Other British GT</series>
+    <circuit>Snetterton 500</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Kingdom</country>
+    <race_date>18-06-2023</race_date>
+    <race_time>12:15</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>$DTM</series>
     <circuit>Imola</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
