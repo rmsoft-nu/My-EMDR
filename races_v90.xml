@@ -1434,11 +1434,11 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Watkins Glen 6 hrs</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
-    <race_date>26-06-2023</race_date>
+    <race_date>25-06-2023</race_date>
     <race_time>16:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
