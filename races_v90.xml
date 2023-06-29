@@ -1806,11 +1806,11 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Other GT WC Europe</series>
+    <series>Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>30-07-2023</race_date>
+    <race_date>01-07-2023</race_date>
     <race_time>16:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
