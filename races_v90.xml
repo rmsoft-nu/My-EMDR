@@ -1489,17 +1489,17 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$DTM</series>
+    <series>DTM</series>
     <circuit>Norisring</circuit>
     <circuit_info>Norisring, Zeppelinstraße, Neurenberg, Duitsland</circuit_info>
     <country>Germany</country>
-    <race_date>02-07-2023</race_date>
+    <race_date>08-07-2023</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (02-07-2023) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (08-07-2023) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (03-07-2023) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (09-07-2023) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -1651,14 +1651,14 @@
     <circuit_info>Autodromo Nazionale Monza</circuit_info>
     <country>Italy</country>
     <race_date>09-07-2023</race_date>
-    <race_time>12:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>11:45</broadcast1_time_start>
-    <broadcast1_time_end>18:30</broadcast1_time_end>
+    <race_time>12:30</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>12:00</broadcast1_time_start>
+    <broadcast1_time_end>19:00</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
