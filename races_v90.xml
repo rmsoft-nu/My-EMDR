@@ -1734,12 +1734,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Lime Rock Park</circuit>
     <circuit_info>Lime Rock Park</circuit_info>
     <country>USA</country>
-    <race_date>16-07-2023</race_date>
-    <race_time>21:00</race_time>
+    <race_date>22-07-2023</race_date>
+    <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
