@@ -1999,12 +1999,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other GT WC America</series>
+    <series>Other GT WC America</series>
     <circuit>Road America</circuit>
     <circuit_info>Road America</circuit_info>
     <country>USA</country>
-    <race_date>20-08-2023</race_date>
-    <race_time>21:15</race_time>
+    <race_date>19-08-2023</race_date>
+    <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
