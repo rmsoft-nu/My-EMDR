@@ -1892,6 +1892,23 @@
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>DTM</series>
+    <circuit>Nürburgring</circuit>
+    <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
+    <country>Germany</country>
+    <race_date>05-08-2023</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (05-08-2023) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (06-08-2023) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 <race>
     <series>$WTCR</series>
@@ -2053,23 +2070,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>DTM</series>
-    <circuit>Nürburgring</circuit>
-    <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
-    <country>Germany</country>
-    <race_date>05-08-2023</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (05-08-2023) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (06-08-2023) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
-    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$Other ELMS</series>
     <circuit>Barcelona 4 hrs</circuit>
