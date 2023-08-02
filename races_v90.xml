@@ -2071,11 +2071,11 @@
 <!-- /race -->
 
 <race>
-    <series>$Other ELMS</series>
-    <circuit>Barcelona 4 hrs</circuit>
+    <series>Other ELMS</series>
+    <circuit>Aragon 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>28-08-2023</race_date>
+    <race_date>26-08-2023</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
