@@ -2177,12 +2177,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other 24H Series</series>
+    <series>Other 24H Series</series>
     <circuit>Barcelona</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>10-09-2023</race_date>
-    <race_time>13:00</race_time>
+    <race_date>16-09-2023</race_date>
+    <race_time>12:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
