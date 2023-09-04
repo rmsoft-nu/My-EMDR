@@ -2177,17 +2177,17 @@
 <!-- /race -->
 
 <race>
-    <series>$DTM</series>
-    <circuit>Spa-Francorchamps</circuit>
-    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
-    <country>Belgium</country>
-    <race_date>10-09-2023</race_date>
+    <series>DTM</series>
+    <circuit>Sachsenring</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Germany</country>
+    <race_date>09-09-2023</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (10-09-2023) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (09-09-2023) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (11-09-2023) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (10-09-2023) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -2200,13 +2200,13 @@
     <country>Japan</country>
     <race_date>10-09-2023</race_date>
     <race_time>04:00</race_time>
-    <broadcast1_channel>#Eurosport 2</broadcast1_channel>
-    <broadcast1_time_start>08:30</broadcast1_time_start>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>03:30</broadcast1_time_start>
     <broadcast1_time_end>10:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
