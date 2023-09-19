@@ -2335,23 +2335,22 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
-    <circuit>Suzuka</circuit>
-    <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
-    <country>Japan</country>
-    <race_date>24-09-2023</race_date>
-    <race_time>07:00</race_time>
+    <series>Other GT WC Asia</series>
+    <circuit>Sepang</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Malaysia</country>
+    <race_date>23-09-2023</race_date>
+    <race_time>09:45</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>DTM</series>
     <circuit>Red Bull Ring</circuit>
@@ -2367,6 +2366,23 @@
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Suzuka</circuit>
+    <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
+    <country>Japan</country>
+    <race_date>24-09-2023</race_date>
+    <race_time>07:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
