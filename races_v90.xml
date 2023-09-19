@@ -2369,6 +2369,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
+    <series>Other GT WC America</series>
+    <circuit>Sebring</circuit>
+    <circuit_info>-</circuit_info>
+    <country>USA</country>
+    <race_date>23-06-2023</race_date>
+    <race_time>21:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>F1</series>
     <circuit>Suzuka</circuit>
     <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
