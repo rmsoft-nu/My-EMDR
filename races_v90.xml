@@ -2815,10 +2815,10 @@
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
     <race_date>04-11-2023</race_date>
-    <race_time>10:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>09:45</broadcast1_time_start>
-    <broadcast1_time_end>16:15</broadcast1_time_end>
+    <race_time>12:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>11:30</broadcast1_time_start>
+    <broadcast1_time_end>20:15</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
