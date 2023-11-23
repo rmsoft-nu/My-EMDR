@@ -3131,7 +3131,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WTCR</series>
+    <series>$WTCR</series>
     <circuit>* Provisional 2023 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
