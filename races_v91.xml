@@ -22,7 +22,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other eSports</series>
+    <series>$Other eSports</series>
     <circuit>Le Mans 24 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>France</country>
