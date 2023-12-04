@@ -43,9 +43,9 @@
     <circuit>Mexico City</circuit>
     <circuit_info>Autódromo Hermanos Rodríguez, Mexico City</circuit_info>
     <country>Mexico</country>
-    <race_date>14-01-2024</race_date>
+    <race_date>13-01-2024</race_date>
     <race_time>20:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>19:50</broadcast1_time_start>
     <broadcast1_time_end>22:00</broadcast1_time_end>
     <broadcast2_channel>Timing</broadcast2_channel>
@@ -61,13 +61,13 @@
     <circuit>Diriyah 2x</circuit>
     <circuit_info>QG7P+26J Formula E, Ad Diriyah 13721</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>27-01-2024</race_date>
+    <race_date>26-01-2024</race_date>
     <race_time>18:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (27-01-2024) 17:45</broadcast1_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (26-01-2024) 17:45</broadcast1_time_start>
     <broadcast1_time_end>19:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (28-01-2024) 17:45</broadcast2_time_start>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (27-01-2024) 17:45</broadcast2_time_start>
     <broadcast2_time_end>19:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -134,9 +134,9 @@
     <circuit>Hyderabad</circuit>
     <circuit_info>-</circuit_info>
     <country>India</country>
-    <race_date>11-02-2024</race_date>
+    <race_date>10-02-2024</race_date>
     <race_time>10:30</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>10:00</broadcast1_time_start>
     <broadcast1_time_end>12:00</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
