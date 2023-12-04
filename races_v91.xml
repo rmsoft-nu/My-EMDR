@@ -48,7 +48,7 @@
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>19:50</broadcast1_time_start>
     <broadcast1_time_end>22:00</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_channel>#Timing</broadcast2_channel>
     <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
@@ -78,7 +78,7 @@
     <circuit>Daytona 24 hrs</circuit>
     <circuit_info>Daytona International Speedway, 1801 W International Speedway Blvd, Daytona Beach, FL 32114</circuit_info>
     <country>USA</country>
-    <race_date>28-01-2024</race_date>
+    <race_date>27-01-2024</race_date>
     <race_time>19:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
