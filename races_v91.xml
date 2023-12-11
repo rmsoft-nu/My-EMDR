@@ -202,7 +202,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Cape Town</circuit>
     <circuit_info>-</circuit_info>
     <country>South Africa</country>
@@ -352,7 +352,7 @@
     <circuit>Sau Paulo</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>25-03-2024</race_date>
+    <race_date>16-03-2024</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>17:45</broadcast1_time_start>
@@ -582,7 +582,7 @@
     <circuit>Berlin 2x</circuit>
     <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
     <country>Germany</country>
-    <race_date>22-04-2024</race_date>
+    <race_date>11-05-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (22-04-2024) 14:30</broadcast1_time_start>
@@ -776,7 +776,7 @@
     <circuit>Monte Carlo</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
-    <race_date>06-05-2024</race_date>
+    <race_date>27-04-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>14:30</broadcast1_time_start>
@@ -1156,7 +1156,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Jakarta 2x</circuit>
     <circuit_info>Jakarta International ePrix Circuit</circuit_info>
     <country>Indonesia</country>
@@ -1365,10 +1365,10 @@
 <!-- /race -->
 <race>
     <series>Formula E</series>
-    <circuit>Portland </circuit>
+    <circuit>Portland 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>25-06-2024</race_date>
+    <race_date>29-06-2024</race_date>
     <race_time>02:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>01:45</broadcast1_time_start>
@@ -1681,7 +1681,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Rome 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
@@ -1792,7 +1792,7 @@
     <circuit>London 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>29-07-2024</race_date>
+    <race_date>20-07-2024</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (29-07-2024) 17:30</broadcast1_time_start>
