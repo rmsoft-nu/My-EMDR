@@ -148,7 +148,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other ALMS</series>
+    <series>$Other ALMS</series>
     <circuit>Dubai 4 hrs</circuit>
     <circuit_info>Dubai Autodrome</circuit_info>
     <country>United Arab Emirates</country>
@@ -166,7 +166,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other ALMS</series>
+    <series>$Other ALMS</series>
     <circuit>Abu Dhabi 4 hrs</circuit>
     <circuit_info>Yas Marina Circuit F1 Track</circuit_info>
     <country>United Arab Emirates</country>
@@ -240,7 +240,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT America</series>
+    <series>$Other GT America</series>
     <circuit>St. Petersburg</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -294,7 +294,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Sebring 12 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -330,7 +330,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other 24H Series</series>
+    <series>$Other 24H Series</series>
     <circuit>Mugello 12 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
@@ -403,7 +403,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Sonoma</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -596,7 +596,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Monza</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
@@ -683,7 +683,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>New Orleans</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -790,7 +790,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other British GT</series>
+    <series>$Other British GT</series>
     <circuit>Silverstone 500</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -843,7 +843,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Brands Hatch</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -998,7 +998,7 @@
     <broadcast3_time_end>15:35</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other 24 hrs</series>
+    <series>$Other 24 hrs</series>
     <circuit>Nürburgring</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
@@ -1015,7 +1015,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Austin</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -1190,7 +1190,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Paul Ricard 1000 km</circuit>
     <circuit_info>Circuit Paul Ricard</circuit_info>
     <country>France</country>
@@ -1261,7 +1261,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>VIRginia Raceway</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -1278,7 +1278,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other British GT</series>
+    <series>$Other British GT</series>
     <circuit>Snetterton 500</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -1399,7 +1399,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Watkins Glen 6 hrs</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
@@ -1437,7 +1437,7 @@
 
 <!-- July -->
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Spa-Franc. 24 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
@@ -1698,7 +1698,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Le Castellet 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>France</country>
@@ -1716,7 +1716,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Lime Rock Park</circuit>
     <circuit_info>Lime Rock Park</circuit_info>
     <country>USA</country>
@@ -1999,7 +1999,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Road America</circuit>
     <circuit_info>Road America</circuit_info>
     <country>USA</country>
@@ -2052,7 +2052,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Aragón 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
@@ -2211,7 +2211,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other British GT</series>
+    <series>$Other British GT</series>
     <circuit>Brands Hatch</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -2265,7 +2265,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other 24H Series</series>
+    <series>$Other 24H Series</series>
     <circuit>Barcelona 24 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
@@ -2335,7 +2335,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC Asia</series>
+    <series>$Other GT WC Asia</series>
     <circuit>Sepang</circuit>
     <circuit_info>-</circuit_info>
     <country>Malaysia</country>
@@ -2369,7 +2369,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Sebring</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -2475,7 +2475,7 @@
 
 <!-- October -->
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Barcelona</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
@@ -2544,7 +2544,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Indianapolis 8 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -2649,7 +2649,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC Europe</series>
+    <series>$Other GT WC Europe</series>
     <circuit>Zandvoort</circuit>
     <circuit_info>Circuit Zandvoort</circuit_info>
     <country>Netherlands</country>
@@ -2666,7 +2666,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other IMSA</series>
+    <series>$Other IMSA</series>
     <circuit>Road Atlanta 10 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -2684,7 +2684,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Portimão 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Portugal</country>
@@ -2882,7 +2882,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other FIA F3 World Cup</series>
+    <series>$Other FIA F3 World Cup</series>
     <circuit>Macau</circuit>
     <circuit_info>-</circuit_info>
     <country>Macau</country>
