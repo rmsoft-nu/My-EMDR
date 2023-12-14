@@ -262,7 +262,7 @@
     <circuit>Sakhir</circuit>
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
-    <race_date>05-03-2024</race_date>
+    <race_date>02-03-2024</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -316,7 +316,7 @@
     <circuit>Jeddah</circuit>
     <circuit_info>Jeddah 23512</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>19-03-2024</race_date>
+    <race_date>09-03-2024</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -424,7 +424,7 @@
     <circuit>Melbourne</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>02-04-2024</race_date>
+    <race_date>24-04-2024</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -704,7 +704,7 @@
     <circuit>Baku</circuit>
     <circuit_info>Baku City Circuit</circuit_info>
     <country>Azerbaijan</country>
-    <race_date>30-04-2024</race_date>
+    <race_date>15-09-2024</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -811,7 +811,7 @@
     <circuit>Miami</circuit>
     <circuit_info>Miami Grand Prix, 347 Don Shula Dr, Miami Gardens</circuit_info>
     <country>USA</country>
-    <race_date>07-05-2024</race_date>
+    <race_date>05-05-2024</race_date>
     <race_time>21:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1123,7 +1123,7 @@
     <circuit>Monte Carlo</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
-    <race_date>28-05-2024</race_date>
+    <race_date>26-05-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1177,7 +1177,7 @@
     <circuit>Barcelona</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>04-06-2024</race_date>
+    <race_date>23-06-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1316,7 +1316,7 @@
     <circuit>Montreal</circuit>
     <circuit_info>Circuit Gilles Villeneuve</circuit_info>
     <country>Canada</country>
-    <race_date>18-06-2024</race_date>
+    <race_date>09-06-2024</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1527,7 +1527,7 @@
     <circuit>Red Bull Ring</circuit>
     <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
     <country>Austria</country>
-    <race_date>02-07-2024</race_date>
+    <race_date>30-06-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1632,7 +1632,7 @@
     <circuit>Silverstone</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>09-07-2024</race_date>
+    <race_date>07-07-2024</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1756,7 +1756,7 @@
     <circuit>Hungaroring</circuit>
     <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
-    <race_date>23-07-2024</race_date>
+    <race_date>21-07-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1809,7 +1809,7 @@
     <circuit>Spa-Francorchamps</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>30-07-2024</race_date>
+    <race_date>28-07-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2073,7 +2073,7 @@
     <circuit>Zandvoort</circuit>
     <circuit_info>-</circuit_info>
     <country>Netherlands</country>
-    <race_date>27-08-2024</race_date>
+    <race_date>25-08-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2110,7 +2110,7 @@
     <circuit>Monza</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>03-09-2024</race_date>
+    <race_date>01-09-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2286,7 +2286,7 @@
     <circuit>Singapore</circuit>
     <circuit_info>-</circuit_info>
     <country>Singapore</country>
-    <race_date>17-09-2024</race_date>
+    <race_date>22-09-2024</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2390,7 +2390,7 @@
     <circuit>Suzuka</circuit>
     <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
     <country>Japan</country>
-    <race_date>24-09-2024</race_date>
+    <race_date>07-04-2024</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2600,7 +2600,7 @@
     <circuit>Losail</circuit>
     <circuit_info>-</circuit_info>
     <country>Qatar</country>
-    <race_date>08-10-2024</race_date>
+    <race_date>01-12-2024</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2758,7 +2758,7 @@
     <circuit>Austin</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>22-10-2024</race_date>
+    <race_date>20-10-2024</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2776,7 +2776,7 @@
     <circuit>Mexico City</circuit>
     <circuit_info>-</circuit_info>
     <country>Mexico</country>
-    <race_date>29-10-2024</race_date>
+    <race_date>27-10-2024</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2832,7 +2832,7 @@
     <circuit>Interlagos</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>05-11-2024</race_date>
+    <race_date>03-11-2024</race_date>
     <race_time>19:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2920,7 +2920,7 @@
     <circuit>Las Vegas</circuit>
     <circuit_info>Caesars Palace Grand Prix Circuit</circuit_info>
     <country>USA</country>
-    <race_date>19-11-2024</race_date>
+    <race_date>24-11-2024</race_date>
     <race_time>21:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2991,7 +2991,7 @@
     <circuit>Abu Dhabi</circuit>
     <circuit_info>-</circuit_info>
     <country>United Arab Emirates</country>
-    <race_date>26-11-2024</race_date>
+    <race_date>08-12-2024</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
