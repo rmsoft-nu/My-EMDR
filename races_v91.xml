@@ -2584,13 +2584,13 @@
     <country>Germany</country>
     <race_date>19-10-2024</race_date>
     <race_time>13:30</race_time>
-    <broadcast1_channel>#SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (08-10-2024) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>#SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
     <broadcast2_time_start>R2 (09-10-2024) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
