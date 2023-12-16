@@ -276,13 +276,13 @@
 <!-- /race -->
 
 <race>
-    <series>$WEC</series>
-    <circuit>Sebring 1000 mi.</circuit>
-    <circuit_info>113 Midway Dr, Sebring, FL 33870</circuit_info>
-    <country>USA</country>
-    <race_date>17-03-2024</race_date>
+    <series>WEC</series>
+    <circuit>Qatar 1812 km</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Qatar</country>
+    <race_date>01-03-2024</race_date>
     <race_time>17:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>(17-03-2024) 16:30</broadcast1_time_start>
     <broadcast1_time_end>(18-03-2024) 01:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -542,11 +542,11 @@
 <!-- /race -->
 
 <race>
-    <series>$WEC</series>
-    <circuit>Portimão 6 hrs</circuit>
+    <series>WEC</series>
+    <circuit>Imola 6 hrs</circuit>
     <circuit_info>-</circuit_info>
-    <country>Portugal</country>
-    <race_date>16-04-2024</race_date>
+    <country>Italy</country>
+    <race_date>21-04-2024</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:00</broadcast1_time_start>
@@ -1229,11 +1229,11 @@
     <circuit>Le Mans 24 hrs</circuit>
     <circuit_info>Circuit de la Sarthe</circuit_info>
     <country>France</country>
-    <race_date>17-06-2024</race_date>
+    <race_date>15-06-2024</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(10-06-2024) 14:45</broadcast1_time_start>
-    <broadcast1_time_end>(11-06-2024) 15:15</broadcast1_time_end>
+    <broadcast1_time_start>(15-06-2024) 14:45</broadcast1_time_start>
+    <broadcast1_time_end>(16-06-2024) 15:15</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -2124,11 +2124,11 @@
 <!-- /race -->
 
 <race>
-    <series>$WEC</series>
-    <circuit>Silverstone 4 hrs</circuit>
+    <series>WEC</series>
+    <circuit>Brazil 6 hrs</circuit>
     <circuit_info>-</circuit_info>
-    <country>United Kingdom</country>
-    <race_date>05-09-2024</race_date>
+    <country>Brazil</country>
+    <race_date>14-07-2024</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>13:00</broadcast1_time_start>
@@ -2136,7 +2136,7 @@
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
