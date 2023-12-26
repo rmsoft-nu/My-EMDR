@@ -94,24 +94,6 @@
 
 <!-- February -->
 <race>
-    <series>Other GT</series>
-    <circuit>Bathurst 12 hrs</circuit>
-    <circuit_info>Mountain Straight, Mount Panorama NSW 2795</circuit_info>
-    <country>Australia</country>
-    <race_date>17-02-2024</race_date>
-    <race_time>19:45</race_time>
-    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/live/eusSm7ako04</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>http://www.bathurst12hour.com.au/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$Other GT Challenge</series>
     <circuit>Kyalami 9 hrs</circuit>
     <circuit_info>Kyalami Grand Prix Circuit</circuit_info>
@@ -159,6 +141,24 @@
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (ALMS)</broadcast2_channel>
     <broadcast2_time_start>https://live.asianlemansseries.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Other GT</series>
+    <circuit>Bathurst 12 hrs</circuit>
+    <circuit_info>Mountain Straight, Mount Panorama NSW 2795</circuit_info>
+    <country>Australia</country>
+    <race_date>17-02-2024</race_date>
+    <race_time>19:45</race_time>
+    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
+    <broadcast1_time_start>https://www.youtube.com/live/eusSm7ako04</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>http://www.bathurst12hour.com.au/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
