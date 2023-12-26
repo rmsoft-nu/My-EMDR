@@ -330,6 +330,24 @@
 <!-- /race -->
 
 <race>
+    <series>F1</series>
+    <circuit>Melbourne</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Australia</country>
+    <race_date>24-03-2024</race_date>
+    <race_time>07:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$Other V8 Supercars</series>
     <circuit>Tasmania</circuit>
     <circuit_info>-</circuit_info>
@@ -399,23 +417,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Melbourne</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Australia</country>
-    <race_date>24-03-2024</race_date>
-    <race_time>07:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -524,6 +525,24 @@
 <!-- /race -->
 
 <race>
+    <series>Formula E</series>
+    <circuit>Misano 2x</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Italy</country>
+    <race_date>13-04-2024</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (24-04-2024) 14:30</broadcast1_time_start>
+    <broadcast1_time_end>16:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (25-04-2024) 13:30</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>WEC</series>
     <circuit>Imola 6 hrs</circuit>
     <circuit_info>-</circuit_info>
@@ -559,6 +578,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>WEC</series>
+    <circuit>Spa-Franc. 6 hrs</circuit>
+    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
+    <country>Belgium</country>
+    <race_date>11-05-2024</race_date>
+    <race_time>12:45</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>12:15</broadcast1_time_start>
+    <broadcast1_time_end>19:15</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>Formula E</series>
     <circuit>Berlin 2x</circuit>
@@ -613,23 +649,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
-    <circuit>Misano 2x</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>13-04-2024</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (24-04-2024) 14:30</broadcast1_time_start>
-    <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (25-04-2024) 13:30</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Other Stock Car V8 Brasil</series>
     <circuit>Goiânia</circuit>
     <circuit_info>-</circuit_info>
@@ -647,23 +666,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>WEC</series>
-    <circuit>Spa-Franc. 6 hrs</circuit>
-    <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
-    <country>Belgium</country>
-    <race_date>11-05-2024</race_date>
-    <race_time>12:45</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>12:15</broadcast1_time_start>
-    <broadcast1_time_end>19:15</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$Other GT WC America</series>
     <circuit>New Orleans</circuit>
