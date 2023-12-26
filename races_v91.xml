@@ -2099,6 +2099,23 @@
 
 <!-- September -->
 <race>
+    <series>F1</series>
+    <circuit>Monza</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Italy</country>
+    <race_date>01-09-2024</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
     <series>WEC</series>
     <circuit>Austin 6 hrs</circuit>
     <circuit_info>-</circuit_info>
@@ -2131,23 +2148,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Monza</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>01-09-2024</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
