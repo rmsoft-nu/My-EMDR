@@ -471,6 +471,23 @@
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Suzuka</circuit>
+    <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
+    <country>Japan</country>
+    <race_date>07-04-2024</race_date>
+    <race_time>07:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 <race>
     <series>$WTCR</series>
@@ -1049,6 +1066,23 @@
     <broadcast2_time_end>11:00</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>DTM</series>
+    <circuit>Lausitzring</circuit>
+    <circuit_info>Lausitzallee 1, 01998 Schipkau, Duitsland</circuit_info>
+    <country>Germany</country>
+    <race_date>25-05-2024</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (19-08-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (20-08-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1653,6 +1687,24 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
+    <series>WEC</series>
+    <circuit>Brazil 6 hrs</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Brazil</country>
+    <race_date>14-07-2024</race_date>
+    <race_time>13:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>13:00</broadcast1_time_start>
+    <broadcast1_time_end>19:15</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$Formula E</series>
     <circuit>Rome 2x</circuit>
     <circuit_info>-</circuit_info>
@@ -1684,6 +1736,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>London 2x</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Kingdom</country>
+    <race_date>20-07-2024</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (29-07-2024) 17:30</broadcast1_time_start>
+    <broadcast1_time_end>19:30</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (30-07-2024) 17:30</broadcast2_time_start>
+    <broadcast2_time_end>19:30</broadcast2_time_end>
+    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1759,23 +1829,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>Formula E</series>
-    <circuit>London 2x</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Kingdom</country>
-    <race_date>20-07-2024</race_date>
-    <race_time>18:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (29-07-2024) 17:30</broadcast1_time_start>
-    <broadcast1_time_end>19:30</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (30-07-2024) 17:30</broadcast2_time_start>
-    <broadcast2_time_end>19:30</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Spa-Francorchamps</circuit>
@@ -1954,23 +2007,6 @@
 <!-- /race -->
 
 <race>
-    <series>DTM</series>
-    <circuit>Lausitzring</circuit>
-    <circuit_info>Lausitzallee 1, 01998 Schipkau, Duitsland</circuit_info>
-    <country>Germany</country>
-    <race_date>25-05-2024</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (19-08-2024) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (20-08-2024) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
-    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>$Other GT WC America</series>
     <circuit>Road America</circuit>
     <circuit_info>Road America</circuit_info>
@@ -2113,23 +2149,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-<race>
-    <series>WEC</series>
-    <circuit>Brazil 6 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Brazil</country>
-    <race_date>14-07-2024</race_date>
-    <race_time>13:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>13:00</broadcast1_time_start>
-    <broadcast1_time_end>19:15</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 <race>
     <series>$Other GT WC Europe</series>
     <circuit>Hungaroring</circuit>
@@ -2391,23 +2410,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Suzuka</circuit>
-    <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
-    <country>Japan</country>
-    <race_date>07-04-2024</race_date>
-    <race_time>07:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
