@@ -2979,24 +2979,6 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
-    <circuit>Abu Dhabi</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Arab Emirates</country>
-    <race_date>08-12-2024</race_date>
-    <race_time>14:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$WTCR</series>
     <circuit>Jeddah</circuit>
     <circuit_info>Jeddah 23512</circuit_info>
@@ -3049,6 +3031,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>#Internet</broadcast3_channel>
     <broadcast3_time_start>https://www.youtube.com/user/gt1world</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Abu Dhabi</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Arab Emirates</country>
+    <race_date>08-12-2024</race_date>
+    <race_time>14:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
