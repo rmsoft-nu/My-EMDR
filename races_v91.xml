@@ -112,7 +112,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Hyderabad</circuit>
     <circuit_info>-</circuit_info>
     <country>India</country>
