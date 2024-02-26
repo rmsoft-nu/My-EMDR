@@ -190,11 +190,11 @@
     <circuit>Qatar 1812 km</circuit>
     <circuit_info>-</circuit_info>
     <country>Qatar</country>
-    <race_date>01-03-2024</race_date>
-    <race_time>17:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(17-03-2024) 16:30</broadcast1_time_start>
-    <broadcast1_time_end>(18-03-2024) 01:30</broadcast1_time_end>
+    <race_date>02-03-2024</race_date>
+    <race_time>08:30</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>08:30</broadcast1_time_start>
+    <broadcast1_time_end>19:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
