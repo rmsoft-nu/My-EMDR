@@ -385,6 +385,21 @@
 
 <!-- April -->
 <race>
+    <series>Other British GT</series>
+    <circuit>Oulton Park</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Kingdom</country>
+    <race_date>01-04-2024</race_date>
+    <race_time>12:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+
+<race>
     <series>$Other eSports eX Prix</series>
     <circuit>Sebring</circuit>
     <circuit_info>-</circuit_info>
@@ -573,24 +588,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>$Other British GT</series>
-    <circuit>Oulton Park</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Kingdom</country>
-    <race_date>22-04-2024</race_date>
-    <race_time>12:15</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>#Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
