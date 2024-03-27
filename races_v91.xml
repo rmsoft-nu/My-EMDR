@@ -522,23 +522,7 @@
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>Other IMSA</series>
-    <circuit>Long Beach</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>21-04-2024</race_date>
-    <race_time>00:30</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
+
 <race>
     <series>$F1</series>
     <circuit>Shanghai</circuit>
@@ -575,6 +559,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>Other IMSA</series>
+    <circuit>Long Beach</circuit>
+    <circuit_info>-</circuit_info>
+    <country>USA</country>
+    <race_date>21-04-2024</race_date>
+    <race_time>00:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>WEC</series>
     <circuit>Imola 6 hrs</circuit>
