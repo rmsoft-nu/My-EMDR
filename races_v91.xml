@@ -370,11 +370,11 @@
     <circuit_info>-</circuit_info>
     <country>Japan</country>
     <race_date>30-03-2024</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>14:30</broadcast1_time_start>
-    <broadcast1_time_end>16:30</broadcast1_time_end>
-    <broadcast2_channel>#Timing</broadcast2_channel>
+    <race_time>07:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>06:30</broadcast1_time_start>
+    <broadcast1_time_end>08:30</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
     <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
@@ -523,12 +523,12 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Long Beach</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>10-04-2024</race_date>
-    <race_time>02:00</race_time>
+    <race_date>20-04-2024</race_date>
+    <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
