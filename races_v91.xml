@@ -756,11 +756,11 @@
 <!-- /race -->
 
 <race>
-    <series>$Other British GT</series>
+    <series>Other British GT</series>
     <circuit>Silverstone 500</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>07-05-2024</race_date>
+    <race_date>28-04-2024</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
