@@ -701,12 +701,12 @@
 <!-- /race -->
 
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Laguna Seca</circuit>
     <circuit_info>Laguna Seca, Monterey Salinas Highway, Salinas, Californië</circuit_info>
     <country>USA</country>
-    <race_date>01-05-2024</race_date>
-    <race_time>22:00</race_time>
+    <race_date>12-05-2024</race_date>
+    <race_time>23:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -778,7 +778,7 @@
     <circuit_info>Miami Grand Prix, 347 Don Shula Dr, Miami Gardens</circuit_info>
     <country>USA</country>
     <race_date>05-05-2024</race_date>
-    <race_time>21:30</race_time>
+    <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
