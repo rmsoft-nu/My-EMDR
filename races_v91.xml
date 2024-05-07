@@ -796,10 +796,10 @@
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>11-05-2024</race_date>
-    <race_time>12:45</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>12:15</broadcast1_time_start>
-    <broadcast1_time_end>19:15</broadcast1_time_end>
+    <race_time>13:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>12:30</broadcast1_time_start>
+    <broadcast1_time_end>19:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -814,13 +814,13 @@
     <country>Germany</country>
     <race_date>11-05-2024</race_date>
     <race_time>15:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (22-04-2024) 14:30</broadcast1_time_start>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (11-05-2024) 14:30</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (23-04-2024) 14:30</broadcast2_time_start>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (12-05-2024) 14:30</broadcast2_time_start>
     <broadcast2_time_end>16:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
