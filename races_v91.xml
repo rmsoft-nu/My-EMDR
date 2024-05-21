@@ -1057,14 +1057,14 @@
     <circuit_info>-</circuit_info>
     <country>China</country>
     <race_date>25-05-2024</race_date>
-    <race_time>10:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (03-06-2024) 09:45</broadcast1_time_start>
+    <race_time>09:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (25-05-2024) 08:30</broadcast1_time_start>
     <broadcast1_time_end>11:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (04-06-2024) 09:45</broadcast2_time_start>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (26-05-2024) 08:30</broadcast2_time_start>
     <broadcast2_time_end>11:00</broadcast2_time_end>
-    <broadcast3_channel>#Timing</broadcast3_channel>
+    <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
