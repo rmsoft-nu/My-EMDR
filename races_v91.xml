@@ -1694,10 +1694,10 @@
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
     <race_date>14-07-2024</race_date>
-    <race_time>13:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>13:00</broadcast1_time_start>
-    <broadcast1_time_end>19:15</broadcast1_time_end>
+    <race_time>16:30</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>16:00</broadcast1_time_start>
+    <broadcast1_time_end>23:00</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
