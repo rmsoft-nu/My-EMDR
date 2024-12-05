@@ -3111,7 +3111,7 @@
 <!-- **** **** -->
 <race>
     <series>$F1</series>
-    <circuit>* Provisional 2024 calendar available soon *</circuit>
+    <circuit>* Provisional 2025 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -3128,7 +3128,7 @@
 <!-- /race -->
 <race>
     <series>$F1</series>
-    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -3144,8 +3144,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$DTM</series>
-    <circuit>* Provisional 2024 calendar available soon *</circuit>
+    <series>DTM</series>
+    <circuit>* Provisional 2025 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -3162,7 +3162,7 @@
 <!-- /race -->
 <race>
     <series>$DTM</series>
-    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -3178,8 +3178,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$WTCR</series>
-    <circuit>* Provisional 2024 calendar available soon *</circuit>
+    <series>Other GT</series>
+    <circuit>* Provisional 2025 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -3195,8 +3195,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$WTCR</series>
-    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
+    <series>$Other GT</series>
+    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -3212,8 +3212,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$WEC</series>
-    <circuit>* Provisional 2024 calendar available soon *</circuit>
+    <series>WEC</series>
+    <circuit>* Provisional 2025 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -3229,7 +3229,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race --><race>
     <series>$WEC</series>
-    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -3245,8 +3245,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Formula E</series>
-    <circuit>* Provisional 2024 calendar available soon *</circuit>
+    <series>Formula E</series>
+    <circuit>* Provisional 2025 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
@@ -3263,7 +3263,7 @@
 <!-- /race -->
 <race>
     <series>$Formula E</series>
-    <circuit>* Please upgrade to v9.x for 2024 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
