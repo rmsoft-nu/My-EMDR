@@ -9,7 +9,7 @@
     <circuit>Le Mans 24 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>France</country>
-    <race_date>14-01-2024</race_date>
+    <race_date>14-01-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>Internet (Motorsport.tv - Free Account)</broadcast1_channel>
     <broadcast1_time_start>https://eu.motorsport.tv/livestream</broadcast1_time_start>
@@ -26,7 +26,7 @@
     <circuit>Mexico City</circuit>
     <circuit_info>Autódromo Hermanos Rodríguez, Mexico City</circuit_info>
     <country>Mexico</country>
-    <race_date>13-01-2024</race_date>
+    <race_date>13-01-2025</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>20:30</broadcast1_time_start>
@@ -44,13 +44,13 @@
     <circuit>Diriyah 2x</circuit>
     <circuit_info>QG7P+26J Formula E, Ad Diriyah 13721</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>26-01-2024</race_date>
+    <race_date>26-01-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (26-01-2024) 17:45</broadcast1_time_start>
+    <broadcast1_time_start>R1 (26-01-2025) 17:45</broadcast1_time_start>
     <broadcast1_time_end>19:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (27-01-2024) 17:45</broadcast2_time_start>
+    <broadcast2_time_start>R2 (27-01-2025) 17:45</broadcast2_time_start>
     <broadcast2_time_end>19:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -61,13 +61,13 @@
     <circuit>Dubai 24 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>United Arab Emirates</country>
-    <race_date>27-01-2024</race_date>
+    <race_date>27-01-2025</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (24H Series)</broadcast2_channel>
-    <broadcast2_time_start>https://www.24hseries.com/races/hankook-24h-dubai-2024</broadcast2_time_start>
+    <broadcast2_time_start>https://www.24hseries.com/races/hankook-24h-dubai-2025</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://livetiming.getraceresults.com/24hseries</broadcast3_time_start>
@@ -78,7 +78,7 @@
     <circuit>Daytona 24 hrs</circuit>
     <circuit_info>Daytona International Speedway, 1801 W International Speedway Blvd, Daytona Beach, FL 32114</circuit_info>
     <country>USA</country>
-    <race_date>27-01-2024</race_date>
+    <race_date>27-01-2025</race_date>
     <race_time>19:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -98,7 +98,7 @@
     <circuit>Kyalami 9 hrs</circuit>
     <circuit_info>Kyalami Grand Prix Circuit</circuit_info>
     <country>South Africa</country>
-    <race_date>05-02-2024</race_date>
+    <race_date>05-02-2025</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -116,7 +116,7 @@
     <circuit>Hyderabad</circuit>
     <circuit_info>-</circuit_info>
     <country>India</country>
-    <race_date>10-02-2024</race_date>
+    <race_date>10-02-2025</race_date>
     <race_time>10:30</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>10:00</broadcast1_time_start>
@@ -134,7 +134,7 @@
     <circuit>Dubai 4 hrs</circuit>
     <circuit_info>Dubai Autodrome</circuit_info>
     <country>United Arab Emirates</country>
-    <race_date>11-02-2024</race_date>
+    <race_date>11-02-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -152,7 +152,7 @@
     <circuit>Bathurst 12 hrs</circuit>
     <circuit_info>Mountain Straight, Mount Panorama NSW 2795</circuit_info>
     <country>Australia</country>
-    <race_date>17-02-2024</race_date>
+    <race_date>17-02-2025</race_date>
     <race_time>19:45</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/live/eusSm7ako04</broadcast1_time_start>
@@ -170,7 +170,7 @@
     <circuit>Abu Dhabi 4 hrs</circuit>
     <circuit_info>Yas Marina Circuit F1 Track</circuit_info>
     <country>United Arab Emirates</country>
-    <race_date>18-02-2024</race_date>
+    <race_date>18-02-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -190,7 +190,7 @@
     <circuit>Qatar 1812 km</circuit>
     <circuit_info>-</circuit_info>
     <country>Qatar</country>
-    <race_date>02-03-2024</race_date>
+    <race_date>02-03-2025</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>08:30</broadcast1_time_start>
@@ -208,13 +208,13 @@
     <circuit>Adelaide 500</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>03-03-2024</race_date>
+    <race_date>03-03-2025</race_date>
     <race_time>5:50</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (03-03-2024) 5:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (03-03-2025) 5:30</broadcast1_time_start>
     <broadcast1_time_end>8:00</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (04-03-2024) 5:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (04-03-2025) 5:30</broadcast2_time_start>
     <broadcast2_time_end>8:00</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>http://www.supercars.com/live-timing</broadcast3_time_start>
@@ -226,7 +226,7 @@
     <circuit>St. Petersburg</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>04-03-2024</race_date>
+    <race_date>04-03-2025</race_date>
     <race_time>18:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -244,7 +244,7 @@
     <circuit>Sakhir</circuit>
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
-    <race_date>02-03-2024</race_date>
+    <race_date>02-03-2025</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -262,7 +262,7 @@
     <circuit>Jeddah</circuit>
     <circuit_info>Jeddah 23512</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>09-03-2024</race_date>
+    <race_date>09-03-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -280,7 +280,7 @@
     <circuit>Mugello 12 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>25-03-2024</race_date>
+    <race_date>25-03-2025</race_date>
     <race_time>11:15</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -298,7 +298,7 @@
     <circuit>Sebring 12 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>16-03-2024</race_date>
+    <race_date>16-03-2025</race_date>
     <race_time>15:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -315,7 +315,7 @@
     <circuit>Sau Paulo</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>16-03-2024</race_date>
+    <race_date>16-03-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>17:30</broadcast1_time_start>
@@ -333,7 +333,7 @@
     <circuit>Melbourne</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>24-03-2024</race_date>
+    <race_date>24-03-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -351,7 +351,7 @@
     <circuit>Tasmania</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>29-03-2024</race_date>
+    <race_date>29-03-2025</race_date>
     <race_time>06:00</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
     <broadcast1_time_start>05:05</broadcast1_time_start>
@@ -369,7 +369,7 @@
     <circuit>Tokio</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>30-03-2024</race_date>
+    <race_date>30-03-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>06:30</broadcast1_time_start>
@@ -389,7 +389,7 @@
     <circuit>Oulton Park</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>01-04-2024</race_date>
+    <race_date>01-04-2025</race_date>
     <race_time>11:50</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -406,7 +406,7 @@
     <circuit>Sebring</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>01-04-2024</race_date>
+    <race_date>01-04-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -423,7 +423,7 @@
     <circuit>Sonoma</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>01-04-2024</race_date>
+    <race_date>01-04-2025</race_date>
     <race_time>23:55</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -441,7 +441,7 @@
     <circuit>Hanoi</circuit>
     <circuit_info>-</circuit_info>
     <country>Vietnam</country>
-    <race_date>05-04-2024</race_date>
+    <race_date>05-04-2025</race_date>
     <race_time>09:10</race_time>
     <broadcast1_channel>#RTL Television</broadcast1_channel>
     <broadcast1_time_start>07:00</broadcast1_time_start>
@@ -458,7 +458,7 @@
     <circuit>Sepang</circuit>
     <circuit_info>-</circuit_info>
     <country>Malaysia</country>
-    <race_date>06-04-2024</race_date>
+    <race_date>06-04-2025</race_date>
     <race_time>10:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -475,13 +475,13 @@
     <circuit>Zolder</circuit>
     <circuit_info>-</circuit_info>
     <country>Belgium</country>
-    <race_date>07-04-2024</race_date>
+    <race_date>07-04-2025</race_date>
     <race_time>15:25</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>#Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 (08-04-2024) 13:15</broadcast2_time_start>
+    <broadcast2_time_start>R2 (08-04-2025) 13:15</broadcast2_time_start>
     <broadcast2_time_end>14:45</broadcast2_time_end>
     <broadcast3_channel>#Internet</broadcast3_channel>
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
@@ -492,7 +492,7 @@
     <circuit>Suzuka</circuit>
     <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
     <country>Japan</country>
-    <race_date>07-04-2024</race_date>
+    <race_date>07-04-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -510,7 +510,7 @@
     <circuit>Most</circuit>
     <circuit_info>Tvrzova 5, Souš, 435 02 Most</circuit_info>
     <country>Czech Republic</country>
-    <race_date>09-04-2024</race_date>
+    <race_date>09-04-2025</race_date>
     <race_time>14:15</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>14:15</broadcast1_time_start>
@@ -528,7 +528,7 @@
     <circuit>Shanghai</circuit>
     <circuit_info>-</circuit_info>
     <country>China</country>
-    <race_date>11-04-2024</race_date>
+    <race_date>11-04-2025</race_date>
     <race_time>08:10</race_time>
     <broadcast1_channel>#RTL Television</broadcast1_channel>
     <broadcast1_time_start>07:00</broadcast1_time_start>
@@ -546,13 +546,13 @@
     <circuit>Misano 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>13-04-2024</race_date>
+    <race_date>13-04-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (13-04-2024) 14:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (13-04-2025) 14:30</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (14-04-2024) 14:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (14-04-2025) 14:30</broadcast2_time_start>
     <broadcast2_time_end>16:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -564,7 +564,7 @@
     <circuit>Long Beach</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>20-04-2024</race_date>
+    <race_date>20-04-2025</race_date>
     <race_time>22:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -581,7 +581,7 @@
     <circuit>Imola 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>21-04-2024</race_date>
+    <race_date>21-04-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:30</broadcast1_time_start>
@@ -599,7 +599,7 @@
     <circuit>Monza</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>23-04-2024</race_date>
+    <race_date>23-04-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -617,7 +617,7 @@
     <circuit>Suzuka</circuit>
     <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
     <country>Japan</country>
-    <race_date>24-04-2024</race_date>
+    <race_date>24-04-2025</race_date>
     <race_time>07:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -634,7 +634,7 @@
     <circuit>Goiânia</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>25-04-2024</race_date>
+    <race_date>25-04-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -652,13 +652,13 @@
     <circuit>Oschersleben</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
-    <race_date>27-04-2024</race_date>
+    <race_date>27-04-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (30-04-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (30-04-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (01-05-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (01-05-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -669,7 +669,7 @@
     <circuit>Monte Carlo</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
-    <race_date>27-04-2024</race_date>
+    <race_date>27-04-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>14:30</broadcast1_time_start>
@@ -687,7 +687,7 @@
     <circuit>New Orleans</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>29-04-2024</race_date>
+    <race_date>29-04-2025</race_date>
     <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -707,7 +707,7 @@
     <circuit>Fuji 500 km</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>04-05-2024</race_date>
+    <race_date>04-05-2025</race_date>
     <race_time>07:20</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -724,7 +724,7 @@
     <circuit>Perth</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>06-05-2024</race_date>
+    <race_date>06-05-2025</race_date>
     <race_time>8:45</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -742,7 +742,7 @@
     <circuit>Silverstone 500</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>28-04-2024</race_date>
+    <race_date>28-04-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -759,7 +759,7 @@
     <circuit>Miami</circuit>
     <circuit_info>Miami Grand Prix, 347 Don Shula Dr, Miami Gardens</circuit_info>
     <country>USA</country>
-    <race_date>05-05-2024</race_date>
+    <race_date>05-05-2025</race_date>
     <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -777,7 +777,7 @@
     <circuit>Buriram</circuit>
     <circuit_info>-</circuit_info>
     <country>Thailand</country>
-    <race_date>11-05-2024</race_date>
+    <race_date>11-05-2025</race_date>
     <race_time>10:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -795,7 +795,7 @@
     <circuit>Spa-Franc. 6 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>11-05-2024</race_date>
+    <race_date>11-05-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:30</broadcast1_time_start>
@@ -812,13 +812,13 @@
     <circuit>Berlin 2x</circuit>
     <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
     <country>Germany</country>
-    <race_date>11-05-2024</race_date>
+    <race_date>11-05-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (11-05-2024) 14:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (11-05-2025) 14:30</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (12-05-2024) 14:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (12-05-2025) 14:30</broadcast2_time_start>
     <broadcast2_time_end>16:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -829,7 +829,7 @@
     <circuit>Laguna Seca</circuit>
     <circuit_info>Laguna Seca, Monterey Salinas Highway, Salinas, Californië</circuit_info>
     <country>USA</country>
-    <race_date>12-05-2024</race_date>
+    <race_date>12-05-2025</race_date>
     <race_time>23:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -847,7 +847,7 @@
     <circuit>Brands Hatch</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>14-05-2024</race_date>
+    <race_date>14-05-2025</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -865,7 +865,7 @@
     <circuit>Red Bull Ring 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Austria</country>
-    <race_date>16-05-2024</race_date>
+    <race_date>16-05-2025</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -882,7 +882,7 @@
     <circuit>Imola 4 hrs</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
-    <race_date>15-05-2024</race_date>
+    <race_date>15-05-2025</race_date>
     <race_time>11:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -899,7 +899,7 @@
     <circuit>Magny-Cours</circuit>
     <circuit_info>Circuit Magny-Cours, Magny-Cours</circuit_info>
     <country>France</country>
-    <race_date>15-05-2024</race_date>
+    <race_date>15-05-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -916,7 +916,7 @@
     <circuit>Mid-Ohio</circuit>
     <circuit_info>7721 Steam Corners Rd, Lexington, OH 44904, Verenigde Staten</circuit_info>
     <country>USA</country>
-    <race_date>16-05-2024</race_date>
+    <race_date>16-05-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -934,7 +934,7 @@
     <circuit>Motorsport Park</circuit>
     <circuit_info>-</circuit_info>
     <country>Canada</country>
-    <race_date>18-05-2024</race_date>
+    <race_date>18-05-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -951,7 +951,7 @@
     <circuit>Autopolis</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>19-05-2024</race_date>
+    <race_date>19-05-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -968,7 +968,7 @@
     <circuit>Silverstone 3 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>20-05-2024</race_date>
+    <race_date>20-05-2025</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -985,7 +985,7 @@
     <circuit>Slovakiaring</circuit>
     <circuit_info>-</circuit_info>
     <country>Slovakia</country>
-    <race_date>23-05-2024</race_date>
+    <race_date>23-05-2025</race_date>
     <race_time>09:15</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 09:00</broadcast1_time_start>
@@ -1002,7 +1002,7 @@
     <circuit>Nürburgring</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
-    <race_date>20-05-2024</race_date>
+    <race_date>20-05-2025</race_date>
     <race_time>15:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1020,7 +1020,7 @@
     <circuit>Austin</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>18-05-2024</race_date>
+    <race_date>18-05-2025</race_date>
     <race_time>19:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1038,7 +1038,7 @@
     <circuit>Imola</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
-    <race_date>19-05-2024</race_date>
+    <race_date>19-05-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1056,13 +1056,13 @@
     <circuit>Shanghai 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>China</country>
-    <race_date>25-05-2024</race_date>
+    <race_date>25-05-2025</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-05-2024) 08:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (25-05-2025) 08:30</broadcast1_time_start>
     <broadcast1_time_end>11:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-05-2024) 08:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (26-05-2025) 08:30</broadcast2_time_start>
     <broadcast2_time_end>11:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1073,13 +1073,13 @@
     <circuit>Lausitzring</circuit>
     <circuit_info>Lausitzallee 1, 01998 Schipkau, Duitsland</circuit_info>
     <country>Germany</country>
-    <race_date>25-05-2024</race_date>
+    <race_date>25-05-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-05-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (25-05-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-05-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (26-05-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -1091,7 +1091,7 @@
     <circuit>Monte Carlo</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
-    <race_date>26-05-2024</race_date>
+    <race_date>26-05-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1109,7 +1109,7 @@
     <circuit>Suzuka 300 km</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>26-05-2024</race_date>
+    <race_date>26-05-2025</race_date>
     <race_time>07:20</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1126,7 +1126,7 @@
     <circuit>Indianapolis 500</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>28-05-2024</race_date>
+    <race_date>28-05-2025</race_date>
     <race_time>18:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1144,7 +1144,7 @@
     <circuit>Nürburgring</circuit>
     <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
     <country>Germany</country>
-    <race_date>28-05-2024</race_date>
+    <race_date>28-05-2025</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 09:50</broadcast1_time_start>
@@ -1164,13 +1164,13 @@
     <circuit>TBA</circuit>
     <circuit_info>-</circuit_info>
     <country>TBA</country>
-    <race_date>04-06-2024</race_date>
+    <race_date>04-06-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (29-05-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (29-05-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (30-05-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (30-05-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1181,7 +1181,7 @@
     <circuit>Paul Ricard 1000 km</circuit>
     <circuit_info>Circuit Paul Ricard</circuit_info>
     <country>France</country>
-    <race_date>04-06-2024</race_date>
+    <race_date>04-06-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1198,7 +1198,7 @@
     <circuit>Detroit</circuit>
     <circuit_info>Belle Isle Park</circuit_info>
     <country>USA</country>
-    <race_date>01-06-2024</race_date>
+    <race_date>01-06-2025</race_date>
     <race_time>21:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1216,13 +1216,13 @@
     <circuit>Zandvoort</circuit>
     <circuit_info>Circuitpark Zandvoort</circuit_info>
     <country>Netherlands</country>
-    <race_date>08-06-2024</race_date>
+    <race_date>08-06-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (08-06-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (08-06-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (09-06-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (09-06-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -1234,7 +1234,7 @@
     <circuit>Montreal</circuit>
     <circuit_info>Circuit Gilles Villeneuve</circuit_info>
     <country>Canada</country>
-    <race_date>09-06-2024</race_date>
+    <race_date>09-06-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1252,11 +1252,11 @@
     <circuit>Le Mans 24 hrs</circuit>
     <circuit_info>Circuit de la Sarthe</circuit_info>
     <country>France</country>
-    <race_date>15-06-2024</race_date>
+    <race_date>15-06-2025</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(15-06-2024) 15:00</broadcast1_time_start>
-    <broadcast1_time_end>(16-06-2024) 16:30</broadcast1_time_end>
+    <broadcast1_time_start>(15-06-2025) 15:00</broadcast1_time_start>
+    <broadcast1_time_end>(16-06-2025) 16:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -1270,7 +1270,7 @@
     <circuit>Hungaroring</circuit>
     <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
-    <race_date>12-06-2024</race_date>
+    <race_date>12-06-2025</race_date>
     <race_time>11:15</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 11:00</broadcast1_time_start>
@@ -1288,7 +1288,7 @@
     <circuit>VIRginia Raceway</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>17-06-2024</race_date>
+    <race_date>17-06-2025</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1305,7 +1305,7 @@
     <circuit>Snetterton 500</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>18-06-2024</race_date>
+    <race_date>18-06-2025</race_date>
     <race_time>12:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1322,7 +1322,7 @@
     <circuit>Zandvoort</circuit>
     <circuit_info>Circuit Zandvoort</circuit_info>
     <country>Netherlands</country>
-    <race_date>19-06-2024</race_date>
+    <race_date>19-06-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1340,7 +1340,7 @@
     <circuit>Suzuka</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>22-06-2024</race_date>
+    <race_date>22-06-2025</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1358,7 +1358,7 @@
     <circuit>Barcelona</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>23-06-2024</race_date>
+    <race_date>23-06-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1376,13 +1376,13 @@
     <circuit>Portland 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>29-06-2024</race_date>
+    <race_date>29-06-2025</race_date>
     <race_time>23:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (29-06-2024) 22:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (29-06-2025) 22:30</broadcast1_time_start>
     <broadcast1_time_end>00:30</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (30-06-2024) 22:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (30-06-2025) 22:30</broadcast2_time_start>
     <broadcast2_time_end>00:30</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1394,7 +1394,7 @@
     <circuit>Aragón</circuit>
     <circuit_info>Motorland Aragón</circuit_info>
     <country>Spain</country>
-    <race_date>26-06-2024</race_date>
+    <race_date>26-06-2025</race_date>
     <race_time>11:15</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 11:00</broadcast1_time_start>
@@ -1411,7 +1411,7 @@
     <circuit>Watkins Glen 6 hrs</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
-    <race_date>25-06-2024</race_date>
+    <race_date>25-06-2025</race_date>
     <race_time>16:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1429,7 +1429,7 @@
     <circuit>Buriram 300 km</circuit>
     <circuit_info>-</circuit_info>
     <country>Thailand</country>
-    <race_date>30-06-2024</race_date>
+    <race_date>30-06-2025</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1447,7 +1447,7 @@
     <circuit>Red Bull Ring</circuit>
     <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
     <country>Austria</country>
-    <race_date>30-06-2024</race_date>
+    <race_date>30-06-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1467,7 +1467,7 @@
     <circuit>Spa-Franc. 24 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>01-07-2024</race_date>
+    <race_date>01-07-2025</race_date>
     <race_time>16:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1484,13 +1484,13 @@
     <circuit>Norisring</circuit>
     <circuit_info>Norisring, Zeppelinstraße, Neurenberg, Duitsland</circuit_info>
     <country>Germany</country>
-    <race_date>06-07-2024</race_date>
+    <race_date>06-07-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (08-07-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (08-07-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (09-07-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (09-07-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -1501,7 +1501,7 @@
     <circuit>Marrakech</circuit>
     <circuit_info>-</circuit_info>
     <country>Morocco</country>
-    <race_date>02-07-2024</race_date>
+    <race_date>02-07-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>17:30</broadcast1_time_start>
@@ -1518,7 +1518,7 @@
     <circuit>Monza 4 hrs</circuit>
     <circuit_info>Autodromo Nazionale Monza</circuit_info>
     <country>Italy</country>
-    <race_date>03-07-2024</race_date>
+    <race_date>03-07-2025</race_date>
     <race_time>11:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1535,7 +1535,7 @@
     <circuit>Vila Real</circuit>
     <circuit_info>Circuito Internacional de Vila Real</circuit_info>
     <country>Portugal</country>
-    <race_date>03-07-2024</race_date>
+    <race_date>03-07-2025</race_date>
     <race_time>13:10</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 13:00</broadcast1_time_start>
@@ -1553,7 +1553,7 @@
     <circuit>Brands Hatch</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>03-07-2024</race_date>
+    <race_date>03-07-2025</race_date>
     <race_time>14:05</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -1570,7 +1570,7 @@
     <circuit>Imola</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
-    <race_date>03-07-2024</race_date>
+    <race_date>03-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1588,13 +1588,13 @@
     <circuit>Townsville</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>07-07-2024</race_date>
+    <race_date>07-07-2025</race_date>
     <race_time>08:05</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (07-07-2024) 07:50</broadcast1_time_start>
+    <broadcast1_time_start>R1 (07-07-2025) 07:50</broadcast1_time_start>
     <broadcast1_time_end>09:45</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (08-07-2024) 07:50</broadcast2_time_start>
+    <broadcast2_time_start>R2 (08-07-2025) 07:50</broadcast2_time_start>
     <broadcast2_time_end>10:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1606,7 +1606,7 @@
     <circuit>Portimão 24 hrs</circuit>
     <circuit_info>Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão</circuit_info>
     <country>Portugal</country>
-    <race_date>09-07-2024</race_date>
+    <race_date>09-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -1623,7 +1623,7 @@
     <circuit>Monza 6 hrs</circuit>
     <circuit_info>Autodromo Nazionale Monza</circuit_info>
     <country>Italy</country>
-    <race_date>09-07-2024</race_date>
+    <race_date>09-07-2025</race_date>
     <race_time>12:30</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:00</broadcast1_time_start>
@@ -1640,7 +1640,7 @@
     <circuit>Silverstone</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>07-07-2024</race_date>
+    <race_date>07-07-2025</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1658,7 +1658,7 @@
     <circuit>Venray</circuit>
     <circuit_info>-</circuit_info>
     <country>Netherlands</country>
-    <race_date>11-07-2024</race_date>
+    <race_date>11-07-2025</race_date>
     <race_time>15:30</race_time>
     <broadcast1_channel>#Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -1676,7 +1676,7 @@
     <circuit>Fuji</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>14-07-2024</race_date>
+    <race_date>14-07-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1693,7 +1693,7 @@
     <circuit>Brazil 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>14-07-2024</race_date>
+    <race_date>14-07-2025</race_date>
     <race_time>16:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>16:00</broadcast1_time_start>
@@ -1711,13 +1711,13 @@
     <circuit>Rome 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>15-07-2024</race_date>
+    <race_date>15-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (15-07-2024) 14:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (15-07-2025) 14:30</broadcast1_time_start>
     <broadcast1_time_end>17:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (16-07-2024) 14:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (16-07-2025) 14:30</broadcast2_time_start>
     <broadcast2_time_end>17:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -1728,7 +1728,7 @@
     <circuit>Le Castellet 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>France</country>
-    <race_date>16-07-2024</race_date>
+    <race_date>16-07-2025</race_date>
     <race_time>11:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1746,13 +1746,13 @@
     <circuit>London 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>20-07-2024</race_date>
+    <race_date>20-07-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (20-07-2024) 17:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (20-07-2025) 17:30</broadcast1_time_start>
     <broadcast1_time_end>19:30</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (21-07-2024) 17:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (21-07-2025) 17:30</broadcast2_time_start>
     <broadcast2_time_end>19:30</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1764,7 +1764,7 @@
     <circuit>Lime Rock Park</circuit>
     <circuit_info>Lime Rock Park</circuit_info>
     <country>USA</country>
-    <race_date>22-07-2024</race_date>
+    <race_date>22-07-2025</race_date>
     <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1782,7 +1782,7 @@
     <circuit>Watkins Glen</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
-    <race_date>23-07-2024</race_date>
+    <race_date>23-07-2025</race_date>
     <race_time>20:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1800,7 +1800,7 @@
     <circuit>Hungaroring</circuit>
     <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
-    <race_date>21-07-2024</race_date>
+    <race_date>21-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1818,7 +1818,7 @@
     <circuit>Paul Ricard</circuit>
     <circuit_info>-</circuit_info>
     <country>France</country>
-    <race_date>24-07-2024</race_date>
+    <race_date>24-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1836,7 +1836,7 @@
     <circuit>Spa-Francorchamps</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>28-07-2024</race_date>
+    <race_date>28-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1856,7 +1856,7 @@
     <circuit>Curitiba</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>01-08-2024</race_date>
+    <race_date>01-08-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1873,7 +1873,7 @@
     <circuit>Yeongam</circuit>
     <circuit_info>-</circuit_info>
     <country>South Korea</country>
-    <race_date>03-08-2024</race_date>
+    <race_date>03-08-2025</race_date>
     <race_time>08:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1890,7 +1890,7 @@
     <circuit>Termas de Río Hondo</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
-    <race_date>05-08-2024</race_date>
+    <race_date>05-08-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>20:00</broadcast1_time_start>
@@ -1907,13 +1907,13 @@
     <circuit>Nürburgring</circuit>
     <circuit_info>Nürburgring Grand-Prix Strecke, Nürburg, Duitsland</circuit_info>
     <country>Germany</country>
-    <race_date>17-08-2024</race_date>
+    <race_date>17-08-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (05-08-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (05-08-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (06-08-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (06-08-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -1925,7 +1925,7 @@
     <circuit>Mulhouse</circuit>
     <circuit_info>Anneau du Rhin</circuit_info>
     <country>France</country>
-    <race_date>07-08-2024</race_date>
+    <race_date>07-08-2025</race_date>
     <race_time>11:15</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 11:00</broadcast1_time_start>
@@ -1942,7 +1942,7 @@
     <circuit>Road America</circuit>
     <circuit_info>Road America</circuit_info>
     <country>USA</country>
-    <race_date>07-08-2024</race_date>
+    <race_date>07-08-2025</race_date>
     <race_time>18:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1960,13 +1960,13 @@
     <circuit>Seoul</circuit>
     <circuit_info>-</circuit_info>
     <country>South Korea</country>
-    <race_date>13-08-2024</race_date>
+    <race_date>13-08-2025</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (13-08-2024) 08:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (13-08-2025) 08:30</broadcast1_time_start>
     <broadcast1_time_end>10:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (14-08-2024) 08:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (14-08-2025) 08:30</broadcast2_time_start>
     <broadcast2_time_end>10:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1978,7 +1978,7 @@
     <circuit>Nürburgring</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
-    <race_date>17-08-2024</race_date>
+    <race_date>17-08-2025</race_date>
     <race_time>14:45</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1995,7 +1995,7 @@
     <circuit>Twin Ring Motegi</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>18-08-2024</race_date>
+    <race_date>18-08-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2013,7 +2013,7 @@
     <circuit>Road America</circuit>
     <circuit_info>Road America</circuit_info>
     <country>USA</country>
-    <race_date>19-08-2024</race_date>
+    <race_date>19-08-2025</race_date>
     <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2031,13 +2031,13 @@
     <circuit>Brands Hatch</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>22-08-2024</race_date>
+    <race_date>22-08-2025</race_date>
     <race_time>14:30</race_time>
     <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (22-08-2024) 14:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (22-08-2025) 14:00</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
     <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (23-08-2024) 14:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (23-08-2025) 14:00</broadcast2_time_start>
     <broadcast2_time_end>16:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2049,13 +2049,13 @@
     <circuit>Tailem Bend</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>25-08-2024</race_date>
+    <race_date>25-08-2025</race_date>
     <race_time>08:30</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-08-2024) 08:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (25-08-2025) 08:30</broadcast1_time_start>
     <broadcast1_time_end>10:00</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-08-2024) 05:45</broadcast2_time_start>
+    <broadcast2_time_start>R2 (26-08-2025) 05:45</broadcast2_time_start>
     <broadcast2_time_end>07:35</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2066,7 +2066,7 @@
     <circuit>Aragón 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>26-08-2024</race_date>
+    <race_date>26-08-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -2083,7 +2083,7 @@
     <circuit>Zandvoort</circuit>
     <circuit_info>-</circuit_info>
     <country>Netherlands</country>
-    <race_date>25-08-2024</race_date>
+    <race_date>25-08-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2100,7 +2100,7 @@
     <circuit>VIRginia Raceway</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>25-08-2024</race_date>
+    <race_date>25-08-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2119,7 +2119,7 @@
     <circuit>Monza</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>01-09-2024</race_date>
+    <race_date>01-09-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2136,11 +2136,11 @@
     <circuit>Austin 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>01-09-2024</race_date>
+    <race_date>01-09-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(01-09-2024) 19:30</broadcast1_time_start>
-    <broadcast1_time_end>(02-09-2024) 02:30</broadcast1_time_end>
+    <broadcast1_time_start>(01-09-2025) 19:30</broadcast1_time_start>
+    <broadcast1_time_end>(02-09-2025) 02:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -2154,7 +2154,7 @@
     <circuit>Hockenheim</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
-    <race_date>02-09-2024</race_date>
+    <race_date>02-09-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2172,7 +2172,7 @@
     <circuit>Hungaroring</circuit>
     <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
-    <race_date>07-09-2024</race_date>
+    <race_date>07-09-2025</race_date>
     <race_time>15:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2190,13 +2190,13 @@
     <circuit>Zolder</circuit>
     <circuit_info>-</circuit_info>
     <country>Belgium</country>
-    <race_date>13-09-2024</race_date>
+    <race_date>13-09-2025</race_date>
     <race_time>10:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (13-09-2024) 10:15</broadcast1_time_start>
+    <broadcast1_time_start>R1 (13-09-2025) 10:15</broadcast1_time_start>
     <broadcast1_time_end>11:00</broadcast1_time_end>
     <broadcast2_channel>Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 (13-09-2024) 14:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (13-09-2025) 14:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2208,13 +2208,13 @@
     <circuit>Sachsenring</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
-    <race_date>07-09-2024</race_date>
+    <race_date>07-09-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (09-09-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (09-09-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (10-09-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (10-09-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -2226,7 +2226,7 @@
     <circuit>Barcelona 24 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>14-09-2024</race_date>
+    <race_date>14-09-2025</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -2243,7 +2243,7 @@
     <circuit>Fuji 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>15-09-2024</race_date>
+    <race_date>15-09-2025</race_date>
     <race_time>04:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>03:30</broadcast1_time_start>
@@ -2260,7 +2260,7 @@
     <circuit>Baku</circuit>
     <circuit_info>Baku City Circuit</circuit_info>
     <country>Azerbaijan</country>
-    <race_date>15-09-2024</race_date>
+    <race_date>15-09-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2278,7 +2278,7 @@
     <circuit>Brands Hatch</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>10-09-2024</race_date>
+    <race_date>10-09-2025</race_date>
     <race_time>14:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2296,7 +2296,7 @@
     <circuit>Mugello</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>13-09-2024</race_date>
+    <race_date>13-09-2025</race_date>
     <race_time>15:10</race_time>
     <broadcast1_channel>RTL Television</broadcast1_channel>
     <broadcast1_time_start>14:00</broadcast1_time_start>
@@ -2314,7 +2314,7 @@
     <circuit>Sandown 500</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>16-09-2024</race_date>
+    <race_date>16-09-2025</race_date>
     <race_time>05:20</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
     <broadcast1_time_start>04:55</broadcast1_time_start>
@@ -2332,7 +2332,7 @@
     <circuit>Singapore</circuit>
     <circuit_info>-</circuit_info>
     <country>Singapore</country>
-    <race_date>22-09-2024</race_date>
+    <race_date>22-09-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2350,13 +2350,13 @@
     <circuit>Assen</circuit>
     <circuit_info>-</circuit_info>
     <country>Netherlands</country>
-    <race_date>18-09-2024</race_date>
+    <race_date>18-09-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (18-09-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (18-09-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (19-09-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (19-09-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2367,7 +2367,7 @@
     <circuit>Spa-Franc. 4 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>19-09-2024</race_date>
+    <race_date>19-09-2025</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -2385,7 +2385,7 @@
     <circuit>Sepang</circuit>
     <circuit_info>-</circuit_info>
     <country>Malaysia</country>
-    <race_date>23-09-2024</race_date>
+    <race_date>23-09-2025</race_date>
     <race_time>09:45</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2402,13 +2402,13 @@
     <circuit>Red Bull Ring</circuit>
     <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
     <country>Austria</country>
-    <race_date>28-09-2024</race_date>
+    <race_date>28-09-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (23-09-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (23-09-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (24-09-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (24-09-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -2419,7 +2419,7 @@
     <circuit>Mugello 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>29-09-2024</race_date>
+    <race_date>29-09-2025</race_date>
     <race_time>11:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2437,7 +2437,7 @@
     <circuit>Sebring</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>23-09-2024</race_date>
+    <race_date>23-09-2025</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2455,7 +2455,7 @@
     <circuit>Shanghai</circuit>
     <circuit_info>-</circuit_info>
     <country>China</country>
-    <race_date>27-09-2024</race_date>
+    <race_date>27-09-2025</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2472,7 +2472,7 @@
     <circuit>Okayama</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>27-09-2024</race_date>
+    <race_date>27-09-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2489,7 +2489,7 @@
     <circuit>Valencia</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>26-09-2024</race_date>
+    <race_date>26-09-2025</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2506,7 +2506,7 @@
     <circuit>Sochi</circuit>
     <circuit_info>-</circuit_info>
     <country>Russia</country>
-    <race_date>25-09-2024</race_date>
+    <race_date>25-09-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2526,7 +2526,7 @@
     <circuit>Barcelona</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>01-10-2024</race_date>
+    <race_date>01-10-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2543,7 +2543,7 @@
     <circuit>Zolder</circuit>
     <circuit_info>-</circuit_info>
     <country>Belgium</country>
-    <race_date>03-10-2024</race_date>
+    <race_date>03-10-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -2561,7 +2561,7 @@
     <circuit>Wuhan</circuit>
     <circuit_info>-</circuit_info>
     <country>China</country>
-    <race_date>07-10-2024</race_date>
+    <race_date>07-10-2025</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>10:00</broadcast1_time_start>
@@ -2578,7 +2578,7 @@
     <circuit>Bathurst 1000 km</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>07-10-2024</race_date>
+    <race_date>07-10-2025</race_date>
     <race_time>02:00</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
     <broadcast1_time_start>01:55</broadcast1_time_start>
@@ -2595,7 +2595,7 @@
     <circuit>Indianapolis 8 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>05-10-2024</race_date>
+    <race_date>05-10-2025</race_date>
     <race_time>18:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2612,13 +2612,13 @@
     <circuit>Inje</circuit>
     <circuit_info>-</circuit_info>
     <country>South Korea</country>
-    <race_date>08-10-2024</race_date>
+    <race_date>08-10-2025</race_date>
     <race_time>09:15</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
-    <broadcast1_time_start>R1 (18-05-2024) 14:15</broadcast1_time_start>
+    <broadcast1_time_start>R1 (18-05-2025) 14:15</broadcast1_time_start>
     <broadcast1_time_end>15:30</broadcast1_time_end>
     <broadcast2_channel>#Eurosport 2</broadcast2_channel>
-    <broadcast2_time_start>R2 (19-05-2024) 12:55</broadcast2_time_start>
+    <broadcast2_time_start>R2 (19-05-2025) 12:55</broadcast2_time_start>
     <broadcast2_time_end>14:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2629,13 +2629,13 @@
     <circuit>Hockenheimring</circuit>
     <circuit_info>Hockenheimring Baden-Württemberg</circuit_info>
     <country>Germany</country>
-    <race_date>19-10-2024</race_date>
+    <race_date>19-10-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (08-10-2024) 13:00</broadcast1_time_start>
+    <broadcast1_time_start>R1 (08-10-2025) 13:00</broadcast1_time_start>
     <broadcast1_time_end>15:00</broadcast1_time_end>
     <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (09-10-2024) 13:00</broadcast2_time_start>
+    <broadcast2_time_start>R2 (09-10-2025) 13:00</broadcast2_time_start>
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
@@ -2647,7 +2647,7 @@
     <circuit>Istanbul</circuit>
     <circuit_info>-</circuit_info>
     <country>Turkey</country>
-    <race_date>10-10-2024</race_date>
+    <race_date>10-10-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2664,7 +2664,7 @@
     <circuit>Nürburgring</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
-    <race_date>11-10-2024</race_date>
+    <race_date>11-10-2025</race_date>
     <race_time>14:10</race_time>
     <broadcast1_channel>RTL Television</broadcast1_channel>
     <broadcast1_time_start>12:30</broadcast1_time_start>
@@ -2682,7 +2682,7 @@
     <circuit>Zandvoort</circuit>
     <circuit_info>Circuit Zandvoort</circuit_info>
     <country>Netherlands</country>
-    <race_date>14-10-2024</race_date>
+    <race_date>14-10-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2699,7 +2699,7 @@
     <circuit>Road Atlanta 10 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>14-10-2024</race_date>
+    <race_date>14-10-2025</race_date>
     <race_time>17:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2717,7 +2717,7 @@
     <circuit>Portimão 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Portugal</country>
-    <race_date>22-10-2024</race_date>
+    <race_date>22-10-2025</race_date>
     <race_time>11:00</race_time>
     <broadcast1_channel>Internet (ELMS)</broadcast1_channel>
     <broadcast1_time_start>https://live.europeanlemansseries.com/en</broadcast1_time_start>
@@ -2735,7 +2735,7 @@
     <circuit>Hockenheimring</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
-    <race_date>17-10-2024</race_date>
+    <race_date>17-10-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>#Internet (YouTube)</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/euroracecar</broadcast1_time_start>
@@ -2752,7 +2752,7 @@
     <circuit>Las Vegas</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>19-10-2024</race_date>
+    <race_date>19-10-2025</race_date>
     <race_time>19:50</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2769,13 +2769,13 @@
     <circuit>Gold Coast</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>21-10-2024</race_date>
+    <race_date>21-10-2025</race_date>
     <race_time>06:15</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (21-10-2024) 06:10</broadcast1_time_start>
+    <broadcast1_time_start>R1 (21-10-2025) 06:10</broadcast1_time_start>
     <broadcast1_time_end>08:50</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (22-10-2024) 06:10</broadcast2_time_start>
+    <broadcast2_time_start>R2 (22-10-2025) 06:10</broadcast2_time_start>
     <broadcast2_time_end>08:55</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2787,7 +2787,7 @@
     <circuit>Austin</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>20-10-2024</race_date>
+    <race_date>20-10-2025</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2805,7 +2805,7 @@
     <circuit>Mexico City</circuit>
     <circuit_info>-</circuit_info>
     <country>Mexico</country>
-    <race_date>27-10-2024</race_date>
+    <race_date>27-10-2025</race_date>
     <race_time>21:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2825,7 +2825,7 @@
     <circuit>Motegi 250 km</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>03-11-2024</race_date>
+    <race_date>03-11-2025</race_date>
     <race_time>05:20</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2843,7 +2843,7 @@
     <circuit>Sakhir 8 hrs</circuit>
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
-    <race_date>02-11-2024</race_date>
+    <race_date>02-11-2025</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>11:30</broadcast1_time_start>
@@ -2861,7 +2861,7 @@
     <circuit>Interlagos</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>03-11-2024</race_date>
+    <race_date>03-11-2025</race_date>
     <race_time>19:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2879,7 +2879,7 @@
     <circuit>Ningbo</circuit>
     <circuit_info>-</circuit_info>
     <country>China</country>
-    <race_date>05-11-2024</race_date>
+    <race_date>05-11-2025</race_date>
     <race_time>08:15</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>08:15</broadcast1_time_start>
@@ -2897,7 +2897,7 @@
     <circuit>Sakhir</circuit>
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
-    <race_date>12-11-2024</race_date>
+    <race_date>12-11-2025</race_date>
     <race_time>08:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 07:50</broadcast1_time_start>
@@ -2915,7 +2915,7 @@
     <circuit>Macau</circuit>
     <circuit_info>-</circuit_info>
     <country>Macau</country>
-    <race_date>19-11-2024</race_date>
+    <race_date>19-11-2025</race_date>
     <race_time>08:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2932,7 +2932,7 @@
     <circuit>Sebring</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>19-11-2024</race_date>
+    <race_date>19-11-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -2949,7 +2949,7 @@
     <circuit>Las Vegas</circuit>
     <circuit_info>Caesars Palace Grand Prix Circuit</circuit_info>
     <country>USA</country>
-    <race_date>24-11-2024</race_date>
+    <race_date>24-11-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2967,13 +2967,13 @@
     <circuit>Macau</circuit>
     <circuit_info>-</circuit_info>
     <country>Macau</country>
-    <race_date>19-11-2024</race_date>
+    <race_date>19-11-2025</race_date>
     <race_time>07:55</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (16-11-2024) 07:50</broadcast1_time_start>
+    <broadcast1_time_start>R1 (16-11-2025) 07:50</broadcast1_time_start>
     <broadcast1_time_end>08:35</broadcast1_time_end>
     <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (17-11-2024) 01:40</broadcast2_time_start>
+    <broadcast2_time_start>R2 (17-11-2025) 01:40</broadcast2_time_start>
     <broadcast2_time_end>02:25</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -2984,13 +2984,13 @@
     <circuit>Fuji</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>23-11-2024</race_date>
+    <race_date>23-11-2025</race_date>
     <race_time>06:30</race_time>
     <broadcast1_channel>#SAT.1</broadcast1_channel>
-    <broadcast1_time_start>R1 (23-11-2024) 06:25</broadcast1_time_start>
+    <broadcast1_time_start>R1 (23-11-2025) 06:25</broadcast1_time_start>
     <broadcast1_time_end>07:45</broadcast1_time_end>
     <broadcast2_channel>#SAT.1</broadcast2_channel>
-    <broadcast2_time_start>R2 (24-11-2024) 06:25</broadcast2_time_start>
+    <broadcast2_time_start>R2 (24-11-2025) 06:25</broadcast2_time_start>
     <broadcast2_time_end>07:45</broadcast2_time_end>
     <broadcast3_channel>#Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
@@ -3002,13 +3002,13 @@
     <circuit>Newcastle</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
-    <race_date>25-11-2024</race_date>
+    <race_date>25-11-2025</race_date>
     <race_time>05:45</race_time>
     <broadcast1_channel>#Motors TV</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-11-2024) 05:30</broadcast1_time_start>
+    <broadcast1_time_start>R1 (25-11-2025) 05:30</broadcast1_time_start>
     <broadcast1_time_end>07:50</broadcast1_time_end>
     <broadcast2_channel>#Motors TV</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-11-2024) 05:30</broadcast2_time_start>
+    <broadcast2_time_start>R2 (26-11-2025) 05:30</broadcast2_time_start>
     <broadcast2_time_end>07:50</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -3020,7 +3020,7 @@
     <circuit>Jeddah</circuit>
     <circuit_info>Jeddah 23512</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>26-11-2024</race_date>
+    <race_date>26-11-2025</race_date>
     <race_time>10:00</race_time>
     <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 10:00</broadcast1_time_start>
@@ -3040,7 +3040,7 @@
     <circuit>Losail</circuit>
     <circuit_info>-</circuit_info>
     <country>Qatar</country>
-    <race_date>01-12-2024</race_date>
+    <race_date>01-12-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -3058,7 +3058,7 @@
     <circuit>Sakhir</circuit>
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
-    <race_date>01-12-2024</race_date>
+    <race_date>01-12-2025</race_date>
     <race_time>17:30</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>17:30</broadcast1_time_start>
@@ -3076,7 +3076,7 @@
     <circuit>Abu Dhabi</circuit>
     <circuit_info>-</circuit_info>
     <country>United Arab Emirates</country>
-    <race_date>08-12-2024</race_date>
+    <race_date>08-12-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -3094,7 +3094,7 @@
     <circuit>Sepang</circuit>
     <circuit_info>-</circuit_info>
     <country>Malaysia</country>
-    <race_date>12-12-2024</race_date>
+    <race_date>12-12-2025</race_date>
     <race_time>08:15</race_time>
     <broadcast1_channel>#Eurosport 2</broadcast1_channel>
     <broadcast1_time_start>19:05</broadcast1_time_start>
@@ -3111,7 +3111,7 @@
 <!-- **** **** -->
 <race>
     <series>$F1</series>
-    <circuit>* Provisional 2025 calendar available soon *</circuit>
+    <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -3128,7 +3128,7 @@
 <!-- /race -->
 <race>
     <series>$F1</series>
-    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2026 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Australia</country>
     <race_date>****</race_date>
@@ -3145,7 +3145,7 @@
 <!-- /race -->
 <race>
     <series>DTM</series>
-    <circuit>* Provisional 2025 calendar available soon *</circuit>
+    <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -3162,7 +3162,7 @@
 <!-- /race -->
 <race>
     <series>$DTM</series>
-    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2026 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
     <race_date>****</race_date>
@@ -3179,7 +3179,7 @@
 <!-- /race -->
 <race>
     <series>Other GT</series>
-    <circuit>* Provisional 2025 calendar available soon *</circuit>
+    <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -3196,7 +3196,7 @@
 <!-- /race -->
 <race>
     <series>$Other GT</series>
-    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2026 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
     <race_date>****</race_date>
@@ -3213,7 +3213,7 @@
 <!-- /race -->
 <race>
     <series>WEC</series>
-    <circuit>* Provisional 2025 calendar available soon *</circuit>
+    <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -3229,7 +3229,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race --><race>
     <series>$WEC</series>
-    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2026 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
     <race_date>****</race_date>
@@ -3246,7 +3246,7 @@
 <!-- /race -->
 <race>
     <series>Formula E</series>
-    <circuit>* Provisional 2025 calendar available soon *</circuit>
+    <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
@@ -3263,7 +3263,7 @@
 <!-- /race -->
 <race>
     <series>$Formula E</series>
-    <circuit>* Please upgrade to v9.x for 2025 calendar *</circuit>
+    <circuit>* Please upgrade to v9.x for 2026 calendar *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
