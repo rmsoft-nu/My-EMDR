@@ -244,7 +244,7 @@
     <circuit>Sakhir</circuit>
     <circuit_info>Bahrain International Circuit</circuit_info>
     <country>Bahrain</country>
-    <race_date>02-03-2025</race_date>
+    <race_date>13-04-2025</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -262,7 +262,7 @@
     <circuit>Jeddah</circuit>
     <circuit_info>Jeddah 23512</circuit_info>
     <country>Saudi Arabia</country>
-    <race_date>09-03-2025</race_date>
+    <race_date>20-04-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -311,7 +311,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Sau Paulo</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
@@ -366,10 +366,10 @@
 
 <race>
     <series>Formula E</series>
-    <circuit>Tokio</circuit>
+    <circuit>Tokio (2x)</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>30-03-2025</race_date>
+    <race_date>17-05-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>06:30</broadcast1_time_start>
@@ -385,7 +385,7 @@
 
 <!-- April -->
 <race>
-    <series>Other British GT</series>
+    <series>$Other British GT</series>
     <circuit>Oulton Park</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -492,7 +492,7 @@
     <circuit>Suzuka</circuit>
     <circuit_info>7992 Inoucho, Suzuka, Mie 510-0295, Japan</circuit_info>
     <country>Japan</country>
-    <race_date>07-04-2025</race_date>
+    <race_date>06-04-2025</race_date>
     <race_time>07:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
