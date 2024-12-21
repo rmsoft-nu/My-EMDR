@@ -530,9 +530,9 @@
     <country>China</country>
     <race_date>23-03-2025</race_date>
     <race_time>08:10</race_time>
-    <broadcast1_channel>#RTL Television</broadcast1_channel>
-    <broadcast1_time_start>07:00</broadcast1_time_start>
-    <broadcast1_time_end>10:25</broadcast1_time_end>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
     <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
