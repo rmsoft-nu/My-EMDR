@@ -542,7 +542,7 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>Misano 2x</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
@@ -3144,7 +3144,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>DTM</series>
+    <series>$DTM</series>
     <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Germany</country>
@@ -3178,7 +3178,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT</series>
+    <series>$Other GT</series>
     <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Argentina</country>
@@ -3212,7 +3212,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>WEC</series>
+    <series>$WEC</series>
     <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -3245,7 +3245,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>* Provisional 2026 calendar available soon *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
