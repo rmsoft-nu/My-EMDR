@@ -564,7 +564,7 @@
     <circuit>Long Beach</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>20-04-2025</race_date>
+    <race_date>12-04-2025</race_date>
     <race_time>22:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -669,7 +669,7 @@
     <circuit>Monte Carlo</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
-    <race_date>27-04-2025</race_date>
+    <race_date>03-05-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>14:30</broadcast1_time_start>
@@ -809,10 +809,10 @@
 <!-- /race -->
 <race>
     <series>Formula E</series>
-    <circuit>Berlin 2x</circuit>
+    <circuit>Berlin (2x)</circuit>
     <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
     <country>Germany</country>
-    <race_date>11-05-2025</race_date>
+    <race_date>12-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (11-05-2025) 14:30</broadcast1_time_start>
@@ -1053,10 +1053,10 @@
 
 <race>
     <series>Formula E</series>
-    <circuit>Shanghai 2x</circuit>
+    <circuit>Shanghai (2x)</circuit>
     <circuit_info>-</circuit_info>
     <country>China</country>
-    <race_date>25-05-2025</race_date>
+    <race_date>31-05-2025</race_date>
     <race_time>09:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (25-05-2025) 08:30</broadcast1_time_start>
@@ -1373,10 +1373,10 @@
 
 <race>
     <series>Formula E</series>
-    <circuit>Portland 2x</circuit>
+    <circuit>Miami</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>29-06-2025</race_date>
+    <race_date>12-04-2025</race_date>
     <race_time>23:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (29-06-2025) 22:30</broadcast1_time_start>
@@ -1743,10 +1743,10 @@
 
 <race>
     <series>Formula E</series>
-    <circuit>London 2x</circuit>
+    <circuit>London (2x)</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>20-07-2025</race_date>
+    <race_date>26-07-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (20-07-2025) 17:30</broadcast1_time_start>
