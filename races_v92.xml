@@ -542,11 +542,11 @@
 <!-- /race -->
 
 <race>
-    <series>$Formula E</series>
-    <circuit>Misano 2x</circuit>
+    <series>Formula E</series>
+    <circuit>Jakarta</circuit>
     <circuit_info>-</circuit_info>
-    <country>Italy</country>
-    <race_date>13-04-2025</race_date>
+    <country>Indonesia</country>
+    <race_date>21-06-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (13-04-2025) 14:30</broadcast1_time_start>
@@ -666,7 +666,7 @@
 <!-- /race -->
 <race>
     <series>Formula E</series>
-    <circuit>Monte Carlo</circuit>
+    <circuit>Monte Carlo (2x)</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
     <race_date>03-05-2025</race_date>
