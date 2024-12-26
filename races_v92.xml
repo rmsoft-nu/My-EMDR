@@ -1484,7 +1484,7 @@
     <circuit>Norisring</circuit>
     <circuit_info>Norisring, Zeppelinstraße, Neurenberg, Duitsland</circuit_info>
     <country>Germany</country>
-    <race_date>06-07-2025</race_date>
+    <race_date>05-07-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (08-07-2025) 13:00</broadcast1_time_start>
@@ -1640,7 +1640,7 @@
     <circuit>Silverstone</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
-    <race_date>07-07-2025</race_date>
+    <race_date>06-07-2025</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1693,7 +1693,7 @@
     <circuit>Brazil 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Brazil</country>
-    <race_date>14-07-2025</race_date>
+    <race_date>13-07-2025</race_date>
     <race_time>16:30</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>16:00</broadcast1_time_start>
@@ -1760,11 +1760,11 @@
 <!-- /race -->
 
 <race>
-    <series>$Other IMSA</series>
-    <circuit>Lime Rock Park</circuit>
-    <circuit_info>Lime Rock Park</circuit_info>
-    <country>USA</country>
-    <race_date>22-07-2025</race_date>
+    <series>Other IMSA</series>
+    <circuit>Toronto</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Canada</country>
+    <race_date>12-07-2025</race_date>
     <race_time>22:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1800,7 +1800,7 @@
     <circuit>Hungaroring</circuit>
     <circuit_info>Hungaroring</circuit_info>
     <country>Hungary</country>
-    <race_date>21-07-2025</race_date>
+    <race_date>03-08-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1836,7 +1836,7 @@
     <circuit>Spa-Francorchamps</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>28-07-2025</race_date>
+    <race_date>27-07-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
