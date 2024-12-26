@@ -738,7 +738,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other British GT</series>
+    <series>$Other British GT</series>
     <circuit>Silverstone 500</circuit>
     <circuit_info>-</circuit_info>
     <country>United Kingdom</country>
@@ -795,7 +795,7 @@
     <circuit>Spa-Franc. 6 hrs</circuit>
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
-    <race_date>11-05-2025</race_date>
+    <race_date>10-05-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:30</broadcast1_time_start>
@@ -1016,7 +1016,7 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT WC America</series>
+    <series>$Other GT WC America</series>
     <circuit>Austin</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
@@ -1038,7 +1038,7 @@
     <circuit>Imola</circuit>
     <circuit_info>Autodromo Enzo e Dino Ferrari, Imola, Bologna, Italië</circuit_info>
     <country>Italy</country>
-    <race_date>19-05-2025</race_date>
+    <race_date>18-05-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1073,7 +1073,7 @@
     <circuit>Lausitzring</circuit>
     <circuit_info>Lausitzallee 1, 01998 Schipkau, Duitsland</circuit_info>
     <country>Germany</country>
-    <race_date>25-05-2025</race_date>
+    <race_date>24-05-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (25-05-2025) 13:00</broadcast1_time_start>
@@ -1091,7 +1091,7 @@
     <circuit>Monte Carlo</circuit>
     <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
     <country>Monaco</country>
-    <race_date>26-05-2025</race_date>
+    <race_date>25-05-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1198,7 +1198,7 @@
     <circuit>Detroit</circuit>
     <circuit_info>Belle Isle Park</circuit_info>
     <country>USA</country>
-    <race_date>01-06-2025</race_date>
+    <race_date>31-05-2025</race_date>
     <race_time>21:10</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1216,7 +1216,7 @@
     <circuit>Zandvoort</circuit>
     <circuit_info>Circuitpark Zandvoort</circuit_info>
     <country>Netherlands</country>
-    <race_date>08-06-2025</race_date>
+    <race_date>07-06-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (08-06-2025) 13:00</broadcast1_time_start>
@@ -1234,7 +1234,7 @@
     <circuit>Montreal</circuit>
     <circuit_info>Circuit Gilles Villeneuve</circuit_info>
     <country>Canada</country>
-    <race_date>09-06-2025</race_date>
+    <race_date>15-06-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1252,11 +1252,11 @@
     <circuit>Le Mans 24 hrs</circuit>
     <circuit_info>Circuit de la Sarthe</circuit_info>
     <country>France</country>
-    <race_date>15-06-2025</race_date>
+    <race_date>14-06-2025</race_date>
     <race_time>16:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>(15-06-2025) 15:00</broadcast1_time_start>
-    <broadcast1_time_end>(16-06-2025) 16:30</broadcast1_time_end>
+    <broadcast1_time_start>(14-06-2025) 15:00</broadcast1_time_start>
+    <broadcast1_time_end>(15-06-2025) 16:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -1358,7 +1358,7 @@
     <circuit>Barcelona</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>23-06-2025</race_date>
+    <race_date>01-06-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1407,11 +1407,11 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Other IMSA</series>
+    <series>Other IMSA</series>
     <circuit>Watkins Glen 6 hrs</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
     <country>USA</country>
-    <race_date>25-06-2025</race_date>
+    <race_date>22-06-2025</race_date>
     <race_time>16:40</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -1447,7 +1447,7 @@
     <circuit>Red Bull Ring</circuit>
     <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
     <country>Austria</country>
-    <race_date>30-06-2025</race_date>
+    <race_date>29-06-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
