@@ -2414,7 +2414,7 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other ELMS</series>
+    <series>$Other ELMS</series>
     <circuit>Mugello 4 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
