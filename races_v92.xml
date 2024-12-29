@@ -2100,7 +2100,7 @@
     <circuit>VIRginia Raceway</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>25-08-2025</race_date>
+    <race_date>24-08-2025</race_date>
     <race_time>18:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2119,7 +2119,7 @@
     <circuit>Monza</circuit>
     <circuit_info>-</circuit_info>
     <country>Italy</country>
-    <race_date>01-09-2025</race_date>
+    <race_date>07-09-2025</race_date>
     <race_time>15:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2136,7 +2136,7 @@
     <circuit>Austin 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>01-09-2025</race_date>
+    <race_date>07-09-2025</race_date>
     <race_time>20:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>(01-09-2025) 19:30</broadcast1_time_start>
@@ -2225,7 +2225,7 @@
     <circuit>Barcelona 24 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Spain</country>
-    <race_date>14-09-2025</race_date>
+    <race_date>28-09-2025</race_date>
     <race_time>12:00</race_time>
     <broadcast1_channel>Internet</broadcast1_channel>
     <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
@@ -2242,7 +2242,7 @@
     <circuit>Fuji 6 hrs</circuit>
     <circuit_info>-</circuit_info>
     <country>Japan</country>
-    <race_date>15-09-2025</race_date>
+    <race_date>28-09-2025</race_date>
     <race_time>04:00</race_time>
     <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>03:30</broadcast1_time_start>
@@ -2259,7 +2259,7 @@
     <circuit>Baku</circuit>
     <circuit_info>Baku City Circuit</circuit_info>
     <country>Azerbaijan</country>
-    <race_date>15-09-2025</race_date>
+    <race_date>21-09-2025</race_date>
     <race_time>13:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2331,7 +2331,7 @@
     <circuit>Singapore</circuit>
     <circuit_info>-</circuit_info>
     <country>Singapore</country>
-    <race_date>22-09-2025</race_date>
+    <race_date>05-10-2025</race_date>
     <race_time>14:00</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
@@ -2401,7 +2401,7 @@
     <circuit>Red Bull Ring</circuit>
     <circuit_info>Red Bull Ring Straße, Spielberg bei Knittelfeld, Oostenrijk</circuit_info>
     <country>Austria</country>
-    <race_date>28-09-2025</race_date>
+    <race_date>13-09-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (23-09-2025) 13:00</broadcast1_time_start>
@@ -2590,12 +2590,12 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>Other GT WC America</series>
-    <circuit>Indianapolis 8 hrs</circuit>
+    <series>Other IMSA</series>
+    <circuit>Indianapolis</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>05-10-2025</race_date>
-    <race_time>18:15</race_time>
+    <race_date>20-09-2025</race_date>
+    <race_time>19:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
@@ -2628,7 +2628,7 @@
     <circuit>Hockenheimring</circuit>
     <circuit_info>Hockenheimring Baden-Württemberg</circuit_info>
     <country>Germany</country>
-    <race_date>19-10-2025</race_date>
+    <race_date>04-10-2025</race_date>
     <race_time>13:30</race_time>
     <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
     <broadcast1_time_start>R1 (08-10-2025) 13:00</broadcast1_time_start>
