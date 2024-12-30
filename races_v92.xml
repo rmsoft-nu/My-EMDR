@@ -21,6 +21,24 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>Other 24H Series</series>
+    <circuit>Dubai 24 hrs</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Arab Emirates</country>
+    <race_date>11-01-2025</race_date>
+    <race_time>10:00</race_time>
+    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
+    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://livetiming.getraceresults.com/24hseries</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>Formula E</series>
     <circuit>Mexico City</circuit>
@@ -54,23 +72,6 @@
     <broadcast2_time_end>19:00</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Other 24H Series</series>
-    <circuit>Dubai 24 hrs</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Arab Emirates</country>
-    <race_date>11-01-2025</race_date>
-    <race_time>10:00</race_time>
-    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/user/24HSeries</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://livetiming.getraceresults.com/24hseries</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
