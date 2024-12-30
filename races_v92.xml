@@ -1037,23 +1037,6 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
-    <circuit>Shanghai (2x)</circuit>
-    <circuit_info>-</circuit_info>
-    <country>China</country>
-    <race_date>31-05-2025</race_date>
-    <race_time>09:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-05-2025) 08:30</broadcast1_time_start>
-    <broadcast1_time_end>11:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-05-2025) 08:30</broadcast2_time_start>
-    <broadcast2_time_end>11:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>DTM</series>
     <circuit>Lausitzring</circuit>
     <circuit_info>Lausitzallee 1, 01998 Schipkau, Duitsland</circuit_info>
@@ -1139,6 +1122,24 @@
     <broadcast2_time_end>13:30</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>Shanghai (2x)</circuit>
+    <circuit_info>-</circuit_info>
+    <country>China</country>
+    <race_date>31-05-2025</race_date>
+    <race_time>09:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (25-05-2025) 08:30</broadcast1_time_start>
+    <broadcast1_time_end>11:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (26-05-2025) 08:30</broadcast2_time_start>
+    <broadcast2_time_end>11:00</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1940,23 +1941,6 @@
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>Other IMSA</series>
-    <circuit>Road America</circuit>
-    <circuit_info>Road America</circuit_info>
-    <country>USA</country>
-    <race_date>11-10-2025</race_date>
-    <race_time>18:40</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>$Formula E</series>
@@ -2048,6 +2032,41 @@
 <!-- /race -->
 
 <race>
+    <series>DTM</series>
+    <circuit>Sachsenring</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Germany</country>
+    <race_date>23-08-2025</race_date>
+    <race_time>13:30</race_time>
+    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
+    <broadcast1_time_start>R1 (09-09-2025) 13:00</broadcast1_time_start>
+    <broadcast1_time_end>15:00</broadcast1_time_end>
+    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
+    <broadcast2_time_start>R2 (10-09-2025) 13:00</broadcast2_time_start>
+    <broadcast2_time_end>15:00</broadcast2_time_end>
+    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
+    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>Other IMSA</series>
+    <circuit>VIRginia Raceway</circuit>
+    <circuit_info>-</circuit_info>
+    <country>USA</country>
+    <race_date>24-08-2025</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
     <series>$Other V8 Supercars</series>
     <circuit>Tailem Bend</circuit>
     <circuit_info>-</circuit_info>
@@ -2096,23 +2115,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Other IMSA</series>
-    <circuit>VIRginia Raceway</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>24-08-2025</race_date>
-    <race_time>18:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2205,21 +2207,22 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
-    <series>DTM</series>
-    <circuit>Sachsenring</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Germany</country>
-    <race_date>23-08-2025</race_date>
-    <race_time>13:30</race_time>
-    <broadcast1_channel>SAT.1-ProSieben</broadcast1_channel>
-    <broadcast1_time_start>R1 (09-09-2025) 13:00</broadcast1_time_start>
-    <broadcast1_time_end>15:00</broadcast1_time_end>
-    <broadcast2_channel>SAT.1-ProSieben</broadcast2_channel>
-    <broadcast2_time_start>R2 (10-09-2025) 13:00</broadcast2_time_start>
-    <broadcast2_time_end>15:00</broadcast2_time_end>
-    <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
-    <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <series>F1</series>
+    <circuit>Baku</circuit>
+    <circuit_info>Baku City Circuit</circuit_info>
+    <country>Azerbaijan</country>
+    <race_date>21-09-2025</race_date>
+    <race_time>13:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2255,23 +2258,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>F1</series>
-    <circuit>Baku</circuit>
-    <circuit_info>Baku City Circuit</circuit_info>
-    <country>Azerbaijan</country>
-    <race_date>21-09-2025</race_date>
-    <race_time>13:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2326,24 +2312,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>#Timing</broadcast3_channel>
     <broadcast3_time_start>http://www.supercars.com/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>F1</series>
-    <circuit>Singapore</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Singapore</country>
-    <race_date>05-10-2025</race_date>
-    <race_time>14:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2626,6 +2594,7 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>DTM</series>
     <circuit>Hockenheimring</circuit>
@@ -2641,6 +2610,23 @@
     <broadcast2_time_end>15:00</broadcast2_time_end>
     <broadcast3_channel>Internet (ProSieben)</broadcast3_channel>
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Singapore</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Singapore</country>
+    <race_date>05-10-2025</race_date>
+    <race_time>14:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -2676,6 +2662,24 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Other IMSA</series>
+    <circuit>Road America</circuit>
+    <circuit_info>Road America</circuit_info>
+    <country>USA</country>
+    <race_date>11-10-2025</race_date>
+    <race_time>18:40</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -3266,6 +3270,24 @@
 <race>
     <series>$Formula E</series>
     <circuit>* Please upgrade to v9.x for 2026 calendar *</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Chile</country>
+    <race_date>****</race_date>
+    <race_time>****</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>* TEST v9.2.1 *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
