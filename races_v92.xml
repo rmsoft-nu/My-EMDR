@@ -185,8 +185,6 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
-
-<!-- March -->
 <race>
     <series>WEC</series>
     <circuit>Qatar 1812 km</circuit>
@@ -205,6 +203,8 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+
+<!-- March -->
 <race>
     <series>$Other V8 Supercars</series>
     <circuit>Adelaide 500</circuit>
@@ -242,42 +242,6 @@
 <!-- /race -->
 
 <race>
-    <series>F1</series>
-    <circuit>Sakhir</circuit>
-    <circuit_info>Bahrain International Circuit</circuit_info>
-    <country>Bahrain</country>
-    <race_date>13-04-2025</race_date>
-    <race_time>16:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>F1</series>
-    <circuit>Jeddah</circuit>
-    <circuit_info>Jeddah 23512</circuit_info>
-    <country>Saudi Arabia</country>
-    <race_date>20-04-2025</race_date>
-    <race_time>18:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$Other 24H Series</series>
     <circuit>Mugello 12 hrs</circuit>
     <circuit_info>-</circuit_info>
@@ -289,6 +253,24 @@
     <broadcast1_time_end>-</broadcast1_time_end>
     <broadcast2_channel>Timing</broadcast2_channel>
     <broadcast2_time_start>http://www.24hseries.com/live</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
+<race>
+    <series>$Formula E</series>
+    <circuit>Sau Paulo</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Brazil</country>
+    <race_date>16-03-2025</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>17:30</broadcast1_time_start>
+    <broadcast1_time_end>19:30</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
@@ -312,24 +294,6 @@
     <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>$Formula E</series>
-    <circuit>Sau Paulo</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Brazil</country>
-    <race_date>16-03-2025</race_date>
-    <race_time>18:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>17:30</broadcast1_time_start>
-    <broadcast1_time_end>19:30</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
 <race>
     <series>F1</series>
     <circuit>Melbourne</circuit>
@@ -578,6 +542,25 @@
     <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Sakhir</circuit>
+    <circuit_info>Bahrain International Circuit</circuit_info>
+    <country>Bahrain</country>
+    <race_date>13-04-2025</race_date>
+    <race_time>16:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 <race>
     <series>WEC</series>
     <circuit>Imola 6 hrs</circuit>
@@ -593,6 +576,23 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>F1</series>
+    <circuit>Jeddah</circuit>
+    <circuit_info>Jeddah 23512</circuit_info>
+    <country>Saudi Arabia</country>
+    <race_date>20-04-2025</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
