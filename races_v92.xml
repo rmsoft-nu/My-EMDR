@@ -46,14 +46,14 @@
     <country>Mexico</country>
     <race_date>11-01-2025</race_date>
     <race_time>21:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>20:30</broadcast1_time_start>
     <broadcast1_time_end>22:30</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -156,14 +156,14 @@
     <country>Saudi Arabia</country>
     <race_date>15-02-2025</race_date>
     <race_time>18:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (26-01-2025) 17:45</broadcast1_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (15-02-2025) 17:30</broadcast1_time_start>
     <broadcast1_time_end>19:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (27-01-2025) 17:45</broadcast2_time_start>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (16-02-2025) 17:30</broadcast2_time_start>
     <broadcast2_time_end>19:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -192,7 +192,7 @@
     <country>Qatar</country>
     <race_date>28-02-2025</race_date>
     <race_time>09:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>08:30</broadcast1_time_start>
     <broadcast1_time_end>19:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -514,12 +514,12 @@
     <country>USA</country>
     <race_date>12-04-2025</race_date>
     <race_time>23:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (29-06-2025) 22:30</broadcast1_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>22:30</broadcast1_time_start>
     <broadcast1_time_end>00:30</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (30-06-2025) 22:30</broadcast2_time_start>
-    <broadcast2_time_end>00:30</broadcast2_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
@@ -549,7 +549,7 @@
     <country>Italy</country>
     <race_date>20-04-2025</race_date>
     <race_time>13:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:30</broadcast1_time_start>
     <broadcast1_time_end>19:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -728,14 +728,14 @@
     <country>Monaco</country>
     <race_date>03-05-2025</race_date>
     <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>14:30</broadcast1_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (03-05-2025) 14:30</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (04-05-2025) 14:30</broadcast2_time_start>
+    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -781,7 +781,7 @@
     <country>Belgium</country>
     <race_date>10-05-2025</race_date>
     <race_time>13:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>12:30</broadcast1_time_start>
     <broadcast1_time_end>19:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -1007,14 +1007,14 @@
     <country>Japan</country>
     <race_date>17-05-2025</race_date>
     <race_time>07:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>06:30</broadcast1_time_start>
-    <broadcast1_time_end>08:30</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (17-05-2025) 06:30</broadcast1_time_start>
+    <broadcast1_time_end>08:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (18-05-2025) 06:30</broadcast2_time_start>
+    <broadcast2_time_end>08:00</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1130,12 +1130,12 @@
     <country>China</country>
     <race_date>31-05-2025</race_date>
     <race_time>09:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (25-05-2025) 08:30</broadcast1_time_start>
-    <broadcast1_time_end>11:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (26-05-2025) 08:30</broadcast2_time_start>
-    <broadcast2_time_end>11:00</broadcast2_time_end>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (31-05-2025) 08:30</broadcast1_time_start>
+    <broadcast1_time_end>10:00</broadcast1_time_end>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (01-06-2025) 08:30</broadcast2_time_start>
+    <broadcast2_time_end>10:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
@@ -1238,7 +1238,7 @@
     <country>France</country>
     <race_date>14-06-2025</race_date>
     <race_time>16:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>(14-06-2025) 15:00</broadcast1_time_start>
     <broadcast1_time_end>(15-06-2025) 16:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -1379,12 +1379,12 @@
     <country>Indonesia</country>
     <race_date>21-06-2025</race_date>
     <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (13-04-2025) 14:30</broadcast1_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>14:30</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (14-04-2025) 14:30</broadcast2_time_start>
-    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <broadcast2_channel>-</broadcast2_channel>
+    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
@@ -1682,11 +1682,11 @@
     <country>Germany</country>
     <race_date>12-07-2025</race_date>
     <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (11-05-2025) 14:30</broadcast1_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (12-07-2025) 14:30</broadcast1_time_start>
     <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (12-05-2025) 14:30</broadcast2_time_start>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (13-07-2025) 14:30</broadcast2_time_start>
     <broadcast2_time_end>16:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -1716,7 +1716,7 @@
     <country>Brazil</country>
     <race_date>13-07-2025</race_date>
     <race_time>16:30</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>16:00</broadcast1_time_start>
     <broadcast1_time_end>23:00</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -1805,11 +1805,11 @@
     <country>United Kingdom</country>
     <race_date>26-07-2025</race_date>
     <race_time>18:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (20-07-2025) 17:30</broadcast1_time_start>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (26-07-2025) 17:30</broadcast1_time_start>
     <broadcast1_time_end>19:30</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (21-07-2025) 17:30</broadcast2_time_start>
+    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (27-07-2025) 17:30</broadcast2_time_start>
     <broadcast2_time_end>19:30</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
@@ -2143,7 +2143,7 @@
     <country>USA</country>
     <race_date>07-09-2025</race_date>
     <race_time>20:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>(01-09-2025) 19:30</broadcast1_time_start>
     <broadcast1_time_end>(02-09-2025) 02:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -2268,7 +2268,7 @@
     <country>Japan</country>
     <race_date>28-09-2025</race_date>
     <race_time>04:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>03:30</broadcast1_time_start>
     <broadcast1_time_end>10:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -2853,7 +2853,7 @@
     <country>Bahrain</country>
     <race_date>08-11-2025</race_date>
     <race_time>12:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_channel>#Eurosport</broadcast1_channel>
     <broadcast1_time_start>11:30</broadcast1_time_start>
     <broadcast1_time_end>20:15</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
@@ -3291,7 +3291,7 @@
 <!-- **** **** -->
 <race>
     <series>Formula E</series>
-    <circuit>* UPDATE v9.2.4 *</circuit>
+    <circuit>* UPDATE v9.2.5 *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
