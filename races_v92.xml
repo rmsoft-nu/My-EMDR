@@ -58,23 +58,6 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
-    <circuit>Diriyah (2x)</circuit>
-    <circuit_info>QG7P+26J Formula E, Ad Diriyah 13721</circuit_info>
-    <country>Saudi Arabia</country>
-    <race_date>15-02-2025</race_date>
-    <race_time>18:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (26-01-2025) 17:45</broadcast1_time_start>
-    <broadcast1_time_end>19:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (27-01-2025) 17:45</broadcast2_time_start>
-    <broadcast2_time_end>19:00</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
     <series>Other IMSA</series>
     <circuit>Daytona 24 hrs</circuit>
     <circuit_info>Daytona International Speedway, 1801 W International Speedway Blvd, Daytona Beach, FL 32114</circuit_info>
@@ -94,6 +77,24 @@
 
 
 <!-- February -->
+<race>
+    <series>Other GT</series>
+    <circuit>Bathurst 12 hrs</circuit>
+    <circuit_info>Mountain Straight, Mount Panorama NSW 2795</circuit_info>
+    <country>Australia</country>
+    <race_date>01-02-2025</race_date>
+    <race_time>19:45</race_time>
+    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
+    <broadcast1_time_start>https://www.youtube.com/live/eusSm7ako04</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>http://www.bathurst12hour.com.au/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 <race>
     <series>$Other GT Challenge</series>
     <circuit>Kyalami 9 hrs</circuit>
@@ -149,20 +150,20 @@
 <!-- /race -->
 
 <race>
-    <series>Other GT</series>
-    <circuit>Bathurst 12 hrs</circuit>
-    <circuit_info>Mountain Straight, Mount Panorama NSW 2795</circuit_info>
-    <country>Australia</country>
-    <race_date>01-02-2025</race_date>
-    <race_time>19:45</race_time>
-    <broadcast1_channel>Internet (YouTube)</broadcast1_channel>
-    <broadcast1_time_start>https://www.youtube.com/live/eusSm7ako04</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>http://www.bathurst12hour.com.au/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <series>Formula E</series>
+    <circuit>Diriyah (2x)</circuit>
+    <circuit_info>QG7P+26J Formula E, Ad Diriyah 13721</circuit_info>
+    <country>Saudi Arabia</country>
+    <race_date>15-02-2025</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (26-01-2025) 17:45</broadcast1_time_start>
+    <broadcast1_time_end>19:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (27-01-2025) 17:45</broadcast2_time_start>
+    <broadcast2_time_end>19:00</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
