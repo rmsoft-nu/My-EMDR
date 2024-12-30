@@ -453,6 +453,7 @@
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>F1</series>
     <circuit>Suzuka</circuit>
@@ -646,23 +647,6 @@
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-<race>
-    <series>Formula E</series>
-    <circuit>Monte Carlo (2x)</circuit>
-    <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
-    <country>Monaco</country>
-    <race_date>03-05-2025</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>14:30</broadcast1_time_start>
-    <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>Timing</broadcast2_channel>
-    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>-</broadcast3_channel>
-    <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
 
 <race>
     <series>$Other GT WC America</series>
@@ -736,6 +720,24 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>Monte Carlo (2x)</circuit>
+    <circuit_info>Boulevard Albert 1er, Monaco-Ville, Monaco</circuit_info>
+    <country>Monaco</country>
+    <race_date>03-05-2025</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>14:30</broadcast1_time_start>
+    <broadcast1_time_end>16:00</broadcast1_time_end>
+    <broadcast2_channel>Timing</broadcast2_channel>
+    <broadcast2_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>-</broadcast3_channel>
+    <broadcast3_time_start>-</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Miami</circuit>
@@ -787,23 +789,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Formula E</series>
-    <circuit>Berlin (2x)</circuit>
-    <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
-    <country>Germany</country>
-    <race_date>12-07-2025</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (11-05-2025) 14:30</broadcast1_time_start>
-    <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (12-05-2025) 14:30</broadcast2_time_start>
-    <broadcast2_time_end>16:00</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -1156,9 +1141,44 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>Other IMSA</series>
+    <circuit>Detroit</circuit>
+    <circuit_info>Belle Isle Park</circuit_info>
+    <country>USA</country>
+    <race_date>31-05-2025</race_date>
+    <race_time>21:10</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 
 <!-- June -->
+<race>
+    <series>F1</series>
+    <circuit>Barcelona</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Spain</country>
+    <race_date>01-06-2025</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 <race>
     <series>$DTM</series>
     <circuit>TBA</circuit>
@@ -1191,23 +1211,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (World Challenge)</broadcast3_channel>
     <broadcast3_time_start>https://www.gt-world-challenge-europe.com/watch-live</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Other IMSA</series>
-    <circuit>Detroit</circuit>
-    <circuit_info>Belle Isle Park</circuit_info>
-    <country>USA</country>
-    <race_date>31-05-2025</race_date>
-    <race_time>21:10</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1352,25 +1355,6 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
-<race>
-    <series>F1</series>
-    <circuit>Barcelona</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Spain</country>
-    <race_date>01-06-2025</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
 
 <race>
     <series>$WTCR</series>
@@ -1689,6 +1673,41 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>Formula E</series>
+    <circuit>Berlin (2x)</circuit>
+    <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
+    <country>Germany</country>
+    <race_date>12-07-2025</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (11-05-2025) 14:30</broadcast1_time_start>
+    <broadcast1_time_end>16:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (12-05-2025) 14:30</broadcast2_time_start>
+    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+<race>
+    <series>Other IMSA</series>
+    <circuit>Toronto</circuit>
+    <circuit_info>-</circuit_info>
+    <country>Canada</country>
+    <race_date>12-07-2025</race_date>
+    <race_time>22:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>WEC</series>
     <circuit>Brazil 6 hrs</circuit>
@@ -1761,24 +1780,6 @@
 <!-- /race -->
 
 <race>
-    <series>Other IMSA</series>
-    <circuit>Toronto</circuit>
-    <circuit_info>-</circuit_info>
-    <country>Canada</country>
-    <race_date>12-07-2025</race_date>
-    <race_time>22:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$Other GT WC America</series>
     <circuit>Watkins Glen</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
@@ -1793,24 +1794,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>F1</series>
-    <circuit>Hungaroring</circuit>
-    <circuit_info>Hungaroring</circuit_info>
-    <country>Hungary</country>
-    <race_date>03-08-2025</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
-    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
@@ -1903,6 +1886,25 @@
     <broadcast3_time_start>https://www.fiawtcr.com/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
+<race>
+    <series>F1</series>
+    <circuit>Hungaroring</circuit>
+    <circuit_info>Hungaroring</circuit_info>
+    <country>Hungary</country>
+    <race_date>03-08-2025</race_date>
+    <race_time>15:00</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (Pay TV)</broadcast2_channel>
+    <broadcast2_time_start>https://f1tv.formula1.com/</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
+
 <race>
     <series>DTM</series>
     <circuit>Nürburgring</circuit>
