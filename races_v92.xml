@@ -3290,7 +3290,7 @@
 
 <!-- **** **** -->
 <race>
-    <series>Formula E</series>
+    <series>$Formula E</series>
     <circuit>* UPDATE v9.2.5 *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
