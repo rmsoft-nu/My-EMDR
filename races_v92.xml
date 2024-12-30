@@ -1017,7 +1017,6 @@
     <broadcast3_time_start>-</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>F1</series>
     <circuit>Imola</circuit>
@@ -1053,7 +1052,6 @@
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
-
 <race>
     <series>F1</series>
     <circuit>Monte Carlo</circuit>
@@ -1464,6 +1462,7 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>DTM</series>
     <circuit>Norisring</circuit>
@@ -1481,6 +1480,7 @@
     <broadcast3_time_start>https://www.prosieben.de/tv/ran-racing-dtm</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>$Formula E</series>
     <circuit>Marrakech</circuit>
@@ -1620,6 +1620,7 @@
     <broadcast3_time_start>https://www.fiawec.com/en/live</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>F1</series>
     <circuit>Silverstone</circuit>
@@ -1762,24 +1763,6 @@
 <!-- /race -->
 
 <race>
-    <series>Formula E</series>
-    <circuit>London (2x)</circuit>
-    <circuit_info>-</circuit_info>
-    <country>United Kingdom</country>
-    <race_date>26-07-2025</race_date>
-    <race_time>18:00</race_time>
-    <broadcast1_channel>Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (20-07-2025) 17:30</broadcast1_time_start>
-    <broadcast1_time_end>19:30</broadcast1_time_end>
-    <broadcast2_channel>Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (21-07-2025) 17:30</broadcast2_time_start>
-    <broadcast2_time_end>19:30</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
     <series>$Other GT WC America</series>
     <circuit>Watkins Glen</circuit>
     <circuit_info>Watkins Glen International</circuit_info>
@@ -1815,6 +1798,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>Formula E</series>
+    <circuit>London (2x)</circuit>
+    <circuit_info>-</circuit_info>
+    <country>United Kingdom</country>
+    <race_date>26-07-2025</race_date>
+    <race_time>18:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (20-07-2025) 17:30</broadcast1_time_start>
+    <broadcast1_time_end>19:30</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (21-07-2025) 17:30</broadcast2_time_start>
+    <broadcast2_time_end>19:30</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Spa-Francorchamps</circuit>
@@ -2099,6 +2099,7 @@
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+
 <race>
     <series>F1</series>
     <circuit>Zandvoort</circuit>
@@ -2225,6 +2226,23 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
+<race>
+    <series>Other IMSA</series>
+    <circuit>Indianapolis</circuit>
+    <circuit_info>-</circuit_info>
+    <country>USA</country>
+    <race_date>20-09-2025</race_date>
+    <race_time>19:30</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (World Challenge)</broadcast2_channel>
+    <broadcast2_time_start>https://www.gt-world-challenge-america.com/watch-live</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
+    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 <race>
     <series>F1</series>
     <circuit>Baku</circuit>
@@ -2559,23 +2577,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>-</broadcast3_channel>
     <broadcast3_time_start>-</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-<race>
-    <series>Other IMSA</series>
-    <circuit>Indianapolis</circuit>
-    <circuit_info>-</circuit_info>
-    <country>USA</country>
-    <race_date>20-09-2025</race_date>
-    <race_time>19:30</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (World Challenge)</broadcast2_channel>
-    <broadcast2_time_start>https://www.gt-world-challenge-america.com/watch-live</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
-    <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
@@ -3290,7 +3291,7 @@
 <!-- **** **** -->
 <race>
     <series>Formula E</series>
-    <circuit>* UPDATE v9.2.3 *</circuit>
+    <circuit>* UPDATE v9.2.4 *</circuit>
     <circuit_info>-</circuit_info>
     <country>Chile</country>
     <race_date>****</race_date>
