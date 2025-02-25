@@ -385,17 +385,17 @@
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 <race>
-    <series>$Other GT WC America</series>
+    <series>Other GT WC America</series>
     <circuit>Sonoma</circuit>
     <circuit_info>-</circuit_info>
     <country>USA</country>
-    <race_date>01-04-2025</race_date>
-    <race_time>23:55</race_time>
+    <race_date>29-03-2025</race_date>
+    <race_time>23:15</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>-</broadcast2_channel>
-    <broadcast2_time_start>-</broadcast2_time_start>
+    <broadcast2_channel>Internet (GT WC)</broadcast2_channel>
+    <broadcast2_time_start>https://www.gt-world-challenge-america.com/watch-live</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Internet (Motorsport.tv - Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://eu.motorsport.tv/livestream</broadcast3_time_start>
