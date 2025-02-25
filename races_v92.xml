@@ -191,10 +191,10 @@
     <circuit_info>-</circuit_info>
     <country>Qatar</country>
     <race_date>28-02-2025</race_date>
-    <race_time>09:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>08:30</broadcast1_time_start>
-    <broadcast1_time_end>19:30</broadcast1_time_end>
+    <race_time>12:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>11:30</broadcast1_time_start>
+    <broadcast1_time_end>22:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
