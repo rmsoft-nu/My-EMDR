@@ -780,10 +780,10 @@
     <circuit_info>Spa Francorchamps Grand Prix F1, Route du Circuit, Stavelot, België</circuit_info>
     <country>Belgium</country>
     <race_date>10-05-2025</race_date>
-    <race_time>13:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>12:30</broadcast1_time_start>
-    <broadcast1_time_end>19:30</broadcast1_time_end>
+    <race_time>14:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>13:30</broadcast1_time_start>
+    <broadcast1_time_end>20:30</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
     <broadcast2_time_start>-</broadcast2_time_start>
     <broadcast2_time_end>-</broadcast2_time_end>
@@ -796,8 +796,8 @@
     <circuit>Laguna Seca</circuit>
     <circuit_info>Laguna Seca, Monterey Salinas Highway, Salinas, Californië</circuit_info>
     <country>USA</country>
-    <race_date>12-05-2025</race_date>
-    <race_time>23:00</race_time>
+    <race_date>11-05-2025</race_date>
+    <race_time>23:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
     <broadcast1_time_end>-</broadcast1_time_end>
