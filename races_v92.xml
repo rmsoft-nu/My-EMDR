@@ -1006,12 +1006,12 @@
     <circuit_info>-</circuit_info>
     <country>Japan</country>
     <race_date>17-05-2025</race_date>
-    <race_time>07:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (17-05-2025) 06:30</broadcast1_time_start>
+    <race_time>08:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (17-05-2025) 07:30</broadcast1_time_start>
     <broadcast1_time_end>08:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (18-05-2025) 06:30</broadcast2_time_start>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (18-05-2025) 07:30</broadcast2_time_start>
     <broadcast2_time_end>08:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
