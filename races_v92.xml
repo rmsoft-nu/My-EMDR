@@ -1130,10 +1130,10 @@
     <country>China</country>
     <race_date>31-05-2025</race_date>
     <race_time>09:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>R1 (31-05-2025) 08:30</broadcast1_time_start>
     <broadcast1_time_end>10:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
     <broadcast2_time_start>R2 (01-06-2025) 08:30</broadcast2_time_start>
     <broadcast2_time_end>10:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
