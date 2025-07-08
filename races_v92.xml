@@ -1680,13 +1680,13 @@
     <circuit_info>Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin</circuit_info>
     <country>Germany</country>
     <race_date>12-07-2025</race_date>
-    <race_time>15:00</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
-    <broadcast1_time_start>R1 (12-07-2025) 14:30</broadcast1_time_start>
-    <broadcast1_time_end>16:00</broadcast1_time_end>
-    <broadcast2_channel>#Eurosport</broadcast2_channel>
-    <broadcast2_time_start>R2 (13-07-2025) 14:30</broadcast2_time_start>
-    <broadcast2_time_end>16:00</broadcast2_time_end>
+    <race_time>16:00</race_time>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
+    <broadcast1_time_start>R1 (12-07-2025) 15:30</broadcast1_time_start>
+    <broadcast1_time_end>17:00</broadcast1_time_end>
+    <broadcast2_channel>Eurosport</broadcast2_channel>
+    <broadcast2_time_start>R2 (13-07-2025) 16:30</broadcast2_time_start>
+    <broadcast2_time_end>17:00</broadcast2_time_end>
     <broadcast3_channel>Timing</broadcast3_channel>
     <broadcast3_time_start>https://www.fiaformulae.com/en/results/live-timing</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
@@ -1715,7 +1715,7 @@
     <country>Brazil</country>
     <race_date>13-07-2025</race_date>
     <race_time>16:30</race_time>
-    <broadcast1_channel>#Eurosport</broadcast1_channel>
+    <broadcast1_channel>Eurosport</broadcast1_channel>
     <broadcast1_time_start>16:00</broadcast1_time_start>
     <broadcast1_time_end>23:00</broadcast1_time_end>
     <broadcast2_channel>-</broadcast2_channel>
