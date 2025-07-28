@@ -1903,6 +1903,23 @@
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
+<race>
+    <series>Other IMSA</series>
+    <circuit>Road America</circuit>
+    <circuit_info>Road America</circuit_info>
+    <country>USA</country>
+    <race_date>03-08-2025</race_date>
+    <race_time>21:10</race_time>
+    <broadcast1_channel>-</broadcast1_channel>
+    <broadcast1_time_start>-</broadcast1_time_start>
+    <broadcast1_time_end>-</broadcast1_time_end>
+    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
+    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
+    <broadcast2_time_end>-</broadcast2_time_end>
+    <broadcast3_channel>Timing</broadcast3_channel>
+    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
+    <broadcast3_time_end>-</broadcast3_time_end>
+<!-- /race -->
 
 <race>
     <series>DTM</series>
@@ -2663,24 +2680,6 @@
     <broadcast2_time_end>-</broadcast2_time_end>
     <broadcast3_channel>Timing (Free Account)</broadcast3_channel>
     <broadcast3_time_start>https://www.formula1.com/en/f1-live.html</broadcast3_time_start>
-    <broadcast3_time_end>-</broadcast3_time_end>
-<!-- /race -->
-
-<race>
-    <series>Other IMSA</series>
-    <circuit>Road America</circuit>
-    <circuit_info>Road America</circuit_info>
-    <country>USA</country>
-    <race_date>11-10-2025</race_date>
-    <race_time>18:40</race_time>
-    <broadcast1_channel>-</broadcast1_channel>
-    <broadcast1_time_start>-</broadcast1_time_start>
-    <broadcast1_time_end>-</broadcast1_time_end>
-    <broadcast2_channel>Internet (IMSA.tv)</broadcast2_channel>
-    <broadcast2_time_start>http://imsatv.imsa.com</broadcast2_time_start>
-    <broadcast2_time_end>-</broadcast2_time_end>
-    <broadcast3_channel>Timing</broadcast3_channel>
-    <broadcast3_time_start>https://scoring.imsa.com</broadcast3_time_start>
     <broadcast3_time_end>-</broadcast3_time_end>
 <!-- /race -->
 
