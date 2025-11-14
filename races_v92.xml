@@ -2899,11 +2899,11 @@
 <!-- /race -->
 
 <race>
-    <series>$Other FIA F3 World Cup</series>
+    <series>Other FIA FR World Cup</series>
     <circuit>Macau</circuit>
     <circuit_info>-</circuit_info>
     <country>Macau</country>
-    <race_date>19-11-2025</race_date>
+    <race_date>16-11-2025</race_date>
     <race_time>08:30</race_time>
     <broadcast1_channel>-</broadcast1_channel>
     <broadcast1_time_start>-</broadcast1_time_start>
